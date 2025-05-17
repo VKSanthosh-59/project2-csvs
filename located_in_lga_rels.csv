@@ -1,0 +1,10491 @@
+from,to
+1,Wagga Wagga
+2,Hawkesbury
+3,Northern Midlands
+4,Armidale
+5,Lockyer Valley
+6,Wakefield
+7,Southern Downs
+8,Brighton
+9,West Tamar
+10,Mid Murray
+11,Blue Mountains
+12,Upper Lachlan
+13,Wattle Range
+14,Cairns
+15,Wollongong
+16,Penrith
+17,Upper Hunter
+18,South Burnett
+19,Mid-Western
+20,Canterbury-Bankstown
+21,Greater Hume
+22,Southern Downs
+23,Barossa
+24,Wattle Range
+25,Wattle Range
+26,Port Macquarie-Hastings
+27,Mackay
+28,Mackay
+29,Douglas
+30,Yankalilla
+31,Logan
+32,Dorset
+33,Armidale
+34,Armidale
+35,Nambucca Valley
+36,Narromine
+37,Fraser Coast
+38,Unincorporated SA
+39,Shellharbour
+40,Wollongong
+41,Narrabri
+42,Logan
+43,Barossa
+44,Nambucca Valley
+45,Cook
+46,Cook
+47,Tenterfield
+48,Central Coast (NSW)
+49,Tamworth
+50,Hilltops
+51,Forbes
+52,Forbes
+53,Toowoomba
+54,Toowoomba
+55,Lake Macquarie
+56,Livingstone
+57,Blacktown
+58,Cairns
+59,Balranald
+60,Lockhart River
+61,Light
+62,Cassowary Coast
+63,Tumby Bay
+64,Liverpool
+65,Cumberland
+66,Muswellbrook
+67,Cassowary Coast
+68,Moreton Bay
+69,Ballina
+70,Logan
+71,Kyogle
+72,Bundaberg
+73,Tenterfield
+74,Melbourne
+75,Brisbane
+76,Snowy Valleys
+77,Tamworth
+78,Whitsunday
+79,Fairfield
+80,Yass Valley
+81,Central Highlands (Qld)
+82,Bundaberg
+83,The Hills
+84,Cairns
+85,Salisbury
+86,Port Stephens
+87,Yankalilla
+88,Yankalilla
+89,Southern Downs
+90,Macedon Ranges
+91,Moyne
+92,Cardinia
+93,East Gippsland
+94,Ballina
+95,Hornsby
+96,Central Coast (NSW)
+97,Muswellbrook
+98,Whittlesea
+99,Macedon Ranges
+100,Mareeba
+101,Whittlesea
+102,Mid-Coast
+103,Rockhampton
+104,Mid-Coast
+105,Ipswich
+106,Ipswich
+107,Muswellbrook
+108,Muswellbrook
+109,Glenelg
+110,Bundaberg
+111,Douglas
+112,Western Downs
+113,Port Adelaide Enfield
+114,Brisbane
+115,Cabonne
+116,Gold Coast
+117,Unincorporated ACT
+118,Frankston
+119,Moree Plains
+120,Moree Plains
+121,Parramatta
+122,Meander Valley
+123,Queanbeyan-Palerang
+124,Snowy Monaro
+125,Bundaberg
+126,Wollongong
+127,Barossa
+128,Federation
+129,Toowoomba
+130,Brisbane
+131,Blacktown
+132,Southern Downs
+133,Southern Downs
+134,Cowra
+135,Goulburn Mulwaree
+136,The Hills
+137,Moreton Bay
+138,Gympie
+139,Willoughby
+140,Shoalhaven
+141,Queanbeyan-Palerang
+142,Greater Bendigo
+143,Nillumbik
+144,Western Downs
+145,Rockhampton
+146,Wollongong
+147,South Burnett
+148,South Burnett
+149,Tatiara
+150,Tweed
+151,Mid-Coast
+152,Ipswich
+153,Ararat
+154,Hawkesbury
+155,Light
+156,Salisbury
+157,Cairns
+158,Colac Otway
+159,McKinlay
+160,Singleton
+161,Gladstone
+162,Gladstone
+163,Wagga Wagga
+164,Lithgow
+165,Moree Plains
+166,Campbelltown (NSW)
+167,Moyne
+168,Moyne
+169,Macedon Ranges
+170,Cairns
+171,Sunshine Coast
+172,Warrumbungle
+173,Whitsunday
+174,Upper Hunter
+175,Noosa
+176,Port Stephens
+177,West Tamar
+178,Unincorporated ACT
+179,Gawler
+180,Mid-Coast
+181,Mid-Coast
+182,Alpine
+183,Central Coast (NSW)
+184,Cabonne
+185,Blacktown
+186,Brisbane
+187,Baw Baw
+188,Isaac
+189,Sunshine Coast
+190,Brisbane
+191,Maranoa
+192,Southern Grampians
+193,Moreton Bay
+194,Cessnock
+195,Scenic Rim
+196,Somerset
+197,Hinchinbrook
+198,Blue Mountains
+199,Scenic Rim
+200,Wollongong
+201,Mackay
+202,Playford
+203,Cobar
+204,South Burnett
+205,Ararat
+206,Somerset
+207,Campbelltown (NSW)
+208,Adelaide Hills
+209,Bega Valley
+210,Tea Tree Gully
+211,Moreton Bay
+212,Moreton Bay
+213,Wattle Range
+214,Wattle Range
+215,Kiama
+216,Moreton Bay
+217,Moyne
+218,Wollondilly
+219,Mid-Coast
+220,Scenic Rim
+221,Casey
+222,Gladstone
+223,Northern Areas
+224,Tablelands
+225,Sydney
+226,Sydney
+227,Murrindindi
+228,Wollongong
+229,Port Adelaide Enfield
+230,Albury
+231,Gold Coast
+232,Boroondara
+233,Redland
+234,Unincorporated ACT
+235,Playford
+236,Penrith
+237,South Gippsland
+238,Hinchinbrook
+239,Boroondara
+240,Fraser Coast
+241,Yarra Ranges
+242,Colac Otway
+243,Bega Valley
+244,Surf Coast
+245,Mount Barker
+246,Brisbane
+247,Bundaberg
+248,Gold Coast
+249,Cessnock
+250,Maitland
+251,Federation
+252,Hobart
+253,Mitcham
+254,Clarence Valley
+255,Adelaide
+256,Penrith
+257,Brisbane
+258,Brisbane
+259,Moreton Bay
+260,Central Coast (NSW)
+261,Wollongong
+262,Central Coast (NSW)
+263,Lismore
+264,Narromine
+265,Narromine
+266,Narromine
+267,Narromine
+268,Greater Shepparton
+269,Merri-bek
+270,Narrandera
+271,Logan
+272,Huon Valley
+273,Cessnock
+274,Griffith
+275,Wodonga
+276,Sunshine Coast
+277,Sunshine Coast
+278,Mid-Coast
+279,Darebin
+280,Murrindindi
+281,Ballarat
+282,Wingecarribee
+283,Cardinia
+284,Rockhampton
+285,Maroondah
+286,Albury
+287,Tweed
+288,North Burnett
+289,Moree Plains
+290,Moree Plains
+291,Huon Valley
+292,Mornington Peninsula
+293,Fairfield
+294,Unley
+295,Alexandrina
+296,Yarra Ranges
+297,Whitsunday
+298,Gympie
+299,Melton
+300,Frankston
+301,Burdekin
+302,Brisbane
+303,Knox
+304,Mid-Coast
+305,Whittlesea
+306,Mareeba
+307,Western Downs
+308,Yarra Ranges
+309,Monash
+310,Unincorporated NSW
+311,South Burnett
+312,Blacktown
+313,Western Downs
+314,Cumberland
+315,Barcaldine
+316,Wyndham
+317,Glen Innes Severn
+318,Lismore
+319,Ballina
+320,Yarra Ranges
+321,Yarra Ranges
+322,Northern Beaches
+323,Northern Beaches
+324,Townsville
+325,Gladstone
+326,Livingstone
+327,Greater Shepparton
+328,Yarra Ranges
+329,Golden Plains
+330,Cassowary Coast
+331,Cassowary Coast
+332,Cook
+333,Ipswich
+334,Clarence
+335,Georges River
+336,Lithgow
+337,Logan
+338,Wollongong
+339,Maitland
+340,Greater Hume
+341,Western Downs
+342,Kingston (Vic.)
+343,Manningham
+344,Sunshine Coast
+345,Bathurst
+346,Wudinna
+347,Inverell
+348,Brimbank
+349,Maitland
+350,Darebin
+351,Penrith
+352,Charles Sturt
+353,Flinders (Tas.)
+354,Mid-Coast
+355,Mid-Coast
+356,Scenic Rim
+357,Burnie
+358,Mornington Peninsula
+359,Armidale
+360,Tamworth
+361,Greater Shepparton
+362,Greater Shepparton
+363,Ballarat
+364,Dubbo
+365,Sunshine Coast
+366,Melton
+367,Gold Coast
+368,Darebin
+369,Ipswich
+370,Greater Geelong
+371,Adelaide Hills
+372,Cardinia
+373,Whitsunday
+374,Whitsunday
+375,Whitsunday
+376,Mitchell
+377,North Burnett
+378,Wyndham
+379,Mackay
+380,Onkaparinga
+381,Stonnington
+382,Douglas
+383,Unincorporated SA
+384,Launceston
+385,Gladstone
+386,Indigo
+387,Yarra
+388,Canterbury-Bankstown
+389,Wakefield
+390,Port Phillip
+391,Cardinia
+392,Yankalilla
+393,Logan
+394,Frankston
+395,Cassowary Coast
+396,Scenic Rim
+397,Gladstone
+398,Yankalilla
+399,Rockhampton
+400,Light
+401,Mackay
+402,Waratah-Wynyard
+403,Waratah-Wynyard
+404,Campaspe
+405,Campaspe
+406,Logan
+407,Wollongong
+408,Barkly
+409,Port Stephens
+410,Port Stephens
+411,Blacktown
+412,Inverell
+413,Clarence
+414,Forbes
+415,Blayney
+416,Campbelltown (SA)
+417,Gold Coast
+418,Latrobe (Vic.)
+419,Lithgow
+420,Surf Coast
+421,Surf Coast
+422,Moree Plains
+423,Moree Plains
+424,Palmerston
+425,Gunnedah
+426,Townsville
+427,Break O'Day
+428,Break O'Day
+429,Buloke
+430,Scenic Rim
+431,Bundaberg
+432,Bundaberg
+433,West Wimmera
+434,Lake Macquarie
+435,Ku-ring-gai
+436,Snowy Monaro
+437,Hobart
+438,Shoalhaven
+439,Greater Bendigo
+440,Baw Baw
+441,Warrnambool
+442,Monash
+443,Goulburn Mulwaree
+444,Goulburn Mulwaree
+445,Goulburn Mulwaree
+446,Scenic Rim
+447,Berrigan
+448,Berrigan
+449,Warren
+450,Sunshine Coast
+451,Cook
+452,Mid-Western
+453,Brisbane
+454,Whitsunday
+455,Gold Coast
+456,Salisbury
+457,Clarence Valley
+458,Moira
+459,Moira
+460,Fraser Coast
+461,Brisbane
+462,Berri Barmera
+463,Moreton Bay
+464,Alexandrina
+465,Narrandera
+466,Glenelg
+467,Moonee Valley
+468,Toowoomba
+469,Mid-Coast
+470,Whittlesea
+471,Litchfield
+472,Sunshine Coast
+473,Narrabri
+474,Glen Innes Severn
+475,Wingecarribee
+476,Greater Dandenong
+477,Boroondara
+478,Fraser Coast
+479,Golden Plains
+480,Cassowary Coast
+481,Cassowary Coast
+482,Melton
+483,Central Coast (NSW)
+484,Whittlesea
+485,Toowoomba
+486,Tenterfield
+487,Brisbane
+488,Hilltops
+489,Goulburn Mulwaree
+490,Indigo
+491,Indigo
+492,Northern Beaches
+493,Moyne
+494,Campaspe
+495,Brimbank
+496,Greater Shepparton
+497,Moreton Bay
+498,Moreton Bay
+499,Toowoomba
+500,Moonee Valley
+501,Onkaparinga
+502,Inner West
+503,Cessnock
+504,Central Coast (NSW)
+505,Casey
+506,Greater Dandenong
+507,Brisbane
+508,Brisbane
+509,Salisbury
+510,Warrumbungle
+511,Whyalla
+512,Western Downs
+513,Western Downs
+514,Western Downs
+515,Yarra Ranges
+516,Rockhampton
+517,Moonee Valley
+518,Unincorporated SA
+519,Port Stephens
+520,Shoalhaven
+521,Narromine
+522,Clarence Valley
+523,Cook
+524,Gladstone
+525,Noosa
+526,Mount Isa
+527,Mount Isa
+528,Brisbane
+529,Kingston (Vic.)
+530,Toowoomba
+531,Canterbury-Bankstown
+532,Maroondah
+533,Whitsunday
+534,Whitsunday
+535,Whitsunday
+536,Lake Macquarie
+537,Tweed
+538,Toowoomba
+539,Maribyrnong
+540,Unincorporated SA
+541,Marion
+542,Darebin
+543,Unincorporated SA
+544,Logan
+545,Blacktown
+546,Blacktown
+547,Dubbo
+548,Moreton Bay
+549,Lake Macquarie
+550,Gold Coast
+551,Gold Coast
+552,Northern Beaches
+553,Mildura
+554,Mildura
+555,Brisbane
+556,Gold Coast
+557,Hornsby
+558,Gladstone
+559,Clarence Valley
+560,Unincorporated ACT
+561,Adelaide Hills
+562,Yarra
+563,Lake Macquarie
+564,Monash
+565,Mansfield
+566,Charters Towers
+567,Warrnambool
+568,Cumberland
+569,The Hills
+570,Fairfield
+571,Kingston (Vic.)
+572,Cairns
+573,Richmond Valley
+574,Toowoomba
+575,Light
+576,Light
+577,Parramatta
+578,Ballarat
+579,Sutherland
+580,Mid-Western
+581,Mackay
+582,Hume
+583,Newcastle
+584,Ipswich
+585,Glen Eira
+586,Greater Dandenong
+587,Alexandrina
+588,Monash
+589,Ipswich
+590,Fraser Coast
+591,Sunshine Coast
+592,Cabonne
+593,Nillumbik
+594,Yarriambiack
+595,Greater Bendigo
+596,Canterbury-Bankstown
+597,Canterbury-Bankstown
+598,Clarence Valley
+599,Clarence Valley
+600,Wollongong
+601,South Burnett
+602,South Burnett
+603,South Burnett
+604,Latrobe (Vic.)
+605,Moreton Bay
+606,West Wimmera
+607,Greater Hume
+608,Frankston
+609,Fairfield
+610,Brisbane
+611,Southern Downs
+612,Ku-ring-gai
+613,Casey
+614,Casey
+615,Pyrenees
+616,Unincorporated NSW
+617,Wollongong
+618,Brisbane
+619,Latrobe (Vic.)
+620,Break O'Day
+621,Onkaparinga
+622,Canterbury-Bankstown
+623,Strathfield
+624,Strathfield
+625,Bayside (NSW)
+626,Coffs Harbour
+627,Lake Macquarie
+628,Coffs Harbour
+629,Cardinia
+630,Lake Macquarie
+631,Bundaberg
+632,South Burnett
+633,Brimbank
+634,Brisbane
+635,Brisbane
+636,Frankston
+637,Mid Murray
+638,Murrindindi
+639,Murray Bridge
+640,Tweed
+641,Murray River
+642,Yarra Ranges
+643,Monash
+644,Macedon Ranges
+645,Cairns
+646,Penrith
+647,Casey
+648,Greater Shepparton
+649,Camden
+650,Whittlesea
+651,Mid-Western
+652,Glenorchy
+653,Greater Shepparton
+654,Georges River
+655,Brisbane
+656,Brisbane
+657,Brisbane
+658,Hornsby
+659,Hornsby
+660,Meander Valley
+661,Adelaide Hills
+662,Scenic Rim
+663,Randwick
+664,Bundaberg
+665,Strathfield
+666,Rockhampton
+667,Forbes
+668,Richmond Valley
+669,Forbes
+670,Hunters Hill
+671,Berri Barmera
+672,Wangaratta
+673,Parkes
+674,Goulburn Mulwaree
+675,Gunnedah
+676,Gold Coast
+677,Dubbo
+678,Brisbane
+679,Gympie
+680,Byron
+681,Greater Bendigo
+682,Greater Bendigo
+683,Tamworth
+684,Lake Macquarie
+685,Cabonne
+686,Tablelands
+687,Bundaberg
+688,Kingston (Vic.)
+689,Lismore
+690,Southern Downs
+691,Rockhampton
+692,Mansfield
+693,Unincorporated ACT
+694,Moorabool
+695,Isaac
+696,Brisbane
+697,Bathurst
+698,Randwick
+699,Sunshine Coast
+700,Inverell
+701,Western Downs
+702,Western Downs
+703,Unincorporated SA
+704,Unincorporated SA
+705,Unincorporated SA
+706,Mitchell
+707,Benalla
+708,Tamworth
+709,Upper Hunter
+710,Bellingen
+711,Bellingen
+712,Break O'Day
+713,Mildura
+714,Mansfield
+715,Moyne
+716,Blacktown
+717,Willoughby
+718,Willoughby
+719,Wellington
+720,Albury
+721,Greater Dandenong
+722,Burdekin
+723,Unincorporated SA
+724,Central Coast (NSW)
+725,Townsville
+726,Gold Coast
+727,The Hills
+728,Georges River
+729,Georges River
+730,Unincorporated ACT
+731,Edward River
+732,Coorong
+733,Redland
+734,Barossa
+735,Gladstone
+736,Logan
+737,George Town
+738,Mitchell
+739,Port Adelaide Enfield
+740,Richmond Valley
+741,Ryde
+742,Bass Coast
+743,Yass Valley
+744,Wellington
+745,Richmond
+746,Baw Baw
+747,Northern Midlands
+748,Coffs Harbour
+749,Shoalhaven
+750,Brisbane
+751,Strathbogie
+752,Moorabool
+753,Latrobe (Vic.)
+754,Hay
+755,Fraser Coast
+756,Fraser Coast
+757,Fraser Coast
+758,Baw Baw
+759,Gold Coast
+760,Penrith
+761,Dorset
+762,Weddin
+763,Mount Barker
+764,Moorabool
+765,Knox
+766,Rockhampton
+767,Buloke
+768,Greater Shepparton
+769,Snowy Monaro
+770,Moira
+771,Warrumbungle
+772,Lockyer Valley
+773,Brisbane
+774,Gold Coast
+775,Surf Coast
+776,Lachlan
+777,Waverley
+778,Unincorporated SA
+779,Northern Grampians
+780,Mid-Coast
+781,Gunnedah
+782,Campaspe
+783,Wattle Range
+784,Wattle Range
+785,Casey
+786,Glen Eira
+787,Singleton
+788,Fraser Coast
+789,Melton
+790,Moreton Bay
+791,Brisbane
+792,Brisbane
+793,Logan
+794,Indigo
+795,Charters Towers
+796,Mareeba
+797,Horsham
+798,Port Macquarie-Hastings
+799,Randwick
+800,Lockyer Valley
+801,Casey
+802,Gold Coast
+803,Adelaide Plains
+804,Stonnington
+805,Stonnington
+806,Armidale
+807,Campbelltown (NSW)
+808,Campaspe
+809,Cowra
+810,Mount Remarkable
+811,Wyndham
+812,Surf Coast
+813,Colac Otway
+814,Gilgandra
+815,Fairfield
+816,Brisbane
+817,Isaac
+818,Brisbane
+819,Unincorporated ACT
+820,Merri-bek
+821,Macedon Ranges
+822,Liverpool
+823,Adelaide Plains
+824,Adelaide Plains
+825,Alexandrina
+826,Ipswich
+827,Cessnock
+828,Berri Barmera
+829,Fraser Coast
+830,Wollongong
+831,Wollongong
+832,Wangaratta
+833,Wodonga
+834,Greater Dandenong
+835,Murrindindi
+836,Wattle Range
+837,Indigo
+838,Greater Dandenong
+839,Goondiwindi
+840,Tweed
+841,Rockhampton
+842,South Burnett
+843,Wellington
+844,Mackay
+845,Adelaide
+846,Northern Beaches
+847,Logan
+848,Mitchell
+849,Cassowary Coast
+850,Cassowary Coast
+851,Clare and Gilbert Valleys
+852,Ballina
+853,Ballina
+854,Ballina
+855,Ballina
+856,Hume
+857,Burdekin
+858,Brisbane
+859,East Gippsland
+860,Moreton Bay
+861,West Torrens
+862,Warrumbungle
+863,Yarriambiack
+864,Cardinia
+865,Armidale
+866,Armidale
+867,Armidale
+868,Glen Eira
+869,Wyndham
+870,Douglas
+871,Snowy Valleys
+872,Rockhampton
+873,Hilltops
+874,Ipswich
+875,Sunshine Coast
+876,Glen Eira
+877,Macedon Ranges
+878,Gold Coast
+879,Inverell
+880,Brisbane
+881,Mitchell
+882,Whitehorse
+883,Cloncurry
+884,Tea Tree Gully
+885,Brisbane
+886,Mackay
+887,Hawkesbury
+888,Dubbo
+889,Yass Valley
+890,Bundaberg
+891,Logan
+892,Greater Dandenong
+893,Scenic Rim
+894,Melton
+895,Central Coast (NSW)
+896,Barossa
+897,Brisbane
+898,Narrabri
+899,South Gippsland
+900,Ryde
+901,Hilltops
+902,Cassowary Coast
+903,Tea Tree Gully
+904,Tenterfield
+905,Western Downs
+906,Isaac
+907,Cowra
+908,Penrith
+909,Kiama
+910,Brisbane
+911,Central Coast (NSW)
+912,Yarra Ranges
+913,Canterbury-Bankstown
+914,Parramatta
+915,Coffs Harbour
+916,Redland
+917,Brisbane
+918,Moreton Bay
+919,Liverpool
+920,Wollongong
+921,Cowra
+922,Maroondah
+923,Goondiwindi
+924,Hay
+925,Hay
+926,Boroondara
+927,Hawkesbury
+928,Hawkesbury
+929,Sorell
+930,Mid-Coast
+931,Towong
+932,Wellington
+933,Brighton
+934,Grant
+935,Baw Baw
+936,Light
+937,Port Phillip
+938,Gladstone
+939,Campaspe
+940,Campaspe
+941,Cassowary Coast
+942,North Burnett
+943,Hepburn
+944,Central Highlands (Qld)
+945,Shellharbour
+946,Hepburn
+947,Fairfield
+948,Ryde
+949,Brisbane
+950,Knox
+951,Knox
+952,Murray River
+953,Murray River
+954,Ipswich
+955,Logan
+956,Playford
+957,Toowoomba
+958,Clarence Valley
+959,Hume
+960,Hume
+961,Clarence Valley
+962,Ararat
+963,Wollondilly
+964,Mornington Peninsula
+965,Charters Towers
+966,Cessnock
+967,Blayney
+968,Gold Coast
+969,Hilltops
+970,Moreton Bay
+971,Kingston (Vic.)
+972,Sydney
+973,Mackay
+974,Gilgandra
+975,Somerset
+976,Wollongong
+977,Shoalhaven
+978,Golden Plains
+979,Central Coast (NSW)
+980,Salisbury
+981,Yarra
+982,Unincorporated ACT
+983,Salisbury
+984,Playford
+985,Lockyer Valley
+986,Waratah-Wynyard
+987,Southern Downs
+988,Circular Head
+989,Lithgow
+990,Lithgow
+991,Lithgow
+992,Moree Plains
+993,Casey
+994,Burdekin
+995,Liverpool
+996,Swan Hill
+997,Swan Hill
+998,Gladstone
+999,Murrumbidgee
+1000,Towong
+1001,Wingecarribee
+1002,Blacktown
+1003,Greater Geelong
+1004,Mildura
+1005,Scenic Rim
+1006,Clare and Gilbert Valleys
+1007,Greater Bendigo
+1008,Light
+1009,Greater Geelong
+1010,Wyndham
+1011,Brisbane
+1012,Maitland
+1013,Upper Lachlan
+1014,Wagga Wagga
+1015,Wagga Wagga
+1016,Orange
+1017,Shoalhaven
+1018,Toowoomba
+1019,Muswellbrook
+1020,Moreton Bay
+1021,Moreton Bay
+1022,Launceston
+1023,Kingston (Vic.)
+1024,Yarra Ranges
+1025,Gold Coast
+1026,Cowra
+1027,Walkerville
+1028,Richmond Valley
+1029,Richmond Valley
+1030,Bayside (NSW)
+1031,Cowra
+1032,Sutherland
+1033,Moreton Bay
+1034,Whitehorse
+1035,Unincorporated SA
+1036,Unincorporated SA
+1037,Greater Dandenong
+1038,Central Coast (NSW)
+1039,Whittlesea
+1040,Strathbogie
+1041,Yankalilla
+1042,Monash
+1043,Adelaide
+1044,Fairfield
+1045,Southern Downs
+1046,Gympie
+1047,Wentworth
+1048,Knox
+1049,Tasman
+1050,Mid Murray
+1051,Casey
+1052,Latrobe (Tas.)
+1053,Rockhampton
+1054,Sunshine Coast
+1055,Manningham
+1056,Ipswich
+1057,Inverell
+1058,Gympie
+1059,Port Augusta
+1060,Benalla
+1061,Liverpool Plains
+1062,Federation
+1063,Yarra Ranges
+1064,Sunshine Coast
+1065,Mornington Peninsula
+1066,Brisbane
+1067,Hinchinbrook
+1068,Bundaberg
+1069,Gunnedah
+1070,Gunnedah
+1071,Gunnedah
+1072,Unley
+1073,Snowy Valleys
+1074,Unincorporated ACT
+1075,Balranald
+1076,Gladstone
+1077,Banana
+1078,Mount Barker
+1079,Inner West
+1080,Port Macquarie-Hastings
+1081,Lake Macquarie
+1082,Salisbury
+1083,Mid-Western
+1084,Eurobodalla
+1085,Sutherland
+1086,Alexandrina
+1087,Palmerston
+1088,Sunshine Coast
+1089,Townsville
+1090,Liverpool
+1091,Liverpool
+1092,Isaac
+1093,Barunga West
+1094,Liverpool
+1095,Tamworth
+1096,West Coast
+1097,Townsville
+1098,Tablelands
+1099,Rockhampton
+1100,Tenterfield
+1101,Tenterfield
+1102,Yass Valley
+1103,Tatiara
+1104,Tatiara
+1105,Port Macquarie-Hastings
+1106,Canterbury-Bankstown
+1107,Tablelands
+1108,Moreton Bay
+1109,Snowy Monaro
+1110,Port Adelaide Enfield
+1111,Snowy Valleys
+1112,Noosa
+1113,Adelaide Hills
+1114,Fraser Coast
+1115,Playford
+1116,Hawkesbury
+1117,Narrandera
+1118,West Torrens
+1119,Singleton
+1120,Etheridge
+1121,Richmond Valley
+1122,Liverpool
+1123,Bland
+1124,Blacktown
+1125,Bland
+1126,Isaac
+1127,Georges River
+1128,Gold Coast
+1129,Brisbane
+1130,Wingecarribee
+1131,Fraser Coast
+1132,Etheridge
+1133,Forbes
+1134,Port Adelaide Enfield
+1135,Oberon
+1136,Murrumbidgee
+1137,Maranoa
+1138,Mackay
+1139,Cook
+1140,Cook
+1141,Wollongong
+1142,Bathurst
+1143,Singleton
+1144,Nillumbik
+1145,Greater Dandenong
+1146,Greater Shepparton
+1147,Glenelg
+1148,Sutherland
+1149,Corangamite
+1150,Mid-Coast
+1151,Tweed
+1152,Upper Lachlan
+1153,Brisbane
+1154,Townsville
+1155,Cobar
+1156,Mid-Western
+1157,Casey
+1158,Central Coast (NSW)
+1159,Bass Coast
+1160,Hobart
+1161,Yarra Ranges
+1162,Wollongong
+1163,Warrumbungle
+1164,Northern Beaches
+1165,Gympie
+1166,Yorke Peninsula
+1167,Derwent Valley
+1168,Scenic Rim
+1169,Surf Coast
+1170,Litchfield
+1171,Moorabool
+1172,Gympie
+1173,Bundaberg
+1174,Mackay
+1175,Bundaberg
+1176,Gold Coast
+1177,Moreton Bay
+1178,Mornington Peninsula
+1179,Frankston
+1180,Townsville
+1181,Mansfield
+1182,Sydney
+1183,Casey
+1184,Waratah-Wynyard
+1185,Hornsby
+1186,Moreton Bay
+1187,Central Coast (NSW)
+1188,Bundaberg
+1189,Logan
+1190,Wingecarribee
+1191,Blacktown
+1192,Mid-Coast
+1193,Launceston
+1194,Hume
+1195,Latrobe (Vic.)
+1196,Litchfield
+1197,Litchfield
+1198,Hepburn
+1199,Port Pirie
+1200,Cardinia
+1201,Bass Coast
+1202,Muswellbrook
+1203,Parramatta
+1204,Parramatta
+1205,Hornsby
+1206,Circular Head
+1207,Wakefield
+1208,Wakefield
+1209,Wakefield
+1210,Greater Geelong
+1211,Onkaparinga
+1212,Adelaide Hills
+1213,Wyndham
+1214,Northern Beaches
+1215,Upper Lachlan
+1216,Wollondilly
+1217,Hawkesbury
+1218,Fraser Coast
+1219,Alexandrina
+1220,Frankston
+1221,Fraser Coast
+1222,Moreton Bay
+1223,Sunshine Coast
+1224,Port Adelaide Enfield
+1225,Casey
+1226,Fairfield
+1227,Toowoomba
+1228,Glenelg
+1229,Maranoa
+1230,Douglas
+1231,Brisbane
+1232,Devonport
+1233,Campaspe
+1234,Randwick
+1235,Randwick
+1236,Mornington Peninsula
+1237,Wingecarribee
+1238,Wingecarribee
+1239,Liverpool
+1240,Liverpool
+1241,Waverley
+1242,Wollondilly
+1243,Flinders (Qld)
+1244,Livingstone
+1245,Upper Hunter
+1246,Berri Barmera
+1247,Onkaparinga
+1248,Brisbane
+1249,Adelaide Hills
+1250,Murrumbidgee
+1251,Burwood
+1252,Goulburn Mulwaree
+1253,Banana
+1254,Alice Springs
+1255,Murray River
+1256,Mitchell
+1257,Nambucca Valley
+1258,Moira
+1259,South Burnett
+1260,Moreton Bay
+1261,Somerset
+1262,Dubbo
+1263,Moonee Valley
+1264,Mackay
+1265,Victoria Daly
+1266,Victoria Daly
+1267,Fraser Coast
+1268,Brisbane
+1269,Manningham
+1270,Adelaide Hills
+1271,Lachlan
+1272,Inverell
+1273,Gwydir
+1274,Port Adelaide Enfield
+1275,Fraser Coast
+1276,Gympie
+1277,Greater Shepparton
+1278,Gold Coast
+1279,Bass Coast
+1280,Macedon Ranges
+1281,Central Coast (NSW)
+1282,Isaac
+1283,Inverell
+1284,Cardinia
+1285,Southern Downs
+1286,Moorabool
+1287,Coffs Harbour
+1288,Sunshine Coast
+1289,Ipswich
+1290,Melton
+1291,Melton
+1292,Bayside (NSW)
+1293,Canterbury-Bankstown
+1294,Manningham
+1295,Unincorporated SA
+1296,Snowy Valleys
+1297,Salisbury
+1298,Adelaide Plains
+1299,Banyule
+1300,Yarra Ranges
+1301,Greater Bendigo
+1302,Cloncurry
+1303,Cloncurry
+1304,Latrobe (Vic.)
+1305,Blacktown
+1306,Lithgow
+1307,Gold Coast
+1308,Greater Hume
+1309,Adelaide Hills
+1310,Charles Sturt
+1311,Maroondah
+1312,Federation
+1313,Federation
+1314,South Burnett
+1315,Eurobodalla
+1316,McKinlay
+1317,Wyndham
+1318,Greater Shepparton
+1319,Strathbogie
+1320,South Burnett
+1321,Canterbury-Bankstown
+1322,Murrindindi
+1323,Brisbane
+1324,Greater Geelong
+1325,Wagga Wagga
+1326,Lockyer Valley
+1327,Mid-Coast
+1328,Toowoomba
+1329,Lithgow
+1330,Sunshine Coast
+1331,Latrobe (Vic.)
+1332,Coonamble
+1333,Canterbury-Bankstown
+1334,Mornington Peninsula
+1335,Benalla
+1336,Bayside (NSW)
+1337,Bayside (NSW)
+1338,Hornsby
+1339,Campbelltown (NSW)
+1340,Launceston
+1341,Richmond Valley
+1342,Shoalhaven
+1343,Lockyer Valley
+1344,Burdekin
+1345,Sunshine Coast
+1346,Nambucca Valley
+1347,Moyne
+1348,Kempsey
+1349,Carrathool
+1350,Gold Coast
+1351,Bundaberg
+1352,Barcoo
+1353,Bathurst
+1354,Brisbane
+1355,Scenic Rim
+1356,Ballarat
+1357,Campbelltown (NSW)
+1358,Parramatta
+1359,Richmond Valley
+1360,Wollondilly
+1361,Ballina
+1362,Circular Head
+1363,Mareeba
+1364,Isaac
+1365,Southern Downs
+1366,Wattle Range
+1367,Latrobe (Vic.)
+1368,Whitsunday
+1369,Brimbank
+1370,Mid Murray
+1371,Gladstone
+1372,Baw Baw
+1373,Gympie
+1374,Dubbo
+1375,Port Adelaide Enfield
+1376,Eurobodalla
+1377,Indigo
+1378,Indigo
+1379,Indigo
+1380,Indigo
+1381,Burdekin
+1382,Yarra Ranges
+1383,Palmerston
+1384,Hobsons Bay
+1385,Hobsons Bay
+1386,Whitsunday
+1387,Temora
+1388,Latrobe (Tas.)
+1389,Moira
+1390,Nillumbik
+1391,Toowoomba
+1392,Townsville
+1393,Central Coast (NSW)
+1394,Tatiara
+1395,Wyndham
+1396,Central Highlands (Qld)
+1397,Central Highlands (Qld)
+1398,Douglas
+1399,Yarra
+1400,Playford
+1401,Bayside (NSW)
+1402,North Burnett
+1403,Fairfield
+1404,Gold Coast
+1405,Liverpool Plains
+1406,Gold Coast
+1407,Dubbo
+1408,Monash
+1409,Greater Shepparton
+1410,Toowoomba
+1411,Noosa
+1412,Noosa
+1413,Noosa
+1414,Shoalhaven
+1415,Karoonda East Murray
+1416,Maranoa
+1417,Ipswich
+1418,Livingstone
+1419,Clarence Valley
+1420,Byron
+1421,Ipswich
+1422,Port Augusta
+1423,Fraser Coast
+1424,Lake Macquarie
+1425,Unincorporated Vic
+1426,Palmerston
+1427,Mid-Western
+1428,Isaac
+1429,Lake Macquarie
+1430,Eurobodalla
+1431,Fraser Coast
+1432,Gold Coast
+1433,Greater Shepparton
+1434,Greater Dandenong
+1435,Gannawarra
+1436,Marion
+1437,Onkaparinga
+1438,Scenic Rim
+1439,Stonnington
+1440,Banana
+1441,Greater Bendigo
+1442,Buloke
+1443,Moree Plains
+1444,Blue Mountains
+1445,Surf Coast
+1446,Adelaide Hills
+1447,Toowoomba
+1448,Hornsby
+1449,Griffith
+1450,Canterbury-Bankstown
+1451,Adelaide Hills
+1452,Unincorporated ACT
+1453,Lismore
+1454,Ceduna
+1455,Snowy Monaro
+1456,Central Coast (NSW)
+1457,Parramatta
+1458,Baw Baw
+1459,Moira
+1460,Gold Coast
+1461,Onkaparinga
+1462,Baw Baw
+1463,Ku-ring-gai
+1464,Cabonne
+1465,Northern Beaches
+1466,Murrumbidgee
+1467,Greater Geelong
+1468,Ipswich
+1469,Brisbane
+1470,Northern Grampians
+1471,Derwent Valley
+1472,Strathbogie
+1473,Brisbane
+1474,Tamworth
+1475,Wagga Wagga
+1476,Gunnedah
+1477,Casey
+1478,Grant
+1479,Lockyer Valley
+1480,Whitsunday
+1481,Moreton Bay
+1482,Boroondara
+1483,Hornsby
+1484,Mitcham
+1485,Mid-Western
+1486,Eurobodalla
+1487,Southern Downs
+1488,Sunshine Coast
+1489,Casey
+1490,Parramatta
+1491,Whitsunday
+1492,East Gippsland
+1493,Singleton
+1494,The Hills
+1495,Cassowary Coast
+1496,Gympie
+1497,Mitchell
+1498,Moyne
+1499,Ryde
+1500,Logan
+1501,Wangaratta
+1502,Shellharbour
+1503,Moreton Bay
+1504,Upper Lachlan
+1505,Swan Hill
+1506,Whitsunday
+1507,Wyndham
+1508,Mount Barker
+1509,Darwin
+1510,Launceston
+1511,Sutherland
+1512,Golden Plains
+1513,Townsville
+1514,Mitchell
+1515,Port Stephens
+1516,Western Downs
+1517,Frankston
+1518,Scenic Rim
+1519,Logan
+1520,Charters Towers
+1521,Livingstone
+1522,Melbourne
+1523,Moreton Bay
+1524,Darebin
+1525,Brisbane
+1526,Narromine
+1527,Golden Plains
+1528,Lake Macquarie
+1529,Brighton
+1530,Baw Baw
+1531,Moreton Bay
+1532,Central Desert
+1533,Gympie
+1534,Sydney
+1535,Ryde
+1536,Camden
+1537,Moreton Bay
+1538,Goulburn Mulwaree
+1539,Moree Plains
+1540,Monash
+1541,Willoughby
+1542,Cabonne
+1543,Ipswich
+1544,Sutherland
+1545,Toowoomba
+1546,Macedon Ranges
+1547,Latrobe (Tas.)
+1548,Cumberland
+1549,Sunshine Coast
+1550,Cessnock
+1551,Cessnock
+1552,Cessnock
+1553,Cessnock
+1554,Cessnock
+1555,Cessnock
+1556,Cessnock
+1557,Cessnock
+1558,Cessnock
+1559,Cessnock
+1560,Hume
+1561,Weddin
+1562,Ipswich
+1563,Logan
+1564,Brighton
+1565,Kempsey
+1566,Mitcham
+1567,Wyndham
+1568,Gold Coast
+1569,Wyndham
+1570,Forbes
+1571,Wingecarribee
+1572,Clarence Valley
+1573,Georges River
+1574,Mitcham
+1575,Toowoomba
+1576,Strathbogie
+1577,Eurobodalla
+1578,Shoalhaven
+1579,Casey
+1580,Lismore
+1581,Sunshine Coast
+1582,Toowoomba
+1583,Mackay
+1584,Murray Bridge
+1585,Sunshine Coast
+1586,Nambucca Valley
+1587,Logan
+1588,Unincorporated SA
+1589,Unincorporated SA
+1590,Mid-Western
+1591,Gympie
+1592,Coonamble
+1593,Mornington Peninsula
+1594,Coorong
+1595,Gladstone
+1596,Wagga Wagga
+1597,Goondiwindi
+1598,Cairns
+1599,Yarra Ranges
+1600,Adelaide
+1601,Wellington
+1602,Isaac
+1603,Toowoomba
+1604,Scenic Rim
+1605,Yarra Ranges
+1606,Albury
+1607,Cassowary Coast
+1608,Wudinna
+1609,Murweh
+1610,Kempsey
+1611,Clarence
+1612,Fraser Coast
+1613,Whittlesea
+1614,Whittlesea
+1615,Port Stephens
+1616,Moreton Bay
+1617,Scenic Rim
+1618,Scenic Rim
+1619,Ryde
+1620,Gold Coast
+1621,Eurobodalla
+1622,Lismore
+1623,Logan
+1624,Renmark Paringa
+1625,Loxton Waikerie
+1626,Federation
+1627,Kempsey
+1628,Central Coast (Tas.)
+1629,Somerset
+1630,Clarence
+1631,Playford
+1632,Fraser Coast
+1633,Bundaberg
+1634,Orange
+1635,Brisbane
+1636,Berrigan
+1637,Casey
+1638,Port Macquarie-Hastings
+1639,Port Macquarie-Hastings
+1640,Brisbane
+1641,Bundaberg
+1642,Darebin
+1643,Bundaberg
+1644,Brisbane
+1645,Norwood Payneham and St Peters
+1646,Toowoomba
+1647,Shoalhaven
+1648,Shoalhaven
+1649,Shoalhaven
+1650,Sydney
+1651,Yass Valley
+1652,Yass Valley
+1653,Yass Valley
+1654,Yass Valley
+1655,Sorell
+1656,Clarence Valley
+1657,Lithgow
+1658,Salisbury
+1659,Sydney
+1660,Ipswich
+1661,West Torrens
+1662,Ipswich
+1663,Goulburn Mulwaree
+1664,Townsville
+1665,Snowy Monaro
+1666,Moonee Valley
+1667,Queanbeyan-Palerang
+1668,Tamworth
+1669,Cardinia
+1670,Yass Valley
+1671,Yarra Ranges
+1672,Wyndham
+1673,Townsville
+1674,MacDonnell
+1675,Cumberland
+1676,Tweed
+1677,Cumberland
+1678,Wagga Wagga
+1679,Cabonne
+1680,Cairns
+1681,Onkaparinga
+1682,Brisbane
+1683,George Town
+1684,Wollongong
+1685,Wollondilly
+1686,Wangaratta
+1687,Wangaratta
+1688,Banyule
+1689,Western Downs
+1690,Fraser Coast
+1691,Fraser Coast
+1692,Fraser Coast
+1693,Salisbury
+1694,Canterbury-Bankstown
+1695,Gold Coast
+1696,Sunshine Coast
+1697,Richmond Valley
+1698,Snowy Monaro
+1699,Bundaberg
+1700,Moira
+1701,Moira
+1702,Moira
+1703,Moira
+1704,Moira
+1705,Hawkesbury
+1706,Canterbury-Bankstown
+1707,Logan
+1708,Central Coast (NSW)
+1709,Frankston
+1710,Greater Bendigo
+1711,Brisbane
+1712,Marion
+1713,Canterbury-Bankstown
+1714,Salisbury
+1715,Leeton
+1716,Leeton
+1717,Leeton
+1718,Leeton
+1719,Logan
+1720,Central Coast (NSW)
+1721,Balranald
+1722,Whitsunday
+1723,Port Macquarie-Hastings
+1724,Moreton Bay
+1725,Scenic Rim
+1726,Logan
+1727,Toowoomba
+1728,Tablelands
+1729,Byron
+1730,Dorset
+1731,Adelaide
+1732,Charles Sturt
+1733,Parramatta
+1734,Unincorporated SA
+1735,Campaspe
+1736,Sydney
+1737,Scenic Rim
+1738,Barossa
+1739,Randwick
+1740,Maitland
+1741,Gold Coast
+1742,Kyogle
+1743,Newcastle
+1744,Central Coast (NSW)
+1745,Moreton Bay
+1746,Campbelltown (NSW)
+1747,Campbelltown (NSW)
+1748,Campbelltown (NSW)
+1749,Brisbane
+1750,Renmark Paringa
+1751,Renmark Paringa
+1752,Salisbury
+1753,Parramatta
+1754,Logan
+1755,Onkaparinga
+1756,Cairns
+1757,Hume
+1758,Tamworth
+1759,Adelaide
+1760,Inverell
+1761,Western Downs
+1762,Moira
+1763,Moira
+1764,Coffs Harbour
+1765,Port Macquarie-Hastings
+1766,Moreton Bay
+1767,Somerset
+1768,Logan
+1769,Clarence Valley
+1770,Clarence Valley
+1771,Clarence Valley
+1772,Port Adelaide Enfield
+1773,Whittlesea
+1774,Wangaratta
+1775,Tamworth
+1776,Greater Shepparton
+1777,Murray River
+1778,Cairns
+1779,Northern Grampians
+1780,Southern Downs
+1781,Eurobodalla
+1782,Kingborough
+1783,Wyndham
+1784,Alexandrina
+1785,Victoria Daly
+1786,Greater Geelong
+1787,Greater Geelong
+1788,Playford
+1789,Coffs Harbour
+1790,Melton
+1791,Shellharbour
+1792,Barunga West
+1793,Sunshine Coast
+1794,Blacktown
+1795,Shoalhaven
+1796,Wattle Range
+1797,Gympie
+1798,Western Downs
+1799,Cessnock
+1800,Baw Baw
+1801,Hornsby
+1802,Goulburn Mulwaree
+1803,Onkaparinga
+1804,Monash
+1805,Launceston
+1806,Unincorporated SA
+1807,Unincorporated SA
+1808,Merri-bek
+1809,Gold Coast
+1810,Sydney
+1811,Maitland
+1812,Lake Macquarie
+1813,Dubbo
+1814,Hilltops
+1815,Darwin
+1816,Alexandrina
+1817,Copper Coast
+1818,Somerset
+1819,Burnie
+1820,Lockhart
+1821,Brisbane
+1822,Wattle Range
+1823,Cloncurry
+1824,Naracoorte Lucindale
+1825,Toowoomba
+1826,Sunshine Coast
+1827,Frankston
+1828,Charles Sturt
+1829,Narrabri
+1830,Tweed
+1831,Southern Mallee
+1832,Upper Lachlan
+1833,Upper Lachlan
+1834,Somerset
+1835,Ipswich
+1836,Goulburn Mulwaree
+1837,Moreton Bay
+1838,Greater Hume
+1839,Tablelands
+1840,Forbes
+1841,Yarra Ranges
+1842,Gwydir
+1843,Wollondilly
+1844,Scenic Rim
+1845,Moree Plains
+1846,Moree Plains
+1847,Boroondara
+1848,Fraser Coast
+1849,Glen Innes Severn
+1850,Dubbo
+1851,Hornsby
+1852,Narrabri
+1853,Kentish
+1854,Goyder
+1855,Randwick
+1856,Marion
+1857,Cobar
+1858,Mid-Coast
+1859,Brimbank
+1860,Brisbane
+1861,Maroondah
+1862,Melbourne
+1863,Hobsons Bay
+1864,Adelaide Plains
+1865,Bellingen
+1866,Flinders Ranges
+1867,Adelaide Plains
+1868,Banyule
+1869,Fraser Coast
+1870,Goondiwindi
+1871,Light
+1872,Bass Coast
+1873,Moira
+1874,Yarriambiack
+1875,Yarriambiack
+1876,Moonee Valley
+1877,Murrindindi
+1878,Greater Shepparton
+1879,Meander Valley
+1880,Moonee Valley
+1881,West Wimmera
+1882,Gympie
+1883,South Gippsland
+1884,Mackay
+1885,Adelaide Hills
+1886,Frankston
+1887,Tenterfield
+1888,Lockyer Valley
+1889,Fraser Coast
+1890,Greater Dandenong
+1891,Greater Bendigo
+1892,Indigo
+1893,Gold Coast
+1894,Whitehorse
+1895,Strathbogie
+1896,Strathbogie
+1897,Greater Geelong
+1898,Mareeba
+1899,Blacktown
+1900,Tablelands
+1901,Bundaberg
+1902,Central Coast (NSW)
+1903,Port Adelaide Enfield
+1904,Lake Macquarie
+1905,Gympie
+1906,Campaspe
+1907,Inner West
+1908,Campbelltown (SA)
+1909,Naracoorte Lucindale
+1910,West Wimmera
+1911,Muswellbrook
+1912,Loddon
+1913,Gympie
+1914,Gympie
+1915,Southern Grampians
+1916,Penrith
+1917,Yass Valley
+1918,Isaac
+1919,Scenic Rim
+1920,Casey
+1921,Somerset
+1922,Wagga Wagga
+1923,Northern Grampians
+1924,West Coast
+1925,Junee
+1926,Victor Harbor
+1927,Moreton Bay
+1928,Tea Tree Gully
+1929,Yass Valley
+1930,Somerset
+1931,Logan
+1932,Burnside
+1933,Coomalie 
+1934,Victor Harbor
+1935,Manningham
+1936,Corangamite
+1937,Gold Coast
+1938,Logan
+1939,Southern Grampians
+1940,Wellington
+1941,Hunters Hill
+1942,Cumberland
+1943,Cumberland
+1944,Golden Plains
+1945,Launceston
+1946,Unincorporated ACT
+1947,Yarra Ranges
+1948,Yarra Ranges
+1949,Brimbank
+1950,Wakefield
+1951,The Hills
+1952,Moree Plains
+1953,Hornsby
+1954,Moree Plains
+1955,Mornington Peninsula
+1956,Toowoomba
+1957,Toowoomba
+1958,Toowoomba
+1959,Latrobe (Vic.)
+1960,Frankston
+1961,Break O'Day
+1962,Brisbane
+1963,Fairfield
+1964,Central Coast (NSW)
+1965,Loxton Waikerie
+1966,Loxton Waikerie
+1967,Onkaparinga
+1968,Bundaberg
+1969,Buloke
+1970,Greater Shepparton
+1971,Greater Shepparton
+1972,Greater Shepparton
+1973,Greater Shepparton
+1974,Gladstone
+1975,Benalla
+1976,Federation
+1977,Blue Mountains
+1978,Canterbury-Bankstown
+1979,Northern Beaches
+1980,Eurobodalla
+1981,Blacktown
+1982,Gold Coast
+1983,Gold Coast
+1984,Gold Coast
+1985,Goulburn Mulwaree
+1986,Eurobodalla
+1987,Northern Beaches
+1988,Light
+1989,Greater Hume
+1990,Sydney
+1991,Sydney
+1992,Playford
+1993,Banana
+1994,Douglas
+1995,Douglas
+1996,Mosman
+1997,Sunshine Coast
+1998,Sunshine Coast
+1999,Redland
+2000,Penrith
+2001,Bundaberg
+2002,Toowoomba
+2003,Glamorgan-Spring Bay
+2004,Moreton Bay
+2005,Moreton Bay
+2006,Alexandrina
+2007,Tablelands
+2008,Coomalie 
+2009,Lithgow
+2010,Cook
+2011,Cairns
+2012,Cairns
+2013,Parramatta
+2014,Glen Innes Severn
+2015,Murray River
+2016,Brisbane
+2017,South Burnett
+2018,Cabonne
+2019,Logan
+2020,Hawkesbury
+2021,Penrith
+2022,Moreton Bay
+2023,Lake Macquarie
+2024,Wagga Wagga
+2025,Wakefield
+2026,Wakefield
+2027,Wakefield
+2028,Inner West
+2029,Wollongong
+2030,Brisbane
+2031,Sydney
+2032,Gladstone
+2033,Brisbane
+2034,Gladstone
+2035,Sydney
+2036,Gold Coast
+2037,Alexandrina
+2038,Fraser Coast
+2039,Salisbury
+2040,Glenelg
+2041,Blacktown
+2042,Casey
+2043,Southern Midlands
+2044,Gold Coast
+2045,Towong
+2046,Onkaparinga
+2047,Coffs Harbour
+2048,Brimbank
+2049,Southern Downs
+2050,Campbelltown (SA)
+2051,Darebin
+2052,Cassowary Coast
+2053,Inverell
+2054,Tamworth
+2055,Huon Valley
+2056,Blacktown
+2057,Brisbane
+2058,Brimbank
+2059,Moreton Bay
+2060,Casey
+2061,Yarra
+2062,Mount Isa
+2063,Gold Coast
+2064,Gold Coast
+2065,Upper Hunter
+2066,Albury
+2067,Brisbane
+2068,Scenic Rim
+2069,Armidale
+2070,Banana
+2071,Waratah-Wynyard
+2072,Armidale
+2073,Campaspe
+2074,Playford
+2075,Charters Towers
+2076,Canterbury-Bankstown
+2077,Newcastle
+2078,Brisbane
+2079,Moreton Bay
+2080,North Burnett
+2081,Sutherland
+2082,Bass Coast
+2083,Coffs Harbour
+2084,Bundaberg
+2085,Southern Downs
+2086,Mount Alexander
+2087,North Sydney
+2088,Wyndham
+2089,Gold Coast
+2090,Mitchell
+2091,Blacktown
+2092,Coffs Harbour
+2093,Georges River
+2094,Tamworth
+2095,Gannawarra
+2096,Fraser Coast
+2097,Fraser Coast
+2098,Sunshine Coast
+2099,Casey
+2100,Banana
+2101,Yarra Ranges
+2102,Roper Gulf
+2103,Brisbane
+2104,Western Downs
+2105,Western Downs
+2106,Tweed
+2107,Yarra
+2108,Yass Valley
+2109,Break O'Day
+2110,Woollahra
+2111,Prospect
+2112,Horsham
+2113,Carrathool
+2114,Toowoomba
+2115,Singleton
+2116,Port Adelaide Enfield
+2117,Sunshine Coast
+2118,Isaac
+2119,Yarra Ranges
+2120,Bland
+2121,Logan
+2122,Latrobe (Vic.)
+2123,Southern Midlands
+2124,Southern Midlands
+2125,MacDonnell
+2126,Tablelands
+2127,Gold Coast
+2128,Litchfield
+2129,Gannawarra
+2130,Melton
+2131,Moreton Bay
+2132,Hawkesbury
+2133,Brimbank
+2134,Salisbury
+2135,Parramatta
+2136,Whittlesea
+2137,Central Coast (NSW)
+2138,Upper Lachlan
+2139,Upper Lachlan
+2140,Brisbane
+2141,Penrith
+2142,Macedon Ranges
+2143,Latrobe (Tas.)
+2144,Upper Hunter
+2145,Mitchell
+2146,Wodonga
+2147,Lake Macquarie
+2148,Southern Midlands
+2149,Clarence Valley
+2150,Brimbank
+2151,Unincorporated ACT
+2152,Mildura
+2153,Greater Hume
+2154,Douglas
+2155,Townsville
+2156,Unincorporated ACT
+2157,Unincorporated ACT
+2158,Lockyer Valley
+2159,Mount Remarkable
+2160,Macedon Ranges
+2161,Brisbane
+2162,Balranald
+2163,Unincorporated ACT
+2164,Unincorporated ACT
+2165,Unincorporated ACT
+2166,Queanbeyan-Palerang
+2167,Dubbo
+2168,Logan
+2169,Douglas
+2170,Brisbane
+2171,Yass Valley
+2172,Sydney
+2173,Wellington
+2174,Mornington Peninsula
+2175,Mackay
+2176,Murray Bridge
+2177,Wollongong
+2178,Maitland
+2179,Latrobe (Vic.)
+2180,Monash
+2181,Mareeba
+2182,Central Highlands (Qld)
+2183,Maribyrnong
+2184,Griffith
+2185,Mareeba
+2186,South Gippsland
+2187,Manningham
+2188,Lake Macquarie
+2189,Gold Coast
+2190,Shellharbour
+2191,Brighton
+2192,Brisbane
+2193,Yass Valley
+2194,Northern Midlands
+2195,Fraser Coast
+2196,Livingstone
+2197,Mid-Coast
+2198,Mid-Western
+2199,Mid-Western
+2200,Mildura
+2201,Cook
+2202,Penrith
+2203,Yass Valley
+2204,Parkes
+2205,Hume
+2206,Penrith
+2207,Logan
+2208,Wyndham
+2209,Tatiara
+2210,Cook
+2211,Launceston
+2212,Fairfield
+2213,Gunnedah
+2214,Brisbane
+2215,Livingstone
+2216,Strathbogie
+2217,Eurobodalla
+2218,Southern Downs
+2219,Wellington
+2220,Sunshine Coast
+2221,Mackay
+2222,Central Coast (NSW)
+2223,Central Coast (NSW)
+2224,Port Phillip
+2225,Yankalilla
+2226,Greater Geelong
+2227,Gold Coast
+2228,Mid-Coast
+2229,Onkaparinga
+2230,Boroondara
+2231,Latrobe (Vic.)
+2232,Litchfield
+2233,Liverpool
+2234,Gladstone
+2235,Hobsons Bay
+2236,Cessnock
+2237,Colac Otway
+2238,Bega Valley
+2239,Logan
+2240,Weddin
+2241,Nambucca Valley
+2242,Dorset
+2243,Central Coast (NSW)
+2244,East Gippsland
+2245,Rockhampton
+2246,Ballarat
+2247,Greater Geelong
+2248,Merri-bek
+2249,Casey
+2250,Brisbane
+2251,Yarra Ranges
+2252,Federation
+2253,Wakefield
+2254,Northern Peninsula Area
+2255,Brisbane
+2256,Cowra
+2257,Mitchell
+2258,Wingecarribee
+2259,Tweed
+2260,Corangamite
+2261,Casey
+2262,Monash
+2263,Tweed
+2264,Campaspe
+2265,Ipswich
+2266,Greater Geelong
+2267,Maitland
+2268,Knox
+2269,South Burnett
+2270,Wingecarribee
+2271,Wingecarribee
+2272,Wingecarribee
+2273,Wingecarribee
+2274,Wingecarribee
+2275,Kyogle
+2276,Salisbury
+2277,Brimbank
+2278,Tea Tree Gully
+2279,Salisbury
+2280,Cook
+2281,Tweed
+2282,Gympie
+2283,Ipswich
+2284,Brisbane
+2285,Whittlesea
+2286,Moira
+2287,Gladstone
+2288,Whitsunday
+2289,Whitsunday
+2290,Port Stephens
+2291,Cumberland
+2292,Coffs Harbour
+2293,Murrindindi
+2294,Liverpool Plains
+2295,Corangamite
+2296,Corangamite
+2297,Moreton Bay
+2298,South Gippsland
+2299,Brisbane
+2300,Yarra Ranges
+2301,Unincorporated ACT
+2302,Roper Gulf
+2303,Roper Gulf
+2304,Cumberland
+2305,Tenterfield
+2306,Launceston
+2307,Moreton Bay
+2308,Unincorporated NT
+2309,Gympie
+2310,Copper Coast
+2311,East Gippsland
+2312,Bundaberg
+2313,Clarence
+2314,Clarence
+2315,Clarence
+2316,Knox
+2317,Canterbury-Bankstown
+2318,Brisbane
+2319,Orroroo Carrieton
+2320,Noosa
+2321,Mackay
+2322,Eurobodalla
+2323,Gympie
+2324,Blue Mountains
+2325,Glen Innes Severn
+2326,Ipswich
+2327,Murrindindi
+2328,Tatiara
+2329,Lockyer Valley
+2330,Barkly
+2331,Central Goldfields
+2332,Roper Gulf
+2333,Central Highlands (Qld)
+2334,Gawler
+2335,Federation
+2336,South Gippsland
+2337,Salisbury
+2338,Fairfield
+2339,Townsville
+2340,Moonee Valley
+2341,Unincorporated NT
+2342,Alice Springs
+2343,Livingstone
+2344,Manningham
+2345,Central Darling
+2346,Hume
+2347,Mid-Western
+2348,Townsville
+2349,Pyrenees
+2350,Whittlesea
+2351,Sunshine Coast
+2352,Balonne
+2353,Burdekin
+2354,Burdekin
+2355,Moreton Bay
+2356,Greater Shepparton
+2357,Cassowary Coast
+2358,Greater Geelong
+2359,Wollongong
+2360,Casey
+2361,Toowoomba
+2362,South Burnett
+2363,Somerset
+2364,Toowoomba
+2365,Richmond Valley
+2366,Grant
+2367,Campaspe
+2368,Launceston
+2369,Scenic Rim
+2370,Moorabool
+2371,Roper Gulf
+2372,Roper Gulf
+2373,Wakefield
+2374,Port Phillip
+2375,Casey
+2376,Darwin
+2377,Monash
+2378,Cumberland
+2379,Mount Barker
+2380,Scenic Rim
+2381,Logan
+2382,Murrindindi
+2383,Canterbury-Bankstown
+2384,Corangamite
+2385,Canterbury-Bankstown
+2386,Naracoorte Lucindale
+2387,South Burnett
+2388,Brimbank
+2389,Greater Hume
+2390,Kingborough
+2391,Greater Shepparton
+2392,Sutherland
+2393,Whittlesea
+2394,Cardinia
+2395,Brisbane
+2396,Bundaberg
+2397,Redland
+2398,Gladstone
+2399,Ballina
+2400,Cassowary Coast
+2401,Coomalie 
+2402,Ballina
+2403,Cairns
+2404,Monash
+2405,Greater Geelong
+2406,Inner West
+2407,Moreton Bay
+2408,Rockhampton
+2409,Cairns
+2410,Clarence
+2411,Maranoa
+2412,Mornington Peninsula
+2413,Grant
+2414,Merri-bek
+2415,Hobsons Bay
+2416,Wellington
+2417,Sunshine Coast
+2418,Fraser Coast
+2419,Clarence Valley
+2420,Yarra Ranges
+2421,Loddon
+2422,Walgett
+2423,Maribyrnong
+2424,Muswellbrook
+2425,Launceston
+2426,Tablelands
+2427,Wellington
+2428,Penrith
+2429,Logan
+2430,Logan
+2431,Whittlesea
+2432,Central Coast (NSW)
+2433,Coolamon
+2434,Litchfield
+2435,Port Phillip
+2436,Cardinia
+2437,West Tamar
+2438,Toowoomba
+2439,Ipswich
+2440,Gympie
+2441,Wollongong
+2442,Greater Dandenong
+2443,MacDonnell
+2444,Whitsunday
+2445,Cassowary Coast
+2446,Ballarat
+2447,Salisbury
+2448,Bulloo
+2449,Litchfield
+2450,Bellingen
+2451,Greater Hume
+2452,Wingecarribee
+2453,Greater Geelong
+2454,Inner West
+2455,Central Highlands (Qld)
+2456,Unincorporated ACT
+2457,Wyndham
+2458,Corangamite
+2459,Tatiara
+2460,Salisbury
+2461,Central Coast (NSW)
+2462,Goulburn Mulwaree
+2463,Gold Coast
+2464,Central Desert
+2465,Hepburn
+2466,Baw Baw
+2467,Brimbank
+2468,Whittlesea
+2469,Toowoomba
+2470,Hume
+2471,Golden Plains
+2472,Cardinia
+2473,Western Downs
+2474,Brisbane
+2475,Lane Cove
+2476,Lithgow
+2477,Logan
+2478,Port Stephens
+2479,Sunshine Coast
+2480,Grant
+2481,Brimbank
+2482,Greater Geelong
+2483,Brisbane
+2484,Latrobe (Vic.)
+2485,Livingstone
+2486,Maitland
+2487,Willoughby
+2488,Gladstone
+2489,Latrobe (Tas.)
+2490,Latrobe (Tas.)
+2491,Litchfield
+2492,Unincorporated SA
+2493,Brimbank
+2494,Logan
+2495,Logan
+2496,Walcha
+2497,Walcha
+2498,Murrindindi
+2499,Gold Coast
+2500,Narrabri
+2501,Narrabri
+2502,Narrabri
+2503,Gympie
+2504,Townsville
+2505,Brisbane
+2506,MacDonnell
+2507,Northern Grampians
+2508,Blacktown
+2509,Northern Midlands
+2510,Isaac
+2511,Livingstone
+2512,Gympie
+2513,Gympie
+2514,Unincorporated ACT
+2515,Fraser Coast
+2516,Launceston
+2517,Ipswich
+2518,Northern Grampians
+2519,Mitchell
+2520,Muswellbrook
+2521,Latrobe (Tas.)
+2522,The Hills
+2523,Mitchell
+2524,Sunshine Coast
+2525,Logan
+2526,Bogan
+2527,Litchfield
+2528,Brisbane
+2529,Unincorporated ACT
+2530,Sunshine Coast
+2531,Onkaparinga
+2532,Melton
+2533,Cloncurry
+2534,Mackay
+2535,Mackay
+2536,Greater Hume
+2537,Wellington
+2538,Unincorporated ACT
+2539,Townsville
+2540,Tweed
+2541,Gold Coast
+2542,Mackay
+2543,Mackay
+2544,Ipswich
+2545,Ipswich
+2546,Ipswich
+2547,The Hills
+2548,Port Stephens
+2549,Fraser Coast
+2550,Campbelltown (SA)
+2551,Campbelltown (SA)
+2552,Wingecarribee
+2553,Maitland
+2554,South Gippsland
+2555,Moreton Bay
+2556,Whitsunday
+2557,Mid-Coast
+2558,Scenic Rim
+2559,Brisbane
+2560,Logan
+2561,Colac Otway
+2562,Central Coast (NSW)
+2563,Isaac
+2564,West Tamar
+2565,Wollondilly
+2566,Brimbank
+2567,Glenorchy
+2568,Glen Innes Severn
+2569,Unincorporated ACT
+2570,Strathbogie
+2571,Fraser Coast
+2572,Penrith
+2573,Georges River
+2574,Cassowary Coast
+2575,Sorell
+2576,Sorell
+2577,Cairns
+2578,Melbourne
+2579,Playford
+2580,Alice Springs
+2581,Brisbane
+2582,Mackay
+2583,Brisbane
+2584,Salisbury
+2585,Tamworth
+2586,Cabonne
+2587,Bayside (NSW)
+2588,Mount Barker
+2589,Unincorporated SA
+2590,Wangaratta
+2591,Mid-Coast
+2592,Surf Coast
+2593,Cumberland
+2594,Palmerston
+2595,Sunshine Coast
+2596,Woollahra
+2597,Victoria Daly
+2598,Unincorporated ACT
+2599,Coffs Harbour
+2600,Cabonne
+2601,Logan
+2602,Greater Bendigo
+2603,Cleve
+2604,Banyule
+2605,Light
+2606,Coonamble
+2607,Mildura
+2608,Mildura
+2609,Sutherland
+2610,Glenelg
+2611,Moorabool
+2612,Burnie
+2613,Mid-Coast
+2614,Mackay
+2615,Mackay
+2616,Snowy Valleys
+2617,Central Coast (Tas.)
+2618,Melbourne
+2619,Eurobodalla
+2620,Ipswich
+2621,Shoalhaven
+2622,Cumberland
+2623,Penrith
+2624,Burwood
+2625,Noosa
+2626,Lismore
+2627,Byron
+2628,Sorell
+2629,Barossa
+2630,Inner West
+2631,Cardinia
+2632,Hilltops
+2633,Unincorporated NT
+2634,Greater Shepparton
+2635,Wollondilly
+2636,West Arnhem
+2637,Unincorporated ACT
+2638,Toowoomba
+2639,Yarra
+2640,Glen Eira
+2641,Break O'Day
+2642,Ipswich
+2643,South Burnett
+2644,South Burnett
+2645,Port Pirie
+2646,Campaspe
+2647,Central Highlands (Qld)
+2648,Livingstone
+2649,Wentworth
+2650,Wentworth
+2651,Whyalla
+2652,Federation
+2653,Federation
+2654,Merri-bek
+2655,Canterbury-Bankstown
+2656,Sunshine Coast
+2657,Sunshine Coast
+2658,King Island
+2659,Glenorchy
+2660,Launceston
+2661,Tamworth
+2662,Unincorporated SA
+2663,Palmerston
+2664,Port Phillip
+2665,Kangaroo Island
+2666,Greater Dandenong
+2667,Merri-bek
+2668,Salisbury
+2669,Gwydir
+2670,Mornington Peninsula
+2671,Liverpool
+2672,Blacktown
+2673,Whittlesea
+2674,Canterbury-Bankstown
+2675,Southern Downs
+2676,Southern Downs
+2677,Southern Downs
+2678,Southern Downs
+2679,Kangaroo Island
+2680,Yarra Ranges
+2681,Meander Valley
+2682,Wingecarribee
+2683,Snowy Monaro
+2684,Queanbeyan-Palerang
+2685,Port Augusta
+2686,Warrumbungle
+2687,Port Phillip
+2688,Corangamite
+2689,Gold Coast
+2690,Waratah-Wynyard
+2691,Waratah-Wynyard
+2692,Yarra Ranges
+2693,Moira
+2694,Uralla
+2695,Toowoomba
+2696,Tablelands
+2697,Tamworth
+2698,Mareeba
+2699,Holdfast Bay
+2700,Tweed
+2701,Moreton Bay
+2702,Wodonga
+2703,Douglas
+2704,West Arnhem
+2705,Greater Bendigo
+2706,Wellington
+2707,Logan
+2708,Central Coast (NSW)
+2709,Wagga Wagga
+2710,Unincorporated NT
+2711,Adelaide Hills
+2712,Darwin
+2713,Berrigan
+2714,Bland
+2715,Armidale
+2716,Mackay
+2717,Sutherland
+2718,Greater Geelong
+2719,Inner West
+2720,South Burnett
+2721,Port Augusta
+2722,Lockyer Valley
+2723,Charters Towers
+2724,Cumberland
+2725,Cumberland
+2726,Mornington Peninsula
+2727,Brisbane
+2728,Logan
+2729,Mid-Coast
+2730,Mid-Coast
+2731,Campbelltown (SA)
+2732,Wodonga
+2733,Cairns
+2734,Gladstone
+2735,Inner West
+2736,Greater Dandenong
+2737,Carrathool
+2738,Eurobodalla
+2739,Mareeba
+2740,Break O'Day
+2741,Wingecarribee
+2742,Fairfield
+2743,Southern Downs
+2744,Devonport
+2745,Mackay
+2746,Tweed
+2747,Narrabri
+2748,Latrobe (Vic.)
+2749,Goulburn Mulwaree
+2750,Ararat
+2751,Waratah-Wynyard
+2752,Douglas
+2753,Sunshine Coast
+2754,Greater Bendigo
+2755,Fraser Coast
+2756,Blacktown
+2757,Liverpool
+2758,Toowoomba
+2759,Lake Macquarie
+2760,Unincorporated NT
+2761,Central Highlands (Qld)
+2762,Yarra
+2763,Murrindindi
+2764,Strathbogie
+2765,Gold Coast
+2766,Somerset
+2767,Mackay
+2768,Gladstone
+2769,Cairns
+2770,Gold Coast
+2771,Bogan
+2772,Noosa
+2773,Junee
+2774,Murrindindi
+2775,Sydney
+2776,Sunshine Coast
+2777,Alpine
+2778,Yarra
+2779,Gilgandra
+2780,Rockhampton
+2781,Ballarat
+2782,Fraser Coast
+2783,Scenic Rim
+2784,Ballarat
+2785,Port Macquarie-Hastings
+2786,Hawkesbury
+2787,Litchfield
+2788,Litchfield
+2789,Litchfield
+2790,Litchfield
+2791,Brewarrina
+2792,Brewarrina
+2793,Holdfast Bay
+2794,Hume
+2795,Wollondilly
+2796,East Arnhem
+2797,Port Lincoln
+2798,Carpentaria
+2799,Campaspe
+2800,Townsville
+2801,Brisbane
+2802,Singleton
+2803,Wollondilly
+2804,Mount Barker
+2805,Naracoorte Lucindale
+2806,Moreton Bay
+2807,Light
+2808,Newcastle
+2809,Nillumbik
+2810,Macedon Ranges
+2811,Sunshine Coast
+2812,Wollongong
+2813,Narromine
+2814,Murrindindi
+2815,Camden
+2816,Gold Coast
+2817,Somerset
+2818,Melton
+2819,Unincorporated ACT
+2820,Northern Midlands
+2821,Ipswich
+2822,Towong
+2823,Canterbury-Bankstown
+2824,Cairns
+2825,Glenorchy
+2826,Greater Hume
+2827,Casey
+2828,Central Coast (NSW)
+2829,Bathurst
+2830,Wattle Range
+2831,Moreton Bay
+2832,South Gippsland
+2833,Kingborough
+2834,Brimbank
+2835,Banana
+2836,Banana
+2837,Kangaroo Island
+2838,Wingecarribee
+2839,Sunshine Coast
+2840,Moira
+2841,Warrnambool
+2842,Unincorporated NSW
+2843,Queanbeyan-Palerang
+2844,Logan
+2845,Waverley
+2846,Darwin
+2847,Gympie
+2848,Sunshine Coast
+2849,Whitsunday
+2850,Kingston (Vic.)
+2851,Mildura
+2852,Longreach
+2853,Longreach
+2854,Rockhampton
+2855,Isaac
+2856,Lithgow
+2857,Campaspe
+2858,Mid Murray
+2859,Wollongong
+2860,Brisbane
+2861,Maranoa
+2862,Maitland
+2863,Moreton Bay
+2864,Moreton Bay
+2865,Eurobodalla
+2866,Sunshine Coast
+2867,Cassowary Coast
+2868,Cessnock
+2869,Colac Otway
+2870,Fraser Coast
+2871,Playford
+2872,Colac Otway
+2873,Wangaratta
+2874,Lower Eyre Peninsula
+2875,Campbelltown (NSW)
+2876,Brisbane
+2877,Balonne
+2878,Hilltops
+2879,Warrumbungle
+2880,Greater Geelong
+2881,Sunshine Coast
+2882,Wellington
+2883,Mansfield
+2884,Scenic Rim
+2885,Gympie
+2886,Merri-bek
+2887,Hume
+2888,Shoalhaven
+2889,Hepburn
+2890,Goulburn Mulwaree
+2891,Ballina
+2892,Upper Lachlan
+2893,Goulburn Mulwaree
+2894,Townsville
+2895,Forbes
+2896,Blacktown
+2897,Toowoomba
+2898,Toowoomba
+2899,Clarence Valley
+2900,Townsville
+2901,Greater Dandenong
+2902,Alpine
+2903,Wingecarribee
+2904,Corangamite
+2905,Glen Innes Severn
+2906,Northern Grampians
+2907,Somerset
+2908,Meander Valley
+2909,Mid-Coast
+2910,Maranoa
+2911,Casey
+2912,Lithgow
+2913,Lithgow
+2914,Greater Shepparton
+2915,Mareeba
+2916,Queanbeyan-Palerang
+2917,MacDonnell
+2918,Strathbogie
+2919,The Hills
+2920,Northern Midlands
+2921,Hobsons Bay
+2922,Fairfield
+2923,Victoria Daly
+2924,Adelaide Hills
+2925,Ku-ring-gai
+2926,Mareeba
+2927,Campaspe
+2928,Brisbane
+2929,Blue Mountains
+2930,Hume
+2931,Lake Macquarie
+2932,Unincorporated NT
+2933,Hilltops
+2934,Hilltops
+2935,Whitehorse
+2936,Port Pirie
+2937,Maroondah
+2938,Unincorporated ACT
+2939,Loddon
+2940,Brighton
+2941,Southern Downs
+2942,Melton
+2943,York
+2944,Toowoomba
+2945,Casey
+2946,Stonnington
+2947,Sydney
+2948,Greater Geelong
+2949,Kyogle
+2950,Campaspe
+2951,East Arnhem
+2952,Waratah-Wynyard
+2953,Melbourne
+2954,Cook
+2955,Yarra
+2956,Ku-ring-gai
+2957,MacDonnell
+2958,Gold Coast
+2959,MacDonnell
+2960,West Arnhem
+2961,Logan
+2962,Bathurst
+2963,Horsham
+2964,Horsham
+2965,Moreton Bay
+2966,Hume
+2967,Renmark Paringa
+2968,Penrith
+2969,Inverell
+2970,Camden
+2971,Mount Barker
+2972,Cessnock
+2973,Rockingham
+2974,Upper Hunter
+2975,Snowy Valleys
+2976,Plantagenet
+2977,Yarra Ranges
+2978,Moira
+2979,Unincorporated SA
+2980,Cairns
+2981,Carrathool
+2982,Yorke Peninsula
+2983,Brisbane
+2984,Darwin
+2985,Snowy Monaro
+2986,Kwinana
+2987,Tamworth
+2988,Dubbo
+2989,Campbelltown (NSW)
+2990,Cloncurry
+2991,Cassowary Coast
+2992,Liverpool
+2993,Snowy Monaro
+2994,Mornington Peninsula
+2995,Glen Eira
+2996,Murrindindi
+2997,Bundaberg
+2998,Hume
+2999,Murray
+3000,Dumbleyung
+3001,Port Hedland
+3002,Derwent Valley
+3003,Liverpool
+3004,Huon Valley
+3005,Coolamon
+3006,Clarence Valley
+3007,Barossa
+3008,Mid-Coast
+3009,Wattle Range
+3010,Ballina
+3011,Murrindindi
+3012,Benalla
+3013,Benalla
+3014,Campbelltown (NSW)
+3015,Wollondilly
+3016,Stirling
+3017,Robe
+3018,Cambridge
+3019,Maranoa
+3020,Shellharbour
+3021,Federation
+3022,Cumberland
+3023,Murray River
+3024,Wanneroo
+3025,Plantagenet
+3026,Lismore
+3027,Sutherland
+3028,Brisbane
+3029,Willoughby
+3030,Hume
+3031,Somerset
+3032,Central Coast (Tas.)
+3033,Temora
+3034,Albury
+3035,Mitchell
+3036,Rockhampton
+3037,East Gippsland
+3038,Somerset
+3039,Lake Macquarie
+3040,Snowy Monaro
+3041,Isaac
+3042,Moira
+3043,Richmond Valley
+3044,Melbourne
+3045,Lismore
+3046,Moorabool
+3047,Uralla
+3048,Brisbane
+3049,Blue Mountains
+3050,Gosnells
+3051,Dandaragan
+3052,Greater Geelong
+3053,Kangaroo Island
+3054,Blue Mountains
+3055,Ballina
+3056,The Hills
+3057,Scenic Rim
+3058,Darwin
+3059,Brisbane
+3060,Logan
+3061,Logan
+3062,Salisbury
+3063,Serpentine-Jarrahdale
+3064,Serpentine-Jarrahdale
+3065,Southern Midlands
+3066,Onkaparinga
+3067,Port Stephens
+3068,Campaspe
+3069,North Burnett
+3070,Melton
+3071,Latrobe (Vic.)
+3072,Latrobe (Vic.)
+3073,Grant
+3074,Mandurah
+3075,Onkaparinga
+3076,Sydney
+3077,Greater Bendigo
+3078,Greater Bendigo
+3079,Brisbane
+3080,Wanneroo
+3081,Melton
+3082,Unincorporated NSW
+3083,Whittlesea
+3084,Balranald
+3085,Snowy Valleys
+3086,South Gippsland
+3087,Mornington Peninsula
+3088,Wattle Range
+3089,Central Highlands (Qld)
+3090,Wagga Wagga
+3091,Bayside (NSW)
+3092,Isaac
+3093,Isaac
+3094,Isaac
+3095,Banyule
+3096,Frankston
+3097,Penrith
+3098,Southern Mallee
+3099,Colac Otway
+3100,South Gippsland
+3101,Fraser Coast
+3102,Ballina
+3103,Barossa
+3104,Barossa
+3105,Sunshine Coast
+3106,Sunshine Coast
+3107,Loddon
+3108,Woodanilling
+3109,Fraser Coast
+3110,Mid-Western
+3111,Bundaberg
+3112,Warrumbungle
+3113,Moreton Bay
+3114,Hepburn
+3115,Somerset
+3116,Forbes
+3117,Darebin
+3118,Dowerin
+3119,Kalgoorlie-Boulder
+3120,Bundaberg
+3121,Brimbank
+3122,Greater Geraldton
+3123,Northern Midlands
+3124,Harvey
+3125,Harvey
+3126,Gold Coast
+3127,Monash
+3128,Murray Bridge
+3129,Cumberland
+3130,Richmond Valley
+3131,Fraser Coast
+3132,Horsham
+3133,Horsham
+3134,Serpentine-Jarrahdale
+3135,Bayswater
+3136,Frankston
+3137,Wangaratta
+3138,Swan
+3139,Macedon Ranges
+3140,Moreton Bay
+3141,Moreton Bay
+3142,Doomadgee
+3143,Gold Coast
+3144,Campbelltown (NSW)
+3145,Gladstone
+3146,Narromine
+3147,Croydon
+3148,Muswellbrook
+3149,Mid-Coast
+3150,Rockhampton
+3151,Rockhampton
+3152,Charles Sturt
+3153,Cessnock
+3154,Shoalhaven
+3155,Narrabri
+3156,Gosnells
+3157,Brisbane
+3158,Scenic Rim
+3159,Towong
+3160,West Arnhem
+3161,Sunshine Coast
+3162,Adelaide Hills
+3163,Wagga Wagga
+3164,Port Macquarie-Hastings
+3165,Mackay
+3166,Alexandrina
+3167,Brisbane
+3168,Bundaberg
+3169,Unincorporated SA
+3170,Mid-Western
+3171,Mornington Peninsula
+3172,Queanbeyan-Palerang
+3173,Albany
+3174,Toowoomba
+3175,Canterbury-Bankstown
+3176,Central Highlands (Tas.)
+3177,Upper Lachlan
+3178,Upper Lachlan
+3179,Lockhart
+3180,Lockhart
+3181,Casey
+3182,Chittering
+3183,Macedon Ranges
+3184,Gold Coast
+3185,Brisbane
+3186,Baw Baw
+3187,Moreton Bay
+3188,Walcha
+3189,Townsville
+3190,Townsville
+3191,Western Downs
+3192,Port Adelaide Enfield
+3193,Barossa
+3194,Canning
+3195,Logan
+3196,Ballarat
+3197,Perenjori
+3198,Eurobodalla
+3199,Brimbank
+3200,Gold Coast
+3201,Gold Coast
+3202,Gold Coast
+3203,Renmark Paringa
+3204,Bundaberg
+3205,Hawkesbury
+3206,Moyne
+3207,Wollondilly
+3208,Moonee Valley
+3209,Toowoomba
+3210,Mackay
+3211,Redland
+3212,Mount Magnet
+3213,Cessnock
+3214,Inner West
+3215,Central Coast (NSW)
+3216,Donnybrook-Balingup
+3217,Sunshine Coast
+3218,Litchfield
+3219,Cobar
+3220,Darwin
+3221,Ipswich
+3222,Sunshine Coast
+3223,Cardinia
+3224,Hope Vale
+3225,Cleve
+3226,Murray Bridge
+3227,Moira
+3228,Augusta Margaret River
+3229,Casey
+3230,Casey
+3231,Mitcham
+3232,Central Coast (NSW)
+3233,Charles Sturt
+3234,Moonee Valley
+3235,Vincent
+3236,Scenic Rim
+3237,West Coast
+3238,Logan
+3239,Brisbane
+3240,Casey
+3241,Port Macquarie-Hastings
+3242,Tweed
+3243,Carrathool
+3244,Greater Bendigo
+3245,Wickepin
+3246,Moreton Bay
+3247,Casey
+3248,Clare and Gilbert Valleys
+3249,Port Stephens
+3250,Gosnells
+3251,Wangaratta
+3252,Melton
+3253,Yarra Ranges
+3254,Darwin
+3255,Melton
+3256,Mid-Western
+3257,Logan
+3258,South Burnett
+3259,Hobsons Bay
+3260,Liverpool Plains
+3261,Cockburn
+3262,Gold Coast
+3263,Nillumbik
+3264,Chittering
+3265,Kalgoorlie-Boulder
+3266,York
+3267,Lockyer Valley
+3268,Wanneroo
+3269,Tamworth
+3270,Douglas
+3271,Swan
+3272,Central Coast (Tas.)
+3273,Cockburn
+3274,Casey
+3275,Narrabri
+3276,Victoria Park
+3277,Isaac
+3278,Wyndham
+3279,Wyndham
+3280,Wyndham
+3281,Wyndham
+3282,Adelaide Hills
+3283,Armadale
+3284,Armadale
+3285,Kyogle
+3286,Bunbury
+3287,Horsham
+3288,Horsham
+3289,Glenorchy
+3290,Clarence Valley
+3291,Warrnambool
+3292,Central Coast (NSW)
+3293,Central Coast (NSW)
+3294,Central Coast (NSW)
+3295,Canterbury-Bankstown
+3296,Brisbane
+3297,West Torrens
+3298,Onkaparinga
+3299,Adelaide Hills
+3300,Gingin
+3301,Brisbane
+3302,Moora
+3303,Queanbeyan-Palerang
+3304,Ipswich
+3305,Ipswich
+3306,Ipswich
+3307,Ipswich
+3308,Port Macquarie-Hastings
+3309,Port Macquarie-Hastings
+3310,South Burnett
+3311,Melbourne
+3312,Melbourne
+3313,Melbourne
+3314,Corangamite
+3315,Redland
+3316,Gingin
+3317,West Tamar
+3318,West Tamar
+3319,MacDonnell
+3320,Mid-Coast
+3321,Clarence Valley
+3322,Perth
+3323,Bayside (NSW)
+3324,Chittering
+3325,Banana
+3326,Logan
+3327,Toowoomba
+3328,Busselton
+3329,Wellington
+3330,Charters Towers
+3331,Charters Towers
+3332,Wagga Wagga
+3333,Wagga Wagga
+3334,Gympie
+3335,Gold Coast
+3336,Gold Coast
+3337,Sunshine Coast
+3338,Lachlan
+3339,Williams
+3340,Moreton Bay
+3341,Townsville
+3342,Lake Macquarie
+3343,Goulburn Mulwaree
+3344,Darwin
+3345,Launceston
+3346,Augusta Margaret River
+3347,Scenic Rim
+3348,Mitchell
+3349,Mitchell
+3350,Derwent Valley
+3351,Stirling
+3352,Isaac
+3353,Loxton Waikerie
+3354,Knox
+3355,Baw Baw
+3356,Rockhampton
+3357,South Burnett
+3358,Kingston (Vic.)
+3359,Penrith
+3360,Charters Towers
+3361,Tatiara
+3362,Tatiara
+3363,Moyne
+3364,Moyne
+3365,Scenic Rim
+3366,Alice Springs
+3367,Quilpie
+3368,Gold Coast
+3369,Hobsons Bay
+3370,Wollondilly
+3371,Kempsey
+3372,Burnie
+3373,Mid Murray
+3374,Latrobe (Vic.)
+3375,Forbes
+3376,Gold Coast
+3377,Glen Eira
+3378,Canterbury-Bankstown
+3379,Port Stephens
+3380,Kalgoorlie-Boulder
+3381,Cardinia
+3382,Kwinana
+3383,George Town
+3384,Northern Beaches
+3385,Brisbane
+3386,Mackay
+3387,Bundaberg
+3388,Wyndham
+3389,Toowoomba
+3390,Mount Alexander
+3391,Strathbogie
+3392,Golden Plains
+3393,Cockburn
+3394,Charters Towers
+3395,Charters Towers
+3396,Charters Towers
+3397,Campbelltown (NSW)
+3398,Macedon Ranges
+3399,Orange
+3400,Stirling
+3401,Moreton Bay
+3402,Moreton Bay
+3403,Wattle Range
+3404,Cairns
+3405,Casey
+3406,Rockingham
+3407,Bayswater
+3408,Adelaide Plains
+3409,Northern Midlands
+3410,Northern Midlands
+3411,Moreton Bay
+3412,Lake Macquarie
+3413,Logan
+3414,Monash
+3415,Clarence
+3416,Kojonup
+3417,Gympie
+3418,Isaac
+3419,Penrith
+3420,Litchfield
+3421,Wentworth
+3422,Mount Marshall
+3423,Kingston (SA)
+3424,Karratha
+3425,Greater Geelong
+3426,Somerset
+3427,Buloke
+3428,Port Augusta
+3429,Camden
+3430,Greater Geraldton
+3431,Northern Grampians
+3432,Noosa
+3433,Logan
+3434,Sunshine Coast
+3435,Whittlesea
+3436,Whittlesea
+3437,Cowra
+3438,Wellington
+3439,Barkly
+3440,Whitsunday
+3441,Livingstone
+3442,Meander Valley
+3443,Meander Valley
+3444,Murray
+3445,Mid-Coast
+3446,Casey
+3447,Litchfield
+3448,Toowoomba
+3449,Toowoomba
+3450,Toowoomba
+3451,Kwinana
+3452,East Gippsland
+3453,Toowoomba
+3454,Toowoomba
+3455,Dubbo
+3456,Clarence Valley
+3457,MacDonnell
+3458,Elliston
+3459,Brimbank
+3460,King Island
+3461,Richmond Valley
+3462,Kempsey
+3463,Maroondah
+3464,Brisbane
+3465,Lake Macquarie
+3466,Baw Baw
+3467,Brimbank
+3468,Logan
+3469,Upper Hunter
+3470,Whitehorse
+3471,Coolgardie
+3472,Mareeba
+3473,Sunshine Coast
+3474,Mareeba
+3475,Marion
+3476,Vincent
+3477,Port Adelaide Enfield
+3478,Bayside (NSW)
+3479,Western Downs
+3480,Lismore
+3481,Mount Remarkable
+3482,Mount Remarkable
+3483,Narrandera
+3484,Palmerston
+3485,Tablelands
+3486,Port Stephens
+3487,Mornington Peninsula
+3488,Toowoomba
+3489,Yorke Peninsula
+3490,Northern Beaches
+3491,Barkly
+3492,Sydney
+3493,Unincorporated ACT
+3494,Warrnambool
+3495,Queanbeyan-Palerang
+3496,Moreton Bay
+3497,Gympie
+3498,Baw Baw
+3499,Toowoomba
+3500,Casey
+3501,Wellington
+3502,Canterbury-Bankstown
+3503,Cumberland
+3504,Redland
+3505,Flinders (Qld)
+3506,Wagga Wagga
+3507,Liverpool
+3508,Coorong
+3509,Gladstone
+3510,Wagga Wagga
+3511,North Sydney
+3512,Mornington Peninsula
+3513,Fairfield
+3514,Weddin
+3515,Stonnington
+3516,Kangaroo Island
+3517,Clarence Valley
+3518,Serpentine-Jarrahdale
+3519,MacDonnell
+3520,Loxton Waikerie
+3521,Monash
+3522,Central Coast (NSW)
+3523,Bland
+3524,Glenelg
+3525,Mareeba
+3526,Port Macquarie-Hastings
+3527,Toowoomba
+3528,Sunshine Coast
+3529,Somerset
+3530,East Gippsland
+3531,Alexandrina
+3532,Tamworth
+3533,Gold Coast
+3534,Blacktown
+3535,Break O'Day
+3536,Glenelg
+3537,Wagga Wagga
+3538,Marion
+3539,MacDonnell
+3540,Kempsey
+3541,Derby-West Kimberley
+3542,Brisbane
+3543,Greater Geelong
+3544,Greater Geelong
+3545,Mundaring
+3546,Hobsons Bay
+3547,Unincorporated NSW
+3548,Gilgandra
+3549,Busselton
+3550,Gympie
+3551,Fraser Coast
+3552,Townsville
+3553,Donnybrook-Balingup
+3554,Light
+3555,Townsville
+3556,Townsville
+3557,Vincent
+3558,Whitsunday
+3559,Ryde
+3560,Monash
+3561,Western Downs
+3562,Corangamite
+3563,Glen Eira
+3564,Belmont
+3565,Fairfield
+3566,Nungarin
+3567,Nungarin
+3568,Central Coast (NSW)
+3569,Lithgow
+3570,Lithgow
+3571,Hume
+3572,Bayside (Vic.)
+3573,Mitchell
+3574,Redland
+3575,Northam
+3576,Wagga Wagga
+3577,Whitsunday
+3578,Central Desert
+3579,South Burnett
+3580,Unley
+3581,Albury
+3582,Gladstone
+3583,Port Hedland
+3584,Camden
+3585,Kempsey
+3586,Melville
+3587,Bassendean
+3588,Yilgarn
+3589,Maranoa
+3590,Central Highlands (Qld)
+3591,Warrumbungle
+3592,McKinlay
+3593,Victoria Daly
+3594,Maranoa
+3595,Broome
+3596,Southern Downs
+3597,East Gippsland
+3598,Unincorporated SA
+3599,Gold Coast
+3600,Logan
+3601,Singleton
+3602,West Coast
+3603,Brisbane
+3604,Victoria Daly
+3605,Nillumbik
+3606,Dubbo
+3607,Dubbo
+3608,Parramatta
+3609,Moorabool
+3610,Gympie
+3611,Chapman Valley
+3612,Cessnock
+3613,Snowy Monaro
+3614,Mitchell
+3615,The Hills
+3616,Litchfield
+3617,Port Pirie
+3618,Cumberland
+3619,Sutherland
+3620,Uralla
+3621,Launceston
+3622,Broomehill-Tambellup
+3623,Gosnells
+3624,Kyogle
+3625,Darwin
+3626,Meekatharra
+3627,Greater Hume
+3628,Esperance
+3629,Williams
+3630,Sunshine Coast
+3631,North Burnett
+3632,Port Augusta
+3633,Capel
+3634,Mid Murray
+3635,Armidale
+3636,Cardinia
+3637,Tablelands
+3638,Albany
+3639,Mandurah
+3640,Ballarat
+3641,Sunshine Coast
+3642,Strathbogie
+3643,Kwinana
+3644,Willoughby
+3645,Brisbane
+3646,Launceston
+3647,Monash
+3648,Macedon Ranges
+3649,Inverell
+3650,Cardinia
+3651,Moreton Bay
+3652,Warrumbungle
+3653,Canning
+3654,Clare and Gilbert Valleys
+3655,Dubbo
+3656,Gladstone
+3657,Whittlesea
+3658,Kalgoorlie-Boulder
+3659,Warrnambool
+3660,Pyrenees
+3661,Cardinia
+3662,Tamworth
+3663,Tablelands
+3664,Ballarat
+3665,Break O'Day
+3666,Blacktown
+3667,Ararat
+3668,Brimbank
+3669,MacDonnell
+3670,Kalgoorlie-Boulder
+3671,Charles Sturt
+3672,Devonport
+3673,Georges River
+3674,Western Downs
+3675,Port Hedland
+3676,Bundaberg
+3677,Moreton Bay
+3678,Mornington Peninsula
+3679,Serpentine-Jarrahdale
+3680,Mount Barker
+3681,Mornington Peninsula
+3682,Gawler
+3683,Shoalhaven
+3684,Shoalhaven
+3685,Shoalhaven
+3686,Pyrenees
+3687,Swan Hill
+3688,Blacktown
+3689,Armadale
+3690,Moreton Bay
+3691,Mitcham
+3692,Blacktown
+3693,Colac Otway
+3694,Gold Coast
+3695,Bega Valley
+3696,Dandaragan
+3697,Loddon
+3698,Busselton
+3699,Busselton
+3700,Warrumbungle
+3701,Cardinia
+3702,Bundaberg
+3703,Northern Beaches
+3704,Ku-ring-gai
+3705,Southern Midlands
+3706,Brisbane
+3707,Donnybrook-Balingup
+3708,Donnybrook-Balingup
+3709,Gympie
+3710,Gympie
+3711,Goulburn Mulwaree
+3712,Inner West
+3713,Gold Coast
+3714,Southern Downs
+3715,Mitchell
+3716,Bellingen
+3717,Port Adelaide Enfield
+3718,Logan
+3719,Victor Harbor
+3720,West Tamar
+3721,Baw Baw
+3722,Upper Lachlan
+3723,Cowra
+3724,Cowra
+3725,Cowra
+3726,Williams
+3727,Adelaide Hills
+3728,Burnie
+3729,Baw Baw
+3730,Huon Valley
+3731,Cumberland
+3732,Lake Macquarie
+3733,Mid-Coast
+3734,Central Coast (NSW)
+3735,Dundas
+3736,Port Macquarie-Hastings
+3737,Melton
+3738,Banana
+3739,Norwood Payneham and St Peters
+3740,Redland
+3741,Unincorporated ACT
+3742,Bogan
+3743,Liverpool
+3744,Brisbane
+3745,MacDonnell
+3746,Charters Towers
+3747,Parramatta
+3748,Campbelltown (SA)
+3749,Maroondah
+3750,Lake Macquarie
+3751,Light
+3752,Burdekin
+3753,Cockburn
+3754,Bundaberg
+3755,Greater Geelong
+3756,Wollongong
+3757,Federation
+3758,Unincorporated ACT
+3759,Townsville
+3760,Scenic Rim
+3761,Singleton
+3762,Tenterfield
+3763,Northern Beaches
+3764,Fraser Coast
+3765,Brisbane
+3766,Sunshine Coast
+3767,Casey
+3768,Moreton Bay
+3769,Southern Downs
+3770,Clarence Valley
+3771,Redland
+3772,Barossa
+3773,Barossa
+3774,Brimbank
+3775,Central Highlands (Qld)
+3776,Sunshine Coast
+3777,MacDonnell
+3778,Latrobe (Vic.)
+3779,Cardinia
+3780,Greater Dandenong
+3781,Towong
+3782,Sunshine Coast
+3783,Unincorporated SA
+3784,Unincorporated SA
+3785,Tablelands
+3786,Surf Coast
+3787,Barossa
+3788,Wyndham
+3789,Ipswich
+3790,Mackay
+3791,Yarriambiack
+3792,Wollongong
+3793,Lake Grace
+3794,Maitland
+3795,Dardanup
+3796,North Burnett
+3797,Loddon
+3798,Boroondara
+3799,Kondinin
+3800,Mount Alexander
+3801,Moreton Bay
+3802,Moreton Bay
+3803,Surf Coast
+3804,Bundaberg
+3805,Bundaberg
+3806,Western Downs
+3807,Onkaparinga
+3808,Canterbury-Bankstown
+3809,Yankalilla
+3810,Baw Baw
+3811,Cardinia
+3812,Litchfield
+3813,Indigo
+3814,Augusta Margaret River
+3815,Corangamite
+3816,Murray Bridge
+3817,Cumberland
+3818,Wellington
+3819,Kent
+3820,Barossa
+3821,Gympie
+3822,Greater Shepparton
+3823,Campbelltown (NSW)
+3824,Meekatharra
+3825,Burdekin
+3826,Narrabri
+3827,Port Adelaide Enfield
+3828,Kingston (Vic.)
+3829,The Hills
+3830,Canada Bay
+3831,Belmont
+3832,Brisbane
+3833,Coolgardie
+3834,Port Macquarie-Hastings
+3835,Ballina
+3836,Wollondilly
+3837,Moreton Bay
+3838,Moreton Bay
+3839,Fraser Coast
+3840,Charles Sturt
+3841,Casey
+3842,Mildura
+3843,Blacktown
+3844,Isaac
+3845,Logan
+3846,Wollondilly
+3847,Brisbane
+3848,Mid-Coast
+3849,Bundaberg
+3850,Scenic Rim
+3851,Fairfield
+3852,Port Augusta
+3853,Melbourne
+3854,Wagin
+3855,Townsville
+3856,Bunbury
+3857,Rockhampton
+3858,North Burnett
+3859,Northern Areas
+3860,Cook
+3861,Griffith
+3862,Melton
+3863,Mid-Coast
+3864,Gympie
+3865,Mareeba
+3866,Wagga Wagga
+3867,Greater Bendigo
+3868,Manjimup
+3869,Central Coast (NSW)
+3870,Campaspe
+3871,Yarra
+3872,Fairfield
+3873,Murray
+3874,Moreton Bay
+3875,Barossa
+3876,Logan
+3877,Greater Shepparton
+3878,Warren
+3879,Mitchell
+3880,Lachlan
+3881,Townsville
+3882,Greater Dandenong
+3883,Eurobodalla
+3884,Denmark
+3885,Central Coast (NSW)
+3886,Goulburn Mulwaree
+3887,Wollondilly
+3888,Circular Head
+3889,Singleton
+3890,Blacktown
+3891,Colac Otway
+3892,Gold Coast
+3893,Noosa
+3894,Maranoa
+3895,Yarra Ranges
+3896,Queanbeyan-Palerang
+3897,Naracoorte Lucindale
+3898,West Wimmera
+3899,Harvey
+3900,Cardinia
+3901,Cardinia
+3902,Moreton Bay
+3903,Brisbane
+3904,Central Coast (NSW)
+3905,Light
+3906,Greater Dandenong
+3907,Unincorporated ACT
+3908,Greater Dandenong
+3909,Wagga Wagga
+3910,Charters Towers
+3911,Charters Towers
+3912,Cardinia
+3913,Canterbury-Bankstown
+3914,Shoalhaven
+3915,Wakefield
+3916,Weddin
+3917,Weddin
+3918,Bathurst
+3919,Cardinia
+3920,Melton
+3921,Harvey
+3922,Gladstone
+3923,Inverell
+3924,Hume
+3925,Bundaberg
+3926,Bundaberg
+3927,Banana
+3928,Wickepin
+3929,Adelaide Hills
+3930,Mitcham
+3931,Cairns
+3932,Murray River
+3933,Onkaparinga
+3934,Litchfield
+3935,Sunshine Coast
+3936,Georges River
+3937,Boddington
+3938,Charles Sturt
+3939,Bruce Rock
+3940,South Burnett
+3941,Buloke
+3942,Cowra
+3943,Swan
+3944,Newcastle
+3945,East Arnhem
+3946,Wagga Wagga
+3947,Mornington Peninsula
+3948,Cairns
+3949,Wingecarribee
+3950,Mid Murray
+3951,South Burnett
+3952,Port Macquarie-Hastings
+3953,Light
+3954,Port Macquarie-Hastings
+3955,Mareeba
+3956,Central Highlands (Tas.)
+3957,Kulin
+3958,Cardinia
+3959,Scenic Rim
+3960,Yarra Ranges
+3961,Litchfield
+3962,Kalgoorlie-Boulder
+3963,Augusta Margaret River
+3964,Cockburn
+3965,Gympie
+3966,Northern Grampians
+3967,Bega Valley
+3968,Wellington
+3969,Greater Bendigo
+3970,Brisbane
+3971,Canning
+3972,Prospect
+3973,Greater Dandenong
+3974,South Burnett
+3975,South Burnett
+3976,Cuballing
+3977,Parramatta
+3978,The Hills
+3979,Moreton Bay
+3980,Dungog
+3981,Snowy Valleys
+3982,Unincorporated ACT
+3983,Eurobodalla
+3984,Plantagenet
+3985,Gladstone
+3986,Wanneroo
+3987,Carnarvon
+3988,Esperance
+3989,Greater Shepparton
+3990,Hindmarsh
+3991,Muswellbrook
+3992,Muswellbrook
+3993,Muswellbrook
+3994,Casey
+3995,Mount Barker
+3996,Livingstone
+3997,Serpentine-Jarrahdale
+3998,Serpentine-Jarrahdale
+3999,Georges River
+4000,Bundaberg
+4001,Liverpool
+4002,Coolamon
+4003,Goulburn Mulwaree
+4004,Murray
+4005,Salisbury
+4006,Wyndham-East Kimberley
+4007,Warrnambool
+4008,Beverley
+4009,Mornington Peninsula
+4010,Penrith
+4011,Wanneroo
+4012,Ravensthorpe
+4013,Dubbo
+4014,Dubbo
+4015,Redland
+4016,Redland
+4017,Redland
+4018,Canning
+4019,Augusta Margaret River
+4020,Cessnock
+4021,Joondalup
+4022,Central Highlands (Qld)
+4023,Adelaide Plains
+4024,Mitcham
+4025,Cloncurry
+4026,Swan Hill
+4027,Logan
+4028,Launceston
+4029,Mount Isa
+4030,Cassowary Coast
+4031,Toowoomba
+4032,Coffs Harbour
+4033,Townsville
+4034,South Burnett
+4035,Nillumbik
+4036,Moreton Bay
+4037,Moorabool
+4038,Cockburn
+4039,Swan
+4040,Glenorchy
+4041,Golden Plains
+4042,Cairns
+4043,Ipswich
+4044,Cairns
+4045,Coober Pedy
+4046,Cloncurry
+4047,Cloncurry
+4048,Narromine
+4049,East Gippsland
+4050,Moreton Bay
+4051,Norwood Payneham and St Peters
+4052,Baw Baw
+4053,Onkaparinga
+4054,Burdekin
+4055,Bundaberg
+4056,Penrith
+4057,Armidale
+4058,Gold Coast
+4059,Tatiara
+4060,Dundas
+4061,Dundas
+4062,Mareeba
+4063,Gannawarra
+4064,Roper Gulf
+4065,Donnybrook-Balingup
+4066,Unincorporated SA
+4067,Dubbo
+4068,Gold Coast
+4069,Eurobodalla
+4070,Port Pirie
+4071,Joondalup
+4072,Upper Lachlan
+4073,Bega Valley
+4074,Greater Geelong
+4075,Moira
+4076,Narrandera
+4077,Sunshine Coast
+4078,Central Highlands (Qld)
+4079,Parramatta
+4080,Glenelg
+4081,Glenelg
+4082,Yarra Ranges
+4083,Latrobe (Vic.)
+4084,Narrandera
+4085,Lake Macquarie
+4086,Charters Towers
+4087,Bundaberg
+4088,Katherine
+4089,Katherine
+4090,Camden
+4091,Sunshine Coast
+4092,Marion
+4093,Plantagenet
+4094,Western Downs
+4095,Muswellbrook
+4096,Lockyer Valley
+4097,Tea Tree Gully
+4098,Toowoomba
+4099,Walcha
+4100,Walcha
+4101,Roper Gulf
+4102,Wentworth
+4103,Horsham
+4104,Central Highlands (Qld)
+4105,Sunshine Coast
+4106,Wollongong
+4107,Waverley
+4108,Dalwallinu
+4109,Mount Alexander
+4110,Bundaberg
+4111,Federation
+4112,Federation
+4113,Gold Coast
+4114,Muswellbrook
+4115,Roper Gulf
+4116,Maribyrnong
+4117,Moreton Bay
+4118,Waratah-Wynyard
+4119,Murray
+4120,Bland
+4121,Gnowangerup
+4122,Busselton
+4123,Busselton
+4124,Moreton Bay
+4125,Dubbo
+4126,Sunshine Coast
+4127,Light
+4128,Carrathool
+4129,Mackay
+4130,Glenorchy
+4131,Junee
+4132,Swan
+4133,Livingstone
+4134,Somerset
+4135,Gold Coast
+4136,Bundaberg
+4137,Sydney
+4138,Hawkesbury
+4139,Cassowary Coast
+4140,Shoalhaven
+4141,Canterbury-Bankstown
+4142,Eurobodalla
+4143,Gladstone
+4144,Bayside (NSW)
+4145,Grant
+4146,Grant
+4147,Grant
+4148,Indigo
+4149,Noosa
+4150,Logan
+4151,Plantagenet
+4152,North Sydney
+4153,Loddon
+4154,Alexandrina
+4155,Murray
+4156,Murray
+4157,Litchfield
+4158,Maitland
+4159,Mornington Peninsula
+4160,Wollongong
+4161,Litchfield
+4162,Rockingham
+4163,Fairfield
+4164,Fairfield
+4165,Hobart
+4166,Snowy Valleys
+4167,Moreton Bay
+4168,Lake Macquarie
+4169,Whittlesea
+4170,Gold Coast
+4171,Cabonne
+4172,Goulburn Mulwaree
+4173,Inverell
+4174,Scenic Rim
+4175,Scenic Rim
+4176,Capel
+4177,Capel
+4178,Campbelltown (SA)
+4179,Bunbury
+4180,Bunbury
+4181,Goyder
+4182,Wongan-Ballidu
+4183,Gold Coast
+4184,Toowoomba
+4185,Whittlesea
+4186,Bundaberg
+4187,Unincorporated SA
+4188,Buloke
+4189,Cardinia
+4190,Banyule
+4191,Wanneroo
+4192,Bundaberg
+4193,Marion
+4194,East Gippsland
+4195,Ceduna
+4196,Victoria Daly
+4197,Copper Coast
+4198,Wollongong
+4199,Western Downs
+4200,Wellington
+4201,Central Goldfields
+4202,Somerset
+4203,Victor Harbor
+4204,Kwinana
+4205,Melbourne
+4206,Swan
+4207,Renmark Paringa
+4208,Kingston (Vic.)
+4209,Townsville
+4210,Wyndham
+4211,Bayside (NSW)
+4212,Wollongong
+4213,Isaac
+4214,Isaac
+4215,Wollongong
+4216,Collie
+4217,Adelaide Hills
+4218,Cairns
+4219,Busselton
+4220,Cook
+4221,Mitchell
+4222,Mackay
+4223,Logan
+4224,Northern Midlands
+4225,Northern Midlands
+4226,Northern Midlands
+4227,Armadale
+4228,Wodonga
+4229,South Gippsland
+4230,South Gippsland
+4231,Logan
+4232,Snowy Monaro
+4233,Central Coast (NSW)
+4234,Darwin
+4235,Scenic Rim
+4236,Adelaide Hills
+4237,Mareeba
+4238,Townsville
+4239,Yarra Ranges
+4240,Yarra Ranges
+4241,Yarra Ranges
+4242,Mount Barker
+4243,Mildura
+4244,Toowoomba
+4245,Swan Hill
+4246,Cootamundra-Gundagai
+4247,Wollondilly
+4248,Derby-West Kimberley
+4249,Derby-West Kimberley
+4250,Derby-West Kimberley
+4251,Cairns
+4252,Indigo
+4253,Litchfield
+4254,Narrabri
+4255,Richmond Valley
+4256,Brisbane
+4257,Moorabool
+4258,Onkaparinga
+4259,Swan
+4260,Whittlesea
+4261,Sorell
+4262,Sunshine Coast
+4263,Sunshine Coast
+4264,Melbourne
+4265,Port Hedland
+4266,Gold Coast
+4267,Wanneroo
+4268,Williams
+4269,Hume
+4270,Fairfield
+4271,Armadale
+4272,Logan
+4273,Brisbane
+4274,Fraser Coast
+4275,Noosa
+4276,Mount Isa
+4277,Golden Plains
+4278,East Pilbara
+4279,Playford
+4280,Penrith
+4281,Livingstone
+4282,Cloncurry
+4283,Hobsons Bay
+4284,Serpentine-Jarrahdale
+4285,Hilltops
+4286,Hay
+4287,Logan
+4288,Greater Hume
+4289,Alice Springs
+4290,Port Phillip
+4291,Sunshine Coast
+4292,Mount Barker
+4293,Lake Macquarie
+4294,Unincorporated SA
+4295,Bayside (NSW)
+4296,Wollongong
+4297,Vincent
+4298,Hobart
+4299,Mackay
+4300,Menzies
+4301,Charles Sturt
+4302,Greater Shepparton
+4303,Bass Coast
+4304,Cumberland
+4305,Isaac
+4306,Sunshine Coast
+4307,Dandaragan
+4308,Pyrenees
+4309,Whitsunday
+4310,Gympie
+4311,Tweed
+4312,Busselton
+4313,Plantagenet
+4314,Melbourne
+4315,Lake Macquarie
+4316,Greater Geelong
+4317,Clarence
+4318,Mareeba
+4319,Halls Creek
+4320,Yass Valley
+4321,Coffs Harbour
+4322,Moreton Bay
+4323,Northam
+4324,Ipswich
+4325,North Burnett
+4326,South Gippsland
+4327,Weddin
+4328,Greater Bendigo
+4329,Greater Shepparton
+4330,Irwin
+4331,Central Coast (NSW)
+4332,Light
+4333,Clarence Valley
+4334,Randwick
+4335,Southern Downs
+4336,Parramatta
+4337,Mid-Western
+4338,Brisbane
+4339,Walgett
+4340,Lismore
+4341,Cumberland
+4342,Mid-Coast
+4343,The Hills
+4344,Campaspe
+4345,Cessnock
+4346,South Burnett
+4347,Walcha
+4348,Walcha
+4349,Gympie
+4350,Armadale
+4351,Macedon Ranges
+4352,Eurobodalla
+4353,Greater Shepparton
+4354,Yarrabah
+4355,Yarrabah
+4356,Livingstone
+4357,Wyndham
+4358,Wyndham
+4359,Liverpool
+4360,Bundaberg
+4361,Douglas
+4362,Cassowary Coast
+4363,Buloke
+4364,Townsville
+4365,Unincorporated ACT
+4366,Burdekin
+4367,Burdekin
+4368,Burdekin
+4369,Wanneroo
+4370,Wanneroo
+4371,Pingelly
+4372,Central Highlands (Qld)
+4373,Fraser Coast
+4374,Belmont
+4375,Port Pirie
+4376,Canterbury-Bankstown
+4377,Canterbury-Bankstown
+4378,Liverpool
+4379,Inner West
+4380,Cloncurry
+4381,Yass Valley
+4382,Toowoomba
+4383,Cairns
+4384,Unincorporated ACT
+4385,Brisbane
+4386,Shoalhaven
+4387,Ballarat
+4388,Narrabri
+4389,Boroondara
+4390,Sydney
+4391,Broome
+4392,Cumberland
+4393,Knox
+4394,Adelaide Hills
+4395,Bayside (NSW)
+4396,Cook
+4397,Greater Bendigo
+4398,Wagga Wagga
+4399,Corangamite
+4400,Sydney
+4401,Liverpool
+4402,Cessnock
+4403,Kondinin
+4404,Rockingham
+4405,Cue
+4406,Logan
+4407,Kingston (Vic.)
+4408,Alexandrina
+4409,Alexandrina
+4410,Gawler
+4411,Swan
+4412,Lithgow
+4413,Hornsby
+4414,Mornington Peninsula
+4415,Eurobodalla
+4416,Wagga Wagga
+4417,Yass Valley
+4418,Newcastle
+4419,Charters Towers
+4420,Gympie
+4421,Hay
+4422,Georges River
+4423,Bundaberg
+4424,Eurobodalla
+4425,Hepburn
+4426,Kempsey
+4427,Moreton Bay
+4428,Huon Valley
+4429,Scenic Rim
+4430,Frankston
+4431,Mornington Peninsula
+4432,Indigo
+4433,East Gippsland
+4434,West Tamar
+4435,West Tamar
+4436,Ballarat
+4437,Penrith
+4438,Barkly
+4439,Barkly
+4440,Griffith
+4441,Griffith
+4442,Brisbane
+4443,MacDonnell
+4444,Launceston
+4445,Gympie
+4446,Moreton Bay
+4447,Moreton Bay
+4448,Moreton Bay
+4449,Scenic Rim
+4450,Wagin
+4451,South Gippsland
+4452,Bundaberg
+4453,Busselton
+4454,Wagga Wagga
+4455,Wagga Wagga
+4456,West Arnhem
+4457,Gold Coast
+4458,Gold Coast
+4459,Gold Coast
+4460,Greater Geelong
+4461,Whitehorse
+4462,Greater Shepparton
+4463,Sydney
+4464,Kingborough
+4465,Kingborough
+4466,Sunshine Coast
+4467,Serpentine-Jarrahdale
+4468,Dardanup
+4469,Fairfield
+4470,Gympie
+4471,Wanneroo
+4472,Victoria Daly
+4473,Alpine
+4474,Cabonne
+4475,Fraser Coast
+4476,Kalgoorlie-Boulder
+4477,Mildura
+4478,Moreton Bay
+4479,Marion
+4480,Central Highlands (Qld)
+4481,Tweed
+4482,Gladstone
+4483,Gladstone
+4484,Meekatharra
+4485,Meekatharra
+4486,Armidale
+4487,Gympie
+4488,Port Stephens
+4489,Port Stephens
+4490,Cairns
+4491,Inverell
+4492,Holdfast Bay
+4493,Unincorporated NSW
+4494,South Burnett
+4495,Mitchell
+4496,Glen Innes Severn
+4497,Logan
+4498,Wollondilly
+4499,Tamworth
+4500,Goondiwindi
+4501,Dubbo
+4502,Salisbury
+4503,Greater Geelong
+4504,Victoria Daly
+4505,Joondalup
+4506,Mount Alexander
+4507,Mount Alexander
+4508,Katherine
+4509,Kalamunda
+4510,Balonne
+4511,Dardanup
+4512,Colac Otway
+4513,Banana
+4514,Unincorporated ACT
+4515,Federation
+4516,Mid-Coast
+4517,Sydney
+4518,Bundaberg
+4519,Meander Valley
+4520,Derby-West Kimberley
+4521,Northern Grampians
+4522,East Gippsland
+4523,Townsville
+4524,Mareeba
+4525,Gold Coast
+4526,Gold Coast
+4527,Gold Coast
+4528,Gold Coast
+4529,Donnybrook-Balingup
+4530,Mareeba
+4531,Warrumbungle
+4532,Warrumbungle
+4533,Manjimup
+4534,Cabonne
+4535,Yorke Peninsula
+4536,Sutherland
+4537,Northern Beaches
+4538,Cessnock
+4539,Fraser Coast
+4540,Liverpool
+4541,Mount Barker
+4542,Tenterfield
+4543,Salisbury
+4544,Mid Murray
+4545,Sunshine Coast
+4546,Southern Downs
+4547,Lockhart River
+4548,Canning
+4549,Monash
+4550,Monash
+4551,East Gippsland
+4552,Corangamite
+4553,Bundaberg
+4554,Ipswich
+4555,Murrindindi
+4556,Fraser Coast
+4557,Blacktown
+4558,Lake Macquarie
+4559,Busselton
+4560,Brisbane
+4561,Shoalhaven
+4562,Cleve
+4563,Ballina
+4564,Redland
+4565,Brighton
+4566,Gold Coast
+4567,Greater Bendigo
+4568,The Hills
+4569,Lockyer Valley
+4570,Quairading
+4571,Mandurah
+4572,Salisbury
+4573,Barkly
+4574,Light
+4575,Whyalla
+4576,Kyogle
+4577,Serpentine-Jarrahdale
+4578,Clarence Valley
+4579,Shoalhaven
+4580,Adelaide Plains
+4581,Mackay
+4582,Moira
+4583,Moira
+4584,Fraser Coast
+4585,Fraser Coast
+4586,Swan
+4587,Toowoomba
+4588,Yarra
+4589,Sunshine Coast
+4590,Hinchinbrook
+4591,Nillumbik
+4592,Port Stephens
+4593,Blue Mountains
+4594,Cassowary Coast
+4595,Wingecarribee
+4596,Mandurah
+4597,Brisbane
+4598,Logan
+4599,Moreton Bay
+4600,Moreton Bay
+4601,Scenic Rim
+4602,East Gippsland
+4603,Waverley
+4604,Greater Geraldton
+4605,Greater Geraldton
+4606,Mid-Coast
+4607,Capel
+4608,Perth
+4609,Litchfield
+4610,Central Desert
+4611,Wangaratta
+4612,Wangaratta
+4613,Cardinia
+4614,Snowy Monaro
+4615,Canterbury-Bankstown
+4616,Blue Mountains
+4617,Gingin
+4618,Isaac
+4619,Casey
+4620,Casey
+4621,Whitsunday
+4622,Gunnedah
+4623,Canning
+4624,Logan
+4625,Logan
+4626,Townsville
+4627,Townsville
+4628,Townsville
+4629,Townsville
+4630,Katherine
+4631,Yarra Ranges
+4632,Logan
+4633,West Torrens
+4634,Wangaratta
+4635,Logan
+4636,Logan
+4637,Penrith
+4638,Blue Mountains
+4639,Shoalhaven
+4640,Latrobe (Vic.)
+4641,Blacktown
+4642,Liverpool
+4643,Blacktown
+4644,Murray
+4645,Greater Geelong
+4646,Greater Hume
+4647,Brisbane
+4648,Casey
+4649,Fraser Coast
+4650,Whyalla
+4651,Tamworth
+4652,Blacktown
+4653,Wyndham-East Kimberley
+4654,Banyule
+4655,Gold Coast
+4656,Joondalup
+4657,Sunshine Coast
+4658,Monash
+4659,Central Coast (NSW)
+4660,Dardanup
+4661,Hilltops
+4662,Narromine
+4663,Northern Beaches
+4664,Greater Dandenong
+4665,Rockingham
+4666,Randwick
+4667,Rockhampton
+4668,Bathurst
+4669,Mundaring
+4670,Mundaring
+4671,Playford
+4672,Playford
+4673,Rockingham
+4674,Rockingham
+4675,Wanneroo
+4676,Tasman
+4677,Maribyrnong
+4678,Cairns
+4679,Scenic Rim
+4680,Maroondah
+4681,Richmond Valley
+4682,Richmond Valley
+4683,Sunshine Coast
+4684,Moreton Bay
+4685,Greater Bendigo
+4686,Wyndham
+4687,Logan
+4688,North Sydney
+4689,Liverpool
+4690,Fraser Coast
+4691,Wentworth
+4692,Snowy Valleys
+4693,Snowy Valleys
+4694,Alexandrina
+4695,Alexandrina
+4696,Broome
+4697,Port Macquarie-Hastings
+4698,South Burnett
+4699,Campbelltown (NSW)
+4700,Greater Hume
+4701,Moorabool
+4702,South Burnett
+4703,Toowoomba
+4704,Barkly
+4705,Junee
+4706,Bayside (Vic.)
+4707,Charles Sturt
+4708,Mornington
+4709,Wollongong
+4710,Rockhampton
+4711,Wellington
+4712,Wellington
+4713,Rockhampton
+4714,Sutherland
+4715,Sutherland
+4716,Eurobodalla
+4717,Wandering
+4718,Tenterfield
+4719,Esperance
+4720,Esperance
+4721,Clare and Gilbert Valleys
+4722,Western Downs
+4723,Western Downs
+4724,Western Downs
+4725,Burdekin
+4726,West Wimmera
+4727,Renmark Paringa
+4728,Campaspe
+4729,Swan
+4730,Cuballing
+4731,Liverpool
+4732,Moreton Bay
+4733,Wanneroo
+4734,Greater Geelong
+4735,Monash
+4736,Cardinia
+4737,Campaspe
+4738,North Burnett
+4739,Townsville
+4740,Mundaring
+4741,Greater Bendigo
+4742,Joondalup
+4743,Glenorchy
+4744,Barcaldine
+4745,Richmond Valley
+4746,Townsville
+4747,Whitsunday
+4748,Whitsunday
+4749,Gold Coast
+4750,Frankston
+4751,Gold Coast
+4752,Greater Bendigo
+4753,Nannup
+4754,Broken Hill
+4755,Salisbury
+4756,Mount Alexander
+4757,Mount Alexander
+4758,Barossa
+4759,Mitchell
+4760,Sunshine Coast
+4761,Lismore
+4762,Mackay
+4763,Logan
+4764,Maitland
+4765,Unincorporated ACT
+4766,Unincorporated ACT
+4767,Serpentine-Jarrahdale
+4768,Unley
+4769,Unley
+4770,Byron
+4771,Wollongong
+4772,Wollongong
+4773,Brisbane
+4774,Brisbane
+4775,Liverpool
+4776,Logan
+4777,Ngaanyatjarraku
+4778,Newcastle
+4779,Coorong
+4780,Nillumbik
+4781,Fraser Coast
+4782,Blacktown
+4783,Blacktown
+4784,North Burnett
+4785,Litchfield
+4786,Central Coast (NSW)
+4787,Lithgow
+4788,Southern Downs
+4789,Whitehorse
+4790,Mount Barker
+4791,Inner West
+4792,Parramatta
+4793,Yarra Ranges
+4794,Moreton Bay
+4795,Wyndham
+4796,Junee
+4797,Moreton Bay
+4798,Joondalup
+4799,Penrith
+4800,Mandurah
+4801,Circular Head
+4802,Brisbane
+4803,Whittlesea
+4804,Liverpool
+4805,Wandering
+4806,Coffs Harbour
+4807,Cessnock
+4808,Port Macquarie-Hastings
+4809,Bundaberg
+4810,Bathurst
+4811,Manjimup
+4812,Manjimup
+4813,Rockingham
+4814,Shoalhaven
+4815,Bathurst
+4816,Boroondara
+4817,Mount Isa
+4818,Moreton Bay
+4819,Wudinna
+4820,West Wimmera
+4821,Northern Grampians
+4822,Sorell
+4823,Snowy Monaro
+4824,Charters Towers
+4825,Randwick
+4826,Armadale
+4827,Gympie
+4828,Gympie
+4829,Walcha
+4830,Central Goldfields
+4831,Wanneroo
+4832,Greater Geelong
+4833,Warrnambool
+4834,South Gippsland
+4835,Brisbane
+4836,East Gippsland
+4837,Darebin
+4838,Corrigin
+4839,Greater Geelong
+4840,Melton
+4841,Gold Coast
+4842,Lake Macquarie
+4843,Gold Coast
+4844,Cassowary Coast
+4845,Anangu Pitjantjatjara Yankunytjatjara
+4846,Knox
+4847,Northern Grampians
+4848,Yarra Ranges
+4849,Central Coast (NSW)
+4850,Derby-West Kimberley
+4851,Gingin
+4852,Temora
+4853,Plantagenet
+4854,Gold Coast
+4855,Elliston
+4856,Greater Shepparton
+4857,Adelaide Hills
+4858,Latrobe (Vic.)
+4859,Renmark Paringa
+4860,Salisbury
+4861,Adelaide Hills
+4862,Fremantle
+4863,Mildura
+4864,Latrobe (Vic.)
+4865,Brisbane
+4866,Toodyay
+4867,Toodyay
+4868,Moreton Bay
+4869,Parkes
+4870,Streaky Bay
+4871,Mackay
+4872,Goyder
+4873,Brisbane
+4874,South Burnett
+4875,South Burnett
+4876,Adelaide Plains
+4877,Singleton
+4878,Port Stephens
+4879,Federation
+4880,Northern Grampians
+4881,Inverell
+4882,Yass Valley
+4883,East Gippsland
+4884,Mount Remarkable
+4885,Bundaberg
+4886,Central Coast (NSW)
+4887,Isaac
+4888,Tamworth
+4889,Holdfast Bay
+4890,Mornington Peninsula
+4891,Sunshine Coast
+4892,Hilltops
+4893,Townsville
+4894,Hornsby
+4895,Southern Grampians
+4896,Mornington Peninsula
+4897,Livingstone
+4898,Victoria Plains
+4899,Blacktown
+4900,Somerset
+4901,Mareeba
+4902,Cabonne
+4903,Ryde
+4904,South Burnett
+4905,South Gippsland
+4906,Loxton Waikerie
+4907,Adelaide Hills
+4908,Circular Head
+4909,Moonee Valley
+4910,Gold Coast
+4911,Clarence
+4912,Murray Bridge
+4913,Frankston
+4914,Canterbury-Bankstown
+4915,Port Phillip
+4916,Clarence Valley
+4917,Frankston
+4918,Warrumbungle
+4919,Warrumbungle
+4920,Dubbo
+4921,Victoria Daly
+4922,Port Augusta
+4923,Hornsby
+4924,Mackay
+4925,Mansfield
+4926,Kingston (Vic.)
+4927,Northampton
+4928,Northampton
+4929,Ipswich
+4930,Wollongong
+4931,Federation
+4932,Lockyer Valley
+4933,Palmerston
+4934,Redland
+4935,Palmerston
+4936,Tweed
+4937,Wagin
+4938,Melville
+4939,Corangamite
+4940,Beverley
+4941,West Wimmera
+4942,Mornington Peninsula
+4943,Litchfield
+4944,Yass Valley
+4945,Greater Shepparton
+4946,Brisbane
+4947,Huon Valley
+4948,Lachlan
+4949,Port Augusta
+4950,Port Augusta
+4951,Clarence Valley
+4952,Clarence Valley
+4953,Northern Beaches
+4954,Ku-ring-gai
+4955,Bridgetown-Greenbushes
+4956,Casey
+4957,Mornington Peninsula
+4958,Harvey
+4959,Parramatta
+4960,Parramatta
+4961,Parramatta
+4962,Parramatta
+4963,Warrnambool
+4964,Rockingham
+4965,Cessnock
+4966,Whittlesea
+4967,Lower Eyre Peninsula
+4968,Longreach
+4969,Horsham
+4970,Mount Alexander
+4971,Kangaroo Island
+4972,Somerset
+4973,Southern Downs
+4974,Parramatta
+4975,Cessnock
+4976,Central Coast (Tas.)
+4977,Wanneroo
+4978,Singleton
+4979,Bayside (NSW)
+4980,Unincorporated NT
+4981,Shoalhaven
+4982,Northern Beaches
+4983,Sydney
+4984,Mareeba
+4985,Latrobe (Tas.)
+4986,Moyne
+4987,Somerset
+4988,Wollongong
+4989,Temora
+4990,Monash
+4991,Kimba
+4992,Isaac
+4993,Isaac
+4994,Alexandrina
+4995,Tablelands
+4996,Penrith
+4997,Moira
+4998,Toowoomba
+4999,Ku-ring-gai
+5000,Shellharbour
+5001,Darebin
+5002,Darebin
+5003,Sydney
+5004,Fairfield
+5005,Meander Valley
+5006,Meander Valley
+5007,Meander Valley
+5008,Latrobe (Vic.)
+5009,Salisbury
+5010,Victoria Park
+5011,Moreton Bay
+5012,Swan
+5013,Busselton
+5014,Campbelltown (NSW)
+5015,Central Goldfields
+5016,Strathbogie
+5017,Murrindindi
+5018,Port Stephens
+5019,Bundaberg
+5020,Whitsunday
+5021,Greater Geelong
+5022,Parkes
+5023,Upper Lachlan
+5024,Yorke Peninsula
+5025,Ipswich
+5026,Clarence Valley
+5027,Warrnambool
+5028,Cootamundra-Gundagai
+5029,Brisbane
+5030,Devonport
+5031,Southern Midlands
+5032,Cumberland
+5033,Parkes
+5034,Frankston
+5035,Greater Geraldton
+5036,South Gippsland
+5037,Huon Valley
+5038,Mid-Western
+5039,Shoalhaven
+5040,Launceston
+5041,Griffith
+5042,Mornington Peninsula
+5043,Central Highlands (Qld)
+5044,Mornington Peninsula
+5045,Central Highlands (Qld)
+5046,Burnie
+5047,Murray Bridge
+5048,Murray Bridge
+5049,Coorong
+5050,Broomehill-Tambellup
+5051,Broomehill-Tambellup
+5052,Central Coast (NSW)
+5053,Toowoomba
+5054,Wollondilly
+5055,Armadale
+5056,Loxton Waikerie
+5057,Horsham
+5058,Harvey
+5059,Harvey
+5060,Ryde
+5061,Latrobe (Vic.)
+5062,Townsville
+5063,Mid-Western
+5064,Salisbury
+5065,Darebin
+5066,Darebin
+5067,Liverpool
+5068,Rockingham
+5069,Yarra Ranges
+5070,Capel
+5071,Toowoomba
+5072,Central Goldfields
+5073,Barossa
+5074,Moyne
+5075,Bellingen
+5076,Bellingen
+5077,Bellingen
+5078,Clarence Valley
+5079,Hepburn
+5080,Katanning
+5081,Eurobodalla
+5082,Eurobodalla
+5083,Mitchell
+5084,Bass Coast
+5085,Mount Alexander
+5086,Hepburn
+5087,Hume
+5088,Newcastle
+5089,Kojonup
+5090,Glenorchy
+5091,Cumberland
+5092,Isaac
+5093,Port Adelaide Enfield
+5094,Glen Eira
+5095,Roper Gulf
+5096,Jerramungup
+5097,Waverley
+5098,Kingston (Vic.)
+5099,Charters Towers
+5100,Glen Eira
+5101,Roper Gulf
+5102,Adelaide Hills
+5103,Warrumbungle
+5104,Warrumbungle
+5105,Mackay
+5106,Colac Otway
+5107,Moorabool
+5108,Southern Mallee
+5109,Donnybrook-Balingup
+5110,Donnybrook-Balingup
+5111,Toowoomba
+5112,Mackay
+5113,Tea Tree Gully
+5114,Coorong
+5115,West Arnhem
+5116,West Arnhem
+5117,West Arnhem
+5118,West Arnhem
+5119,West Arnhem
+5120,Mareeba
+5121,Darwin
+5122,Queanbeyan-Palerang
+5123,Murrindindi
+5124,Wollongong
+5125,Cessnock
+5126,Singleton
+5127,Hume
+5128,Unincorporated ACT
+5129,Upper Lachlan
+5130,Charles Sturt
+5131,Greater Dandenong
+5132,Upper Lachlan
+5133,Boddington
+5134,Coffs Harbour
+5135,Lismore
+5136,Yorke Peninsula
+5137,Lockyer Valley
+5138,Ryde
+5139,Kempsey
+5140,Greater Bendigo
+5141,Sutherland
+5142,Carnamah
+5143,Cockburn
+5144,Port Stephens
+5145,Derwent Valley
+5146,Hepburn
+5147,Hepburn
+5148,Litchfield
+5149,Coolgardie
+5150,Kingston (SA)
+5151,Dundas
+5152,Clare and Gilbert Valleys
+5153,Brimbank
+5154,Greater Geelong
+5155,Mid-Coast
+5156,Etheridge
+5157,Dardanup
+5158,Hawkesbury
+5159,Hawkesbury
+5160,Horsham
+5161,Port Adelaide Enfield
+5162,Whittlesea
+5163,Maranoa
+5164,Greater Bendigo
+5165,Brimbank
+5166,Mount Alexander
+5167,Kingborough
+5168,Frankston
+5169,Central Highlands (Qld)
+5170,Eurobodalla
+5171,Nambucca Valley
+5172,Ashburton
+5173,Salisbury
+5174,Central Coast (NSW)
+5175,Lockyer Valley
+5176,Colac Otway
+5177,Northern Beaches
+5178,Greater Geelong
+5179,Mackay
+5180,Lismore
+5181,Victoria Daly
+5182,Dorset
+5183,Dubbo
+5184,Cairns
+5185,Cairns
+5186,Coffs Harbour
+5187,Bathurst
+5188,Whitsunday
+5189,Karratha
+5190,Parkes
+5191,Ceduna
+5192,Unincorporated SA
+5193,Bega Valley
+5194,Mackay
+5195,West Arthur
+5196,Brisbane
+5197,Shoalhaven
+5198,Alice Springs
+5199,Alice Springs
+5200,Alice Springs
+5201,Playford
+5202,Bruce Rock
+5203,Sunshine Coast
+5204,Waratah-Wynyard
+5205,Towong
+5206,Port Pirie
+5207,Nambucca Valley
+5208,Snowy Monaro
+5209,Snowy Monaro
+5210,Snowy Monaro
+5211,Manningham
+5212,Cloncurry
+5213,Canterbury-Bankstown
+5214,Wyndham
+5215,South Gippsland
+5216,Ipswich
+5217,Cabonne
+5218,Playford
+5219,Wentworth
+5220,Bogan
+5221,Coorong
+5222,Logan
+5223,Logan
+5224,Mornington Peninsula
+5225,Brimbank
+5226,Hawkesbury
+5227,Baw Baw
+5228,Gladstone
+5229,Noosa
+5230,Wyndham-East Kimberley
+5231,Salisbury
+5232,Bundaberg
+5233,Mid-Western
+5234,Georges River
+5235,Blayney
+5236,Mackay
+5237,Townsville
+5238,Blacktown
+5239,Playford
+5240,Maitland
+5241,Unincorporated SA
+5242,Broomehill-Tambellup
+5243,Ararat
+5244,Perth
+5245,Bundaberg
+5246,Cabonne
+5247,Greater Geelong
+5248,Wakefield
+5249,Wakefield
+5250,Baw Baw
+5251,Shellharbour
+5252,Lake Macquarie
+5253,Augusta Margaret River
+5254,Lake Macquarie
+5255,Port Phillip
+5256,Wyndham
+5257,Cardinia
+5258,Capel
+5259,Unincorporated SA
+5260,Cambridge
+5261,Cootamundra-Gundagai
+5262,Warrumbungle
+5263,Onkaparinga
+5264,Moorabool
+5265,Newcastle
+5266,Cairns
+5267,Gladstone
+5268,Fairfield
+5269,Frankston
+5270,Light
+5271,Canterbury-Bankstown
+5272,Yarra Ranges
+5273,Singleton
+5274,Southern Grampians
+5275,Townsville
+5276,Brimbank
+5277,Wanneroo
+5278,Gold Coast
+5279,Salisbury
+5280,Tea Tree Gully
+5281,Parramatta
+5282,Blacktown
+5283,Blacktown
+5284,Launceston
+5285,Mount Gambier
+5286,West Wimmera
+5287,Gold Coast
+5288,Mornington Peninsula
+5289,Carrathool
+5290,Adelaide Hills
+5291,Shoalhaven
+5292,Bellingen
+5293,Clarence Valley
+5294,Tablelands
+5295,Gosnells
+5296,Gosnells
+5297,South Gippsland
+5298,Mareeba
+5299,Towong
+5300,Unincorporated ACT
+5301,Hume
+5302,Nambucca Valley
+5303,Brisbane
+5304,Mid-Coast
+5305,Mid-Coast
+5306,Alpine
+5307,Ballarat
+5308,Wakefield
+5309,Tweed
+5310,Campbelltown (NSW)
+5311,Yankalilla
+5312,Balranald
+5313,Gladstone
+5314,Greater Hume
+5315,Burdekin
+5316,Port Adelaide Enfield
+5317,Bundaberg
+5318,Bundaberg
+5319,Wagga Wagga
+5320,Onkaparinga
+5321,Yarriambiack
+5322,Gold Coast
+5323,Greater Bendigo
+5324,Colac Otway
+5325,Bellingen
+5326,Devonport
+5327,Hawkesbury
+5328,Moreton Bay
+5329,Sunshine Coast
+5330,Clarence Valley
+5331,Greater Geelong
+5332,Greater Geelong
+5333,Kyogle
+5334,Casey
+5335,Noosa
+5336,Horsham
+5337,Cairns
+5338,Cairns
+5339,Charles Sturt
+5340,Mornington Peninsula
+5341,Toowoomba
+5342,Indigo
+5343,Sutherland
+5344,Litchfield
+5345,Unincorporated NSW
+5346,Noosa
+5347,Greater Geelong
+5348,Swan
+5349,Adelaide Hills
+5350,Livingstone
+5351,York
+5352,Camden
+5353,Hume
+5354,Hume
+5355,Mackay
+5356,Derby-West Kimberley
+5357,Mornington Peninsula
+5358,Shoalhaven
+5359,Dubbo
+5360,Coffs Harbour
+5361,Bundaberg
+5362,Mid-Coast
+5363,Brisbane
+5364,Brisbane
+5365,Greater Bendigo
+5366,Hawkesbury
+5367,Tweed
+5368,Brisbane
+5369,Ashburton
+5370,Busselton
+5371,Busselton
+5372,Wellington
+5373,Townsville
+5374,Moira
+5375,Randwick
+5376,Central Highlands (Qld)
+5377,Mildura
+5378,Yarra Ranges
+5379,Tweed
+5380,Brisbane
+5381,Central Coast (NSW)
+5382,South Perth
+5383,Latrobe (Vic.)
+5384,Lake Macquarie
+5385,Cairns
+5386,Blacktown
+5387,Maitland
+5388,Georges River
+5389,Victoria Daly
+5390,Shoalhaven
+5391,Mid-Coast
+5392,Moreton Bay
+5393,Denmark
+5394,Hume
+5395,Moira
+5396,Moira
+5397,Eurobodalla
+5398,Fairfield
+5399,Parramatta
+5400,North Burnett
+5401,Brookton
+5402,Mid-Western
+5403,Redland
+5404,Tweed
+5405,Campbelltown (NSW)
+5406,The Hills
+5407,Ipswich
+5408,Somerset
+5409,Irwin
+5410,Bland
+5411,Sunshine Coast
+5412,Junee
+5413,Sunshine Coast
+5414,Brimbank
+5415,Bellingen
+5416,Playford
+5417,Burnie
+5418,Muswellbrook
+5419,Burke
+5420,Casey
+5421,Latrobe (Vic.)
+5422,Latrobe (Vic.)
+5423,Georges River
+5424,Georges River
+5425,Kalamunda
+5426,Byron
+5427,Byron
+5428,Cairns
+5429,Loddon
+5430,Dandaragan
+5431,Dandaragan
+5432,Cowra
+5433,Toowoomba
+5434,Ballina
+5435,Queanbeyan-Palerang
+5436,Monash
+5437,Monash
+5438,Moreton Bay
+5439,Macedon Ranges
+5440,Blue Mountains
+5441,Brimbank
+5442,Harvey
+5443,Broomehill-Tambellup
+5444,Hawkesbury
+5445,Cairns
+5446,Hobart
+5447,Brewarrina
+5448,Macedon Ranges
+5449,Townsville
+5450,Gympie
+5451,Unincorporated ACT
+5452,Fairfield
+5453,Serpentine-Jarrahdale
+5454,Charles Sturt
+5455,Southern Downs
+5456,Toowoomba
+5457,Greater Shepparton
+5458,Hinchinbrook
+5459,Hinchinbrook
+5460,Canada Bay
+5461,Strathfield
+5462,Brisbane
+5463,Nambucca Valley
+5464,Swan Hill
+5465,Brisbane
+5466,Canning
+5467,Western Downs
+5468,Murrindindi
+5469,Glen Innes Severn
+5470,Sydney
+5471,Central Darling
+5472,Rockingham
+5473,Loxton Waikerie
+5474,Melbourne
+5475,Somerset
+5476,Gold Coast
+5477,Scenic Rim
+5478,Cairns
+5479,Armidale
+5480,Wodonga
+5481,Queanbeyan-Palerang
+5482,Gympie
+5483,Huon Valley
+5484,Streaky Bay
+5485,Port Hedland
+5486,Bundaberg
+5487,Murrumbidgee
+5488,Shoalhaven
+5489,Wyndham
+5490,Goondiwindi
+5491,Darebin
+5492,Longreach
+5493,Central Desert
+5494,Moreton Bay
+5495,Darebin
+5496,Mount Alexander
+5497,Moreton Bay
+5498,Somerset
+5499,Greater Dandenong
+5500,Whitehorse
+5501,Greater Hume
+5502,Salisbury
+5503,Mount Marshall
+5504,Wingecarribee
+5505,Dubbo
+5506,Canning
+5507,Mid-Western
+5508,Canterbury-Bankstown
+5509,Glen Eira
+5510,Kempsey
+5511,Brisbane
+5512,Cootamundra-Gundagai
+5513,Unincorporated SA
+5514,South Burnett
+5515,Sunshine Coast
+5516,Derby-West Kimberley
+5517,Kalgoorlie-Boulder
+5518,Lake Macquarie
+5519,Rockhampton
+5520,Wingecarribee
+5521,Blacktown
+5522,Blacktown
+5523,Brisbane
+5524,Maribyrnong
+5525,Southern Midlands
+5526,Northern Peninsula Area
+5527,Singleton
+5528,Casey
+5529,Casey
+5530,Nedlands
+5531,Hope Vale
+5532,Gladstone
+5533,Clarence Valley
+5534,Brewarrina
+5535,Stirling
+5536,Coffs Harbour
+5537,Wyndham-East Kimberley
+5538,Liverpool
+5539,Canterbury-Bankstown
+5540,Prospect
+5541,Light
+5542,Mid Murray
+5543,Mid Murray
+5544,Queanbeyan-Palerang
+5545,Wingecarribee
+5546,Southern Downs
+5547,Cardinia
+5548,Mackay
+5549,Bayside (NSW)
+5550,Monash
+5551,Coomalie 
+5552,Coomalie 
+5553,Lake Macquarie
+5554,Port Stephens
+5555,Newcastle
+5556,Onkaparinga
+5557,Capel
+5558,Tweed
+5559,Somerset
+5560,Gingin
+5561,Stirling
+5562,Wollongong
+5563,Lake Macquarie
+5564,Cairns
+5565,Dardanup
+5566,Augusta Margaret River
+5567,Shoalhaven
+5568,Swan
+5569,Hume
+5570,Mid-Coast
+5571,Victoria Daly
+5572,Central Coast (NSW)
+5573,McKinlay
+5574,McKinlay
+5575,Scenic Rim
+5576,Southern Midlands
+5577,Boroondara
+5578,Manningham
+5579,Lockyer Valley
+5580,Bundaberg
+5581,Wanneroo
+5582,Melton
+5583,Northern Beaches
+5584,Waratah-Wynyard
+5585,Port Stephens
+5586,Alexandrina
+5587,Harvey
+5588,Rockhampton
+5589,Rockhampton
+5590,Yankalilla
+5591,Coffs Harbour
+5592,Maroondah
+5593,Brisbane
+5594,Fairfield
+5595,Frankston
+5596,Kempsey
+5597,Goulburn Mulwaree
+5598,Franklin Harbour
+5599,Ballarat
+5600,Gosnells
+5601,Douglas
+5602,Northern Beaches
+5603,Kentish
+5604,Coorong
+5605,Brisbane
+5606,Barossa
+5607,Wyndham
+5608,Yarra Ranges
+5609,Lane Cove
+5610,Quilpie
+5611,Monash
+5612,Central Coast (NSW)
+5613,Ipswich
+5614,Snowy Monaro
+5615,Snowy Monaro
+5616,Kalgoorlie-Boulder
+5617,Moreton Bay
+5618,Blacktown
+5619,Townsville
+5620,Albury
+5621,Parramatta
+5622,Greater Shepparton
+5623,Mid-Coast
+5624,Port Stephens
+5625,Horsham
+5626,Hume
+5627,Greater Geelong
+5628,Greater Geelong
+5629,Sunshine Coast
+5630,Goondiwindi
+5631,Ipswich
+5632,Central Desert
+5633,Menzies
+5634,Canterbury-Bankstown
+5635,Central Coast (NSW)
+5636,Cambridge
+5637,Gawler
+5638,Waroona
+5639,Parramatta
+5640,Kulin
+5641,Palmerston
+5642,Litchfield
+5643,Wellington
+5644,Waverley
+5645,Corrigin
+5646,Murray Bridge
+5647,Somerset
+5648,Brimbank
+5649,Naracoorte Lucindale
+5650,Hepburn
+5651,Lockyer Valley
+5652,Mandurah
+5653,Newcastle
+5654,Cunderdin
+5655,Hay
+5656,Marion
+5657,Wollondilly
+5658,Melbourne
+5659,Greater Bendigo
+5660,Wollongong
+5661,Wollongong
+5662,Mid Murray
+5663,Blacktown
+5664,Cootamundra-Gundagai
+5665,Upper Lachlan
+5666,Lower Eyre Peninsula
+5667,Waratah-Wynyard
+5668,Mid-Western
+5669,Berrigan
+5670,West Torrens
+5671,Perth
+5672,Moreton Bay
+5673,Barunga West
+5674,Townsville
+5675,Bridgetown-Greenbushes
+5676,Monash
+5677,Monash
+5678,Armadale
+5679,Derby-West Kimberley
+5680,Buloke
+5681,Greater Geraldton
+5682,Clarence Valley
+5683,Horsham
+5684,Maranoa
+5685,Rockingham
+5686,Lake Grace
+5687,Bayswater
+5688,Kyogle
+5689,Shoalhaven
+5690,Wattle Range
+5691,Monash
+5692,Cardinia
+5693,Adelaide Plains
+5694,Marion
+5695,Alpine
+5696,Murrindindi
+5697,Byron
+5698,Shoalhaven
+5699,Hope Vale
+5700,Townsville
+5701,Greater Bendigo
+5702,Loddon
+5703,Bundaberg
+5704,Bundaberg
+5705,Bundaberg
+5706,Clarence Valley
+5707,Murray
+5708,Wyndham
+5709,Glen Innes Severn
+5710,Gold Coast
+5711,Livingstone
+5712,Broomehill-Tambellup
+5713,Swan
+5714,Wollongong
+5715,Western Downs
+5716,Campaspe
+5717,Central Goldfields
+5718,MacDonnell
+5719,Casey
+5720,Inner West
+5721,Newcastle
+5722,Singleton
+5723,Charters Towers
+5724,Roper Gulf
+5725,Lismore
+5726,Devonport
+5727,Latrobe (Tas.)
+5728,Bega Valley
+5729,Cassowary Coast
+5730,Cassowary Coast
+5731,Dardanup
+5732,Coffs Harbour
+5733,Mundaring
+5734,Mundaring
+5735,Unincorporated ACT
+5736,Eurobodalla
+5737,Mornington Peninsula
+5738,Wagga Wagga
+5739,Port Hedland
+5740,Mundaring
+5741,Byron
+5742,Cardinia
+5743,Scenic Rim
+5744,Blacktown
+5745,Mitcham
+5746,Victoria Plains
+5747,North Burnett
+5748,Corangamite
+5749,Corangamite
+5750,Corangamite
+5751,Toowoomba
+5752,Yarra Ranges
+5753,Harvey
+5754,Greater Geelong
+5755,Walgett
+5756,Lake Macquarie
+5757,Anangu Pitjantjatjara Yankunytjatjara
+5758,Mildura
+5759,Blayney
+5760,Wattle Range
+5761,Mornington Peninsula
+5762,Mornington Peninsula
+5763,Wollondilly
+5764,East Gippsland
+5765,Southern Midlands
+5766,Bundaberg
+5767,Bundaberg
+5768,Mid Murray
+5769,Brimbank
+5770,Mildura
+5771,Hornsby
+5772,Mornington Peninsula
+5773,Mornington Peninsula
+5774,Logan
+5775,Shellharbour
+5776,Tumby Bay
+5777,Jerramungup
+5778,Bass Coast
+5779,Tatiara
+5780,Kingston (Vic.)
+5781,Halls Creek
+5782,Vincent
+5783,Scenic Rim
+5784,Towong
+5785,Greater Geelong
+5786,Yarra Ranges
+5787,Mount Gambier
+5788,Parramatta
+5789,Maribyrnong
+5790,Yilgarn
+5791,Brisbane
+5792,Brisbane
+5793,Mildura
+5794,Narrabri
+5795,Moreton Bay
+5796,Alexandrina
+5797,West Wimmera
+5798,Pyrenees
+5799,Pyrenees
+5800,Grant
+5801,Greater Geelong
+5802,Launceston
+5803,Inner West
+5804,Sunshine Coast
+5805,Moreton Bay
+5806,Onkaparinga
+5807,Parramatta
+5808,Glen Eira
+5809,Gold Coast
+5810,North Sydney
+5811,Port Pirie
+5812,South Burnett
+5813,Camden
+5814,Murray
+5815,Kiama
+5816,Loxton Waikerie
+5817,Derby-West Kimberley
+5818,Snowy Monaro
+5819,Victoria Park
+5820,Greater Dandenong
+5821,Toowoomba
+5822,Toowoomba
+5823,Western Downs
+5824,Kingston (Vic.)
+5825,Snowy Valleys
+5826,Bundaberg
+5827,Cumberland
+5828,Port Stephens
+5829,Gympie
+5830,Litchfield
+5831,Hume
+5832,Moyne
+5833,South Burnett
+5834,Oberon
+5835,Moreton Bay
+5836,Forbes
+5837,Swan
+5838,Monash
+5839,Tablelands
+5840,Brimbank
+5841,Unincorporated NT
+5842,Unincorporated NT
+5843,Port Augusta
+5844,Port Augusta
+5845,Mornington Peninsula
+5846,Gold Coast
+5847,Frankston
+5848,Brisbane
+5849,Merri-bek
+5850,Ararat
+5851,Mid Murray
+5852,Ararat
+5853,Litchfield
+5854,Karoonda East Murray
+5855,Hornsby
+5856,Mount Isa
+5857,Port Augusta
+5858,Plantagenet
+5859,Ryde
+5860,Plantagenet
+5861,Coorong
+5862,Brimbank
+5863,Newcastle
+5864,Armadale
+5865,Toowoomba
+5866,Kalamunda
+5867,Casey
+5868,Bass Coast
+5869,Eurobodalla
+5870,Inner West
+5871,Frankston
+5872,Greater Bendigo
+5873,Moreton Bay
+5874,Lismore
+5875,Mitchell
+5876,Yarra
+5877,West Tamar
+5878,Murray Bridge
+5879,Murray Bridge
+5880,Copper Coast
+5881,Logan
+5882,Collie
+5883,Adelaide
+5884,Donnybrook-Balingup
+5885,Indigo
+5886,North Sydney
+5887,MacDonnell
+5888,Dubbo
+5889,Dubbo
+5890,Bundaberg
+5891,Stirling
+5892,Penrith
+5893,Swan
+5894,Cockburn
+5895,Greater Dandenong
+5896,Loddon
+5897,Mid-Coast
+5898,Snowy Monaro
+5899,Townsville
+5900,Vincent
+5901,Swan Hill
+5902,Swan Hill
+5903,Canterbury-Bankstown
+5904,Cranbrook
+5905,Huon Valley
+5906,Toowoomba
+5907,Yarra Ranges
+5908,Mid-Western
+5909,Monash
+5910,Campaspe
+5911,Canterbury-Bankstown
+5912,Narrabri
+5913,Tamworth
+5914,Canada Bay
+5915,Somerset
+5916,Moorabool
+5917,Cabonne
+5918,Port Stephens
+5919,Port Stephens
+5920,Lake Macquarie
+5921,Mareeba
+5922,Parramatta
+5923,Hobart
+5924,Upper Lachlan
+5925,Mornington Peninsula
+5926,Upper Lachlan
+5927,Alexandrina
+5928,Darwin
+5929,Yilgarn
+5930,Central Highlands (Qld)
+5931,Livingstone
+5932,Central Highlands (Qld)
+5933,South Gippsland
+5934,Liverpool
+5935,Yass Valley
+5936,Waroona
+5937,Fairfield
+5938,Whitehorse
+5939,Merri-bek
+5940,Whittlesea
+5941,Northam
+5942,Willoughby
+5943,Northern Beaches
+5944,Redland
+5945,Brisbane
+5946,Hilltops
+5947,Hilltops
+5948,Blacktown
+5949,Adelaide Plains
+5950,Yarra Ranges
+5951,Isaac
+5952,Isaac
+5953,Lismore
+5954,Victoria Plains
+5955,Singleton
+5956,Southern Grampians
+5957,Moorabool
+5958,Break O'Day
+5959,Merri-bek
+5960,Brisbane
+5961,Gannawarra
+5962,Ipswich
+5963,Ipswich
+5964,Victoria Daly
+5965,Northern Grampians
+5966,Cassowary Coast
+5967,Cassowary Coast
+5968,Cassowary Coast
+5969,Cassowary Coast
+5970,Rockhampton
+5971,Rockhampton
+5972,Singleton
+5973,Tablelands
+5974,Light
+5975,Brewarrina
+5976,Launceston
+5977,Hornsby
+5978,Weddin
+5979,Macedon Ranges
+5980,Macedon Ranges
+5981,Gilgandra
+5982,Clarence Valley
+5983,Southern Downs
+5984,Parramatta
+5985,Marion
+5986,Mandurah
+5987,Dubbo
+5988,Stirling
+5989,Sydney
+5990,Kingston (Vic.)
+5991,Newcastle
+5992,Livingstone
+5993,Golden Plains
+5994,Central Goldfields
+5995,Tweed
+5996,Mount Barker
+5997,Golden Plains
+5998,Greater Geraldton
+5999,Hepburn
+6000,Mount Isa
+6001,Bathurst
+6002,Murray
+6003,Serpentine-Jarrahdale
+6004,Hume
+6005,Glamorgan-Spring Bay
+6006,Lachlan
+6007,Kingston (Vic.)
+6008,Greater Hume
+6009,Greater Hume
+6010,Maroondah
+6011,Port Adelaide Enfield
+6012,Armadale
+6013,Noosa
+6014,Murrumbidgee
+6015,Brisbane
+6016,Sydney
+6017,Campbelltown (NSW)
+6018,Mid Murray
+6019,Albany
+6020,Moira
+6021,Campbelltown (NSW)
+6022,Greater Hume
+6023,Tablelands
+6024,Clarence Valley
+6025,Mid-Coast
+6026,Naracoorte Lucindale
+6027,Naracoorte Lucindale
+6028,Cloncurry
+6029,Townsville
+6030,Tamworth
+6031,Wagga Wagga
+6032,West Wimmera
+6033,Berri Barmera
+6034,Georges River
+6035,Georges River
+6036,Onkaparinga
+6037,Wanneroo
+6038,Toowoomba
+6039,Goulburn Mulwaree
+6040,Streaky Bay
+6041,Moree Plains
+6042,Norwood Payneham and St Peters
+6043,Newcastle
+6044,Glenorchy
+6045,Streaky Bay
+6046,Port Macquarie-Hastings
+6047,Randwick
+6048,Randwick
+6049,Richmond Valley
+6050,Richmond Valley
+6051,Joondalup
+6052,Latrobe (Tas.)
+6053,Narrandera
+6054,Wanneroo
+6055,Busselton
+6056,Hunters Hill
+6057,Greater Bendigo
+6058,Somerset
+6059,Gladstone
+6060,Mildura
+6061,Darwin
+6062,Stonnington
+6063,Sydney
+6064,Mornington Peninsula
+6065,Adelaide Hills
+6066,Liverpool
+6067,Melton
+6068,Manjimup
+6069,Latrobe (Vic.)
+6070,Darebin
+6071,Corangamite
+6072,Gold Coast
+6073,Queanbeyan-Palerang
+6074,Murray
+6075,Yarra Ranges
+6076,Kingston (Vic.)
+6077,Glenelg
+6078,Cumberland
+6079,Sutherland
+6080,Byron
+6081,Townsville
+6082,Tamworth
+6083,Central Coast (NSW)
+6084,Wollongong
+6085,South Gippsland
+6086,Isaac
+6087,Knox
+6088,Lithgow
+6089,Parramatta
+6090,Maitland
+6091,Golden Plains
+6092,Wyndham
+6093,Canning
+6094,Singleton
+6095,Prospect
+6096,Gladstone
+6097,Tamworth
+6098,Maroondah
+6099,Wollongong
+6100,Wollongong
+6101,Gladstone
+6102,Mandurah
+6103,Port Hedland
+6104,Clarence Valley
+6105,Towong
+6106,Bayside (NSW)
+6107,Campbelltown (NSW)
+6108,Warrnambool
+6109,Yarra Ranges
+6110,Whittlesea
+6111,Cairns
+6112,Collie
+6113,Northern Midlands
+6114,Lismore
+6115,Gold Coast
+6116,Yilgarn
+6117,Greater Geelong
+6118,Tweed
+6119,Perth
+6120,Randwick
+6121,Latrobe (Tas.)
+6122,Greater Geelong
+6123,Greater Geelong
+6124,Central Coast (NSW)
+6125,Bellingen
+6126,Balranald
+6127,Balranald
+6128,Mildura
+6129,Monash
+6130,Barunga West
+6131,Macedon Ranges
+6132,Macedon Ranges
+6133,Greater Shepparton
+6134,Plantagenet
+6135,South Gippsland
+6136,Loddon
+6137,Mareeba
+6138,Moorabool
+6139,Kalgoorlie-Boulder
+6140,Halls Creek
+6141,Golden Plains
+6142,Coffs Harbour
+6143,Greater Geraldton
+6144,Salisbury
+6145,Serpentine-Jarrahdale
+6146,Busselton
+6147,Moorabool
+6148,Wyndham
+6149,Northam
+6150,Northam
+6151,Bundaberg
+6152,Unincorporated ACT
+6153,Mansfield
+6154,Central Coast (NSW)
+6155,Strathbogie
+6156,Ashburton
+6157,Waroona
+6158,Port Stephens
+6159,South Burnett
+6160,Buloke
+6161,Golden Plains
+6162,Adelaide Plains
+6163,Mid-Coast
+6164,Fremantle
+6165,Goondiwindi
+6166,Georges River
+6167,Georges River
+6168,Narrabri
+6169,Playford
+6170,Chapman Valley
+6171,Townsville
+6172,Darwin
+6173,Nambucca Valley
+6174,Hilltops
+6175,Armadale
+6176,Armadale
+6177,Eurobodalla
+6178,Salisbury
+6179,Dubbo
+6180,Sutherland
+6181,East Gippsland
+6182,Clarence Valley
+6183,Central Desert
+6184,Canning
+6185,Moreton Bay
+6186,Toowoomba
+6187,Brisbane
+6188,Fairfield
+6189,Fairfield
+6190,Greater Shepparton
+6191,Oberon
+6192,Nillumbik
+6193,Tatiara
+6194,Playford
+6195,Port Adelaide Enfield
+6196,Port Stephens
+6197,Banyule
+6198,Greater Shepparton
+6199,Temora
+6200,Temora
+6201,Esperance
+6202,Glenelg
+6203,Clarence Valley
+6204,Gympie
+6205,Gold Coast
+6206,Gold Coast
+6207,Greater Shepparton
+6208,Orange
+6209,Kingston (SA)
+6210,Mundaring
+6211,Moorabool
+6212,Roper Gulf
+6213,Walcha
+6214,Walcha
+6215,Boroondara
+6216,Sutherland
+6217,Litchfield
+6218,Campaspe
+6219,Mount Barker
+6220,Melton
+6221,Wollongong
+6222,Victoria Daly
+6223,Mildura
+6224,Richmond Valley
+6225,Brighton
+6226,Central Coast (NSW)
+6227,Tea Tree Gully
+6228,Toowoomba
+6229,Serpentine-Jarrahdale
+6230,Playford
+6231,Port Macquarie-Hastings
+6232,Tamworth
+6233,Bega Valley
+6234,Hawkesbury
+6235,Waroona
+6236,Melton
+6237,Warrumbungle
+6238,Kalgoorlie-Boulder
+6239,Harvey
+6240,Port Adelaide Enfield
+6241,Kempsey
+6242,Kempsey
+6243,Blacktown
+6244,Maroondah
+6245,West Torrens
+6246,Coorong
+6247,Bogan
+6248,Gympie
+6249,Parkes
+6250,Glenelg
+6251,Somerset
+6252,Somerset
+6253,Brisbane
+6254,Kempsey
+6255,Lachlan
+6256,Salisbury
+6257,Cairns
+6258,Cobar
+6259,Goyder
+6260,Gold Coast
+6261,Ballina
+6262,Camden
+6263,Albury
+6264,Temora
+6265,Cook
+6266,Gwydir
+6267,Waroona
+6268,Cardinia
+6269,Sunshine Coast
+6270,Greater Bendigo
+6271,Frankston
+6272,Alexandrina
+6273,Whitsunday
+6274,Liverpool Plains
+6275,Roper Gulf
+6276,Ipswich
+6277,Horsham
+6278,Townsville
+6279,Townsville
+6280,Pyrenees
+6281,Sunshine Coast
+6282,Warrnambool
+6283,Greater Geelong
+6284,Onkaparinga
+6285,Liverpool
+6286,Narrandera
+6287,Dandaragan
+6288,Upper Hunter
+6289,Gladstone
+6290,Launceston
+6291,Berrigan
+6292,Golden Plains
+6293,Stirling
+6294,Wyndham
+6295,Wyndham
+6296,Mackay
+6297,Glenelg
+6298,Gilgandra
+6299,Gilgandra
+6300,Cook
+6301,Gold Coast
+6302,Adelaide Hills
+6303,Upper Lachlan
+6304,Merri-bek
+6305,Brisbane
+6306,Gympie
+6307,Singleton
+6308,Gingin
+6309,Tamworth
+6310,Harvey
+6311,Murray River
+6312,Noosa
+6313,East Arnhem
+6314,Armadale
+6315,Cassowary Coast
+6316,Wakefield
+6317,Wakefield
+6318,Esperance
+6319,Bega Valley
+6320,Tasman
+6321,Tasman
+6322,Cairns
+6323,Toowoomba
+6324,Toowoomba
+6325,Playford
+6326,Moreton Bay
+6327,East Arnhem
+6328,Mandurah
+6329,Launceston
+6330,Fairfield
+6331,Whitsunday
+6332,Wollondilly
+6333,Mount Alexander
+6334,Junee
+6335,Harvey
+6336,Yarra Ranges
+6337,Sydney
+6338,Joondalup
+6339,Maribyrnong
+6340,Lockyer Valley
+6341,Blue Mountains
+6342,Liverpool
+6343,Waverley
+6344,Knox
+6345,Canterbury-Bankstown
+6346,Boroondara
+6347,Townsville
+6348,Salisbury
+6349,Liverpool
+6350,Light
+6351,Launceston
+6352,Cardinia
+6353,Barkly
+6354,Unincorporated SA
+6355,East Gippsland
+6356,York
+6357,Strathfield
+6358,Parramatta
+6359,Gold Coast
+6360,Wangaratta
+6361,Wangaratta
+6362,Bayside (Vic.)
+6363,Toowoomba
+6364,Stirling
+6365,Canterbury-Bankstown
+6366,Katherine
+6367,Sunshine Coast
+6368,Bundaberg
+6369,Bundaberg
+6370,Tatiara
+6371,Orange
+6372,Moonee Valley
+6373,Cumberland
+6374,Scenic Rim
+6375,Inner West
+6376,Inverell
+6377,Townsville
+6378,Burdekin
+6379,Broome
+6380,Denmark
+6381,Tatiara
+6382,Nillumbik
+6383,Wollongong
+6384,Baw Baw
+6385,Cessnock
+6386,Brisbane
+6387,Toowoomba
+6388,Armadale
+6389,Coffs Harbour
+6390,Cook
+6391,Wakefield
+6392,Wakefield
+6393,Central Coast (NSW)
+6394,Ballarat
+6395,Gold Coast
+6396,Knox
+6397,Noosa
+6398,Casey
+6399,Yass Valley
+6400,Yass Valley
+6401,Murray
+6402,Hume
+6403,Penrith
+6404,Capel
+6405,Capel
+6406,Mundaring
+6407,Northam
+6408,Wattle Range
+6409,Baw Baw
+6410,Loddon
+6411,Adelaide Hills
+6412,Logan
+6413,Litchfield
+6414,Yarra Ranges
+6415,Stonnington
+6416,Randwick
+6417,Toodyay
+6418,Mid-Western
+6419,Maitland
+6420,Brookton
+6421,East Gippsland
+6422,East Gippsland
+6423,Waroona
+6424,Central Coast (NSW)
+6425,Bundaberg
+6426,Kangaroo Island
+6427,Brighton
+6428,Scenic Rim
+6429,Logan
+6430,Penrith
+6431,Launceston
+6432,Dardanup
+6433,Oberon
+6434,Hawkesbury
+6435,Melbourne
+6436,Salisbury
+6437,Alexandrina
+6438,Alexandrina
+6439,Sutherland
+6440,Baw Baw
+6441,Logan
+6442,Wollondilly
+6443,Greater Geraldton
+6444,Hornsby
+6445,Latrobe (Vic.)
+6446,Manningham
+6447,Cumberland
+6448,Clarence Valley
+6449,Hawkesbury
+6450,Kingston (Vic.)
+6451,Bathurst
+6452,Shoalhaven
+6453,Benalla
+6454,Barcoo
+6455,Sydney
+6456,Central Desert
+6457,Nambucca Valley
+6458,Latrobe (Vic.)
+6459,Wyndham
+6460,Somerset
+6461,Boroondara
+6462,Yankalilla
+6463,South Burnett
+6464,Alice Springs
+6465,Broomehill-Tambellup
+6466,Southern Grampians
+6467,Kingston (Vic.)
+6468,Balranald
+6469,Kalamunda
+6470,Yarra Ranges
+6471,Moira
+6472,Moreton Bay
+6473,Plantagenet
+6474,Boddington
+6475,Maranoa
+6476,Warrnambool
+6477,Narrabri
+6478,Mareeba
+6479,Blacktown
+6480,Greater Dandenong
+6481,Roper Gulf
+6482,Narromine
+6483,Lake Macquarie
+6484,Gannawarra
+6485,Gannawarra
+6486,Mid-Coast
+6487,Shoalhaven
+6488,East Gippsland
+6489,Light
+6490,Mildura
+6491,Ku-ring-gai
+6492,Wattle Range
+6493,Monash
+6494,Lockyer Valley
+6495,Northampton
+6496,Ballarat
+6497,West Arnhem
+6498,West Arnhem
+6499,West Arnhem
+6500,West Arnhem
+6501,Salisbury
+6502,Rockhampton
+6503,Toowoomba
+6504,Toowoomba
+6505,Coolamon
+6506,Roper Gulf
+6507,Upper Lachlan
+6508,Northam
+6509,Benalla
+6510,Belmont
+6511,Harvey
+6512,Hobsons Bay
+6513,Central Coast (NSW)
+6514,Sydney
+6515,Hume
+6516,Armidale
+6517,Byron
+6518,Strathfield
+6519,Wellington
+6520,Lake Macquarie
+6521,Launceston
+6522,Kwinana
+6523,South Gippsland
+6524,Port Macquarie-Hastings
+6525,Hobart
+6526,Murrindindi
+6527,Bayside (NSW)
+6528,Bundaberg
+6529,Bundaberg
+6530,Mansfield
+6531,Moreton Bay
+6532,Byron
+6533,East Gippsland
+6534,Muswellbrook
+6535,Muswellbrook
+6536,Western Downs
+6537,Penrith
+6538,Penrith
+6539,East Pilbara
+6540,Clarence Valley
+6541,Moreton Bay
+6542,Moreton Bay
+6543,Central Coast (NSW)
+6544,Kondinin
+6545,Lismore
+6546,Rockhampton
+6547,Latrobe (Vic.)
+6548,Wollondilly
+6549,Grant
+6550,Serpentine-Jarrahdale
+6551,Hume
+6552,Knox
+6553,Knox
+6554,Brisbane
+6555,Wyndham-East Kimberley
+6556,Singleton
+6557,Naracoorte Lucindale
+6558,Hawkesbury
+6559,Etheridge
+6560,Central Coast (Tas.)
+6561,Carnarvon
+6562,Port Pirie
+6563,Wollondilly
+6564,Richmond Valley
+6565,Shellharbour
+6566,Naracoorte Lucindale
+6567,Murrindindi
+6568,Armidale
+6569,Brisbane
+6570,Warren
+6571,Tamworth
+6572,Rockingham
+6573,North Burnett
+6574,North Burnett
+6575,Mornington Peninsula
+6576,North Burnett
+6577,Gympie
+6578,Barkly
+6579,Canada Bay
+6580,Barkly
+6581,Carnamah
+6582,North Burnett
+6583,Central Coast (NSW)
+6584,Kentish
+6585,Onkaparinga
+6586,Meekatharra
+6587,Busselton
+6588,Mid-Coast
+6589,Launceston
+6590,Mareeba
+6591,Mareeba
+6592,Manningham
+6593,South Gippsland
+6594,Western Downs
+6595,Sydney
+6596,Mid-Western
+6597,Port Macquarie-Hastings
+6598,Logan
+6599,Tweed
+6600,Parkes
+6601,Bayside (NSW)
+6602,Kellerberrin
+6603,Port Stephens
+6604,Macedon Ranges
+6605,Brimbank
+6606,Kingston (Vic.)
+6607,Unincorporated SA
+6608,Wangaratta
+6609,Monash
+6610,Toodyay
+6611,Toodyay
+6612,Corangamite
+6613,Snowy Valleys
+6614,Ipswich
+6615,Adelaide
+6616,Central Coast (NSW)
+6617,West Torrens
+6618,Loxton Waikerie
+6619,Loxton Waikerie
+6620,Narrabri
+6621,Kalamunda
+6622,Campbelltown (NSW)
+6623,Victoria Park
+6624,Moree Plains
+6625,Cabonne
+6626,West Tamar
+6627,Central Darling
+6628,Liverpool
+6629,Sunshine Coast
+6630,Brisbane
+6631,Campaspe
+6632,Canterbury-Bankstown
+6633,Cessnock
+6634,Bland
+6635,Balonne
+6636,Lane Cove
+6637,Central Coast (NSW)
+6638,Wyndham-East Kimberley
+6639,Wyndham-East Kimberley
+6640,Port Augusta
+6641,Port Augusta
+6642,Fraser Coast
+6643,Burdekin
+6644,Murray River
+6645,Kempsey
+6646,Tablelands
+6647,Georges River
+6648,Swan
+6649,Moreton Bay
+6650,Dubbo
+6651,Ballina
+6652,Sunshine Coast
+6653,Brisbane
+6654,Hawkesbury
+6655,Gwydir
+6656,Blacktown
+6657,Penrith
+6658,Greater Shepparton
+6659,Esperance
+6660,Melton
+6661,Kalamunda
+6662,Mildura
+6663,Muswellbrook
+6664,Muswellbrook
+6665,Whitehorse
+6666,Maroondah
+6667,Hume
+6668,Cassowary Coast
+6669,Gold Coast
+6670,Stonnington
+6671,Gympie
+6672,Singleton
+6673,Dumbleyung
+6674,Wakefield
+6675,Mid-Coast
+6676,Lismore
+6677,Maranoa
+6678,Bundaberg
+6679,Port Stephens
+6680,Corrigin
+6681,Corrigin
+6682,Central Coast (NSW)
+6683,Inner West
+6684,Irwin
+6685,Irwin
+6686,Sunshine Coast
+6687,Parramatta
+6688,Sunshine Coast
+6689,Clarence Valley
+6690,Hepburn
+6691,Melton
+6692,Greater Hume
+6693,Tweed
+6694,South Gippsland
+6695,South Gippsland
+6696,Western Downs
+6697,Western Downs
+6698,Mid-Western
+6699,Barcoo
+6700,Whitsunday
+6701,Whitsunday
+6702,Whitsunday
+6703,Newcastle
+6704,Roper Gulf
+6705,Cardinia
+6706,Alpine
+6707,Hawkesbury
+6708,Canada Bay
+6709,Serpentine-Jarrahdale
+6710,Mackay
+6711,Coolamon
+6712,Coolamon
+6713,Tamworth
+6714,Gold Coast
+6715,Banana
+6716,Casey
+6717,Whittlesea
+6718,Fairfield
+6719,Brimbank
+6720,Lithgow
+6721,Whitsunday
+6722,Clare and Gilbert Valleys
+6723,Hepburn
+6724,Somerset
+6725,Somerset
+6726,Hornsby
+6727,Strathbogie
+6728,Unincorporated NSW
+6729,Roper Gulf
+6730,Somerset
+6731,Sunshine Coast
+6732,Alice Springs
+6733,Federation
+6734,Blacktown
+6735,Scenic Rim
+6736,Scenic Rim
+6737,Alpine
+6738,Kalamunda
+6739,Port Stephens
+6740,Charles Sturt
+6741,Dundas
+6742,Murray River
+6743,Hume
+6744,Isaac
+6745,Hilltops
+6746,Hilltops
+6747,Glen Innes Severn
+6748,Western Downs
+6749,Rockingham
+6750,Unincorporated ACT
+6751,Inverell
+6752,The Hills
+6753,Onkaparinga
+6754,Central Coast (NSW)
+6755,Moreton Bay
+6756,Melton
+6757,Melton
+6758,Central Coast (NSW)
+6759,Central Coast (NSW)
+6760,Lockyer Valley
+6761,Litchfield
+6762,Murray
+6763,Murrindindi
+6764,Moreton Bay
+6765,West Tamar
+6766,The Hills
+6767,Parramatta
+6768,Brisbane
+6769,Brisbane
+6770,Fairfield
+6771,Townsville
+6772,Melbourne
+6773,Hobsons Bay
+6774,Stirling
+6775,Hobart
+6776,Wanneroo
+6777,Dubbo
+6778,Strathfield
+6779,Gympie
+6780,Sunshine Coast
+6781,Ararat
+6782,Tablelands
+6783,Cumberland
+6784,Federation
+6785,Adelaide
+6786,Cairns
+6787,Toowoomba
+6788,Brisbane
+6789,Moreton Bay
+6790,Banyule
+6791,Cook
+6792,Sutherland
+6793,Brisbane
+6794,Central Coast (NSW)
+6795,Central Coast (NSW)
+6796,Gympie
+6797,Maribyrnong
+6798,Mundaring
+6799,Parramatta
+6800,Gunnedah
+6801,Central Coast (NSW)
+6802,Busselton
+6803,Greater Geelong
+6804,Townsville
+6805,Tablelands
+6806,Greater Bendigo
+6807,Townsville
+6808,Snowy Monaro
+6809,Snowy Monaro
+6810,Snowy Monaro
+6811,Maribyrnong
+6812,Merri-bek
+6813,Harvey
+6814,Gold Coast
+6815,Sutherland
+6816,Logan
+6817,Gold Coast
+6818,Fairfield
+6819,Northam
+6820,Mornington Peninsula
+6821,Meander Valley
+6822,Greater Bendigo
+6823,Bayside (NSW)
+6824,Wagait
+6825,Gold Coast
+6826,Stirling
+6827,Weipa
+6828,Greater Geraldton
+6829,Rockhampton
+6830,Light
+6831,Moonee Valley
+6832,Bega Valley
+6833,Goulburn Mulwaree
+6834,Gympie
+6835,Gympie
+6836,Hawkesbury
+6837,Tatiara
+6838,Rockingham
+6839,Port Adelaide Enfield
+6840,Brisbane
+6841,Playford
+6842,Gympie
+6843,Snowy Valleys
+6844,Queanbeyan-Palerang
+6845,Moreton Bay
+6846,Cunderdin
+6847,Somerset
+6848,Bega Valley
+6849,Harvey
+6850,Tamworth
+6851,Sutherland
+6852,Sunshine Coast
+6853,Fraser Coast
+6854,Northern Grampians
+6855,Uralla
+6856,West Arnhem
+6857,Rockhampton
+6858,Port Macquarie-Hastings
+6859,Logan
+6860,Isaac
+6861,Bundaberg
+6862,Bundaberg
+6863,Willoughby
+6864,Wyndham
+6865,Central Coast (NSW)
+6866,Roper Gulf
+6867,Brisbane
+6868,Gympie
+6869,Wagga Wagga
+6870,Unincorporated SA
+6871,Newcastle
+6872,Stirling
+6873,Sydney
+6874,Richmond Valley
+6875,Cambridge
+6876,Greater Shepparton
+6877,Upper Lachlan
+6878,Moira
+6879,Brisbane
+6880,Hepburn
+6881,Gladstone
+6882,Mid-Coast
+6883,Alice Springs
+6884,Monash
+6885,Darwin
+6886,Yass Valley
+6887,Yass Valley
+6888,Dandaragan
+6889,Goulburn Mulwaree
+6890,Moira
+6891,Central Darling
+6892,Unincorporated ACT
+6893,Meander Valley
+6894,Litchfield
+6895,Mid-Western
+6896,Shoalhaven
+6897,Latrobe (Vic.)
+6898,Warrumbungle
+6899,Sydney
+6900,Maranoa
+6901,Flinders Ranges
+6902,Richmond Valley
+6903,Melbourne
+6904,Gympie
+6905,Burdekin
+6906,Naracoorte Lucindale
+6907,Port Augusta
+6908,Cumberland
+6909,Barossa
+6910,Yarra Ranges
+6911,Northam
+6912,Willoughby
+6913,South Gippsland
+6914,Coonamble
+6915,Dubbo
+6916,MacDonnell
+6917,Southern Downs
+6918,Townsville
+6919,Darebin
+6920,Pyrenees
+6921,Pyrenees
+6922,Pyrenees
+6923,Pyrenees
+6924,Pormpuraaw
+6925,Alpine
+6926,Bundaberg
+6927,Mitchell
+6928,Wandering
+6929,Snowy Valleys
+6930,Fremantle
+6931,Mount Remarkable
+6932,Brimbank
+6933,Hornsby
+6934,Gold Coast
+6935,West Tamar
+6936,Unincorporated NT
+6937,Unincorporated ACT
+6938,Bellingen
+6939,Hunters Hill
+6940,Wellington
+6941,Mount Alexander
+6942,Port Stephens
+6943,Canning
+6944,Gold Coast
+6945,Monash
+6946,Brisbane
+6947,Coffs Harbour
+6948,MacDonnell
+6949,Joondalup
+6950,Brisbane
+6951,Clarence Valley
+6952,Muswellbrook
+6953,Snowy Monaro
+6954,Dubbo
+6955,Cardinia
+6956,Yarra Ranges
+6957,Victor Harbor
+6958,Quairading
+6959,Donnybrook-Balingup
+6960,Central Highlands (Qld)
+6961,Maroondah
+6962,Western Downs
+6963,Scenic Rim
+6964,Ballarat
+6965,Baw Baw
+6966,Northam
+6967,Cumberland
+6968,Victoria Daly
+6969,Greater Bendigo
+6970,Barossa
+6971,Wollongong
+6972,Casey
+6973,Port Stephens
+6974,Port Stephens
+6975,Georges River
+6976,Ku-ring-gai
+6977,Lake Macquarie
+6978,Kangaroo Island
+6979,Gold Coast
+6980,Cockburn
+6981,The Hills
+6982,Wongan-Ballidu
+6983,Glen Innes Severn
+6984,Rockingham
+6985,Loxton Waikerie
+6986,Lockyer Valley
+6987,Junee
+6988,Greater Geraldton
+6989,Williams
+6990,Naracoorte Lucindale
+6991,Cairns
+6992,Whittlesea
+6993,Noosa
+6994,Benalla
+6995,Unincorporated SA
+6996,Narrabri
+6997,Gold Coast
+6998,Goondiwindi
+6999,Goondiwindi
+7000,Knox
+7001,Knox
+7002,Central Coast (NSW)
+7003,Lake Grace
+7004,Lake Grace
+7005,Naracoorte Lucindale
+7006,Barkly
+7007,Ku-ring-gai
+7008,Unincorporated ACT
+7009,Snowy Monaro
+7010,Ryde
+7011,Somerset
+7012,Scenic Rim
+7013,Yass Valley
+7014,Karratha
+7015,Gingin
+7016,Blue Mountains
+7017,Kalamunda
+7018,Alexandrina
+7019,Victoria Daly
+7020,Sunshine Coast
+7021,Bourke
+7022,Greater Hume
+7023,Hume
+7024,Ipswich
+7025,Glenorchy
+7026,Federation
+7027,Federation
+7028,Greater Hume
+7029,Greater Hume
+7030,Somerset
+7031,Marion
+7032,Hornsby
+7033,Greater Bendigo
+7034,Greater Dandenong
+7035,Dundas
+7036,Wollongong
+7037,Armadale
+7038,MacDonnell
+7039,Penrith
+7040,Canterbury-Bankstown
+7041,Brisbane
+7042,The Hills
+7043,South Burnett
+7044,Leeton
+7045,Central Highlands (Qld)
+7046,Melville
+7047,Boddington
+7048,Murrumbidgee
+7049,Shoalhaven
+7050,Colac Otway
+7051,Lismore
+7052,Bathurst
+7053,Dandaragan
+7054,Dandaragan
+7055,Mundaring
+7056,Canning
+7057,Brimbank
+7058,Central Highlands (Qld)
+7059,Wellington
+7060,Gosnells
+7061,Charters Towers
+7062,Frankston
+7063,Lake Macquarie
+7064,Logan
+7065,Logan
+7066,Logan
+7067,Brimbank
+7068,Bayside (NSW)
+7069,Coorong
+7070,Manjimup
+7071,Wangaratta
+7072,Nillumbik
+7073,Gold Coast
+7074,Boroondara
+7075,Port Macquarie-Hastings
+7076,Central Coast (NSW)
+7077,Whyalla
+7078,Litchfield
+7079,Litchfield
+7080,Perth
+7081,Richmond Valley
+7082,Fraser Coast
+7083,Campbelltown (NSW)
+7084,Darwin
+7085,Rockhampton
+7086,Dardanup
+7087,Wentworth
+7088,Redland
+7089,Etheridge
+7090,Swan Hill
+7091,Whitsunday
+7092,Whitsunday
+7093,Scenic Rim
+7094,Fremantle
+7095,Cumberland
+7096,Melton
+7097,Murray Bridge
+7098,Surf Coast
+7099,Bayside (NSW)
+7100,Shellharbour
+7101,Logan
+7102,Yarra Ranges
+7103,Redland
+7104,Hume
+7105,Alice Springs
+7106,Tamworth
+7107,Kwinana
+7108,Greater Geelong
+7109,Meander Valley
+7110,Gympie
+7111,Ballina
+7112,West Arnhem
+7113,Snowy Valleys
+7114,Nannup
+7115,Murrindindi
+7116,Mid-Coast
+7117,Launceston
+7118,Brisbane
+7119,Rockingham
+7120,Griffith
+7121,Brisbane
+7122,Tweed
+7123,Western Downs
+7124,Logan
+7125,Western Downs
+7126,Vincent
+7127,Bland
+7128,Toowoomba
+7129,Loxton Waikerie
+7130,Western Downs
+7131,Busselton
+7132,Bundaberg
+7133,Cloncurry
+7134,Wattle Range
+7135,Grant
+7136,Manningham
+7137,Burnside
+7138,Douglas
+7139,Circular Head
+7140,Hilltops
+7141,Armadale
+7142,Canterbury-Bankstown
+7143,Blayney
+7144,Frankston
+7145,Campaspe
+7146,Sydney
+7147,Logan
+7148,Barkly
+7149,Moonee Valley
+7150,Tea Tree Gully
+7151,Dubbo
+7152,Sunshine Coast
+7153,Cessnock
+7154,Wakefield
+7155,Banyule
+7156,Indigo
+7157,Kellerberrin
+7158,Glenelg
+7159,Moreton Bay
+7160,Victoria Plains
+7161,Victoria Plains
+7162,Mount Isa
+7163,Adelaide Hills
+7164,Gannawarra
+7165,Litchfield
+7166,Mount Remarkable
+7167,Wagga Wagga
+7168,Cootamundra-Gundagai
+7169,Moora
+7170,North Burnett
+7171,Port Macquarie-Hastings
+7172,Shoalhaven
+7173,Shoalhaven
+7174,Yarra Ranges
+7175,Campbelltown (NSW)
+7176,Campbelltown (NSW)
+7177,Campbelltown (NSW)
+7178,Unincorporated ACT
+7179,Hornsby
+7180,Cockburn
+7181,Port Stephens
+7182,Hornsby
+7183,Richmond Valley
+7184,Logan
+7185,Horsham
+7186,Ipswich
+7187,Ipswich
+7188,Georges River
+7189,Central Coast (NSW)
+7190,Hume
+7191,Upper Hunter
+7192,Moree Plains
+7193,Inverell
+7194,Townsville
+7195,Cook
+7196,Cook
+7197,Wollondilly
+7198,Wollondilly
+7199,Playford
+7200,Broomehill-Tambellup
+7201,Logan
+7202,Colac Otway
+7203,Palmerston
+7204,Tamworth
+7205,Upper Hunter
+7206,Cockburn
+7207,Greater Shepparton
+7208,Joondalup
+7209,Forbes
+7210,Gold Coast
+7211,Rockhampton
+7212,Cardinia
+7213,Queanbeyan-Palerang
+7214,Inner West
+7215,Bega Valley
+7216,Cardinia
+7217,Derwent Valley
+7218,Upper Hunter
+7219,Greater Geelong
+7220,Greater Geelong
+7221,Brisbane
+7222,Waratah-Wynyard
+7223,Colac Otway
+7224,Knox
+7225,Northern Beaches
+7226,Blayney
+7227,Corangamite
+7228,Yarra
+7229,Unincorporated ACT
+7230,Central Desert
+7231,Mundaring
+7232,Cairns
+7233,Muswellbrook
+7234,Wanneroo
+7235,Nambucca Valley
+7236,Townsville
+7237,Toowoomba
+7238,Bayside (NSW)
+7239,Harvey
+7240,Mornington
+7241,Coorong
+7242,Unincorporated SA
+7243,Cardinia
+7244,Gold Coast
+7245,Gold Coast
+7246,Brisbane
+7247,Manjimup
+7248,Central Coast (NSW)
+7249,Darwin
+7250,Canterbury-Bankstown
+7251,Whittlesea
+7252,Brisbane
+7253,Harvey
+7254,Harvey
+7255,Snowy Valleys
+7256,Burdekin
+7257,Toowoomba
+7258,Latrobe (Tas.)
+7259,Charles Sturt
+7260,Clarence
+7261,The Hills
+7262,West Coast
+7263,Canterbury-Bankstown
+7264,Logan
+7265,Moorabool
+7266,Newcastle
+7267,Mid-Coast
+7268,Northern Grampians
+7269,Clarence Valley
+7270,Glenorchy
+7271,Canterbury-Bankstown
+7272,Lake Macquarie
+7273,Sydney
+7274,Gympie
+7275,Alexandrina
+7276,Clarence Valley
+7277,Clarence Valley
+7278,Nillumbik
+7279,Brisbane
+7280,Glenelg
+7281,Tamworth
+7282,Whitsunday
+7283,Bundaberg
+7284,Bundaberg
+7285,Karratha
+7286,Blacktown
+7287,Northern Grampians
+7288,Whyalla
+7289,Brisbane
+7290,South Gippsland
+7291,Central Coast (NSW)
+7292,Hornsby
+7293,Warrumbungle
+7294,Mount Alexander
+7295,Huon Valley
+7296,Walcha
+7297,Port Stephens
+7298,Central Desert
+7299,Mackay
+7300,Narrabri
+7301,Unincorporated Vic
+7302,North Burnett
+7303,South Gippsland
+7304,Augusta Margaret River
+7305,Liverpool
+7306,Alpine
+7307,Melton
+7308,Light
+7309,Central Coast (NSW)
+7310,Weddin
+7311,Bayside (Vic.)
+7312,Mackay
+7313,Hepburn
+7314,Sutherland
+7315,Cockburn
+7316,Shoalhaven
+7317,Wollondilly
+7318,Penrith
+7319,Stirling
+7320,Gunnedah
+7321,Lake Macquarie
+7322,Alice Springs
+7323,Wanneroo
+7324,Harvey
+7325,Alexandrina
+7326,Central Coast (NSW)
+7327,Greater Bendigo
+7328,Dubbo
+7329,Dubbo
+7330,Merri-bek
+7331,Gympie
+7332,South Burnett
+7333,South Burnett
+7334,Cockburn
+7335,Unincorporated ACT
+7336,Mid-Coast
+7337,Canterbury-Bankstown
+7338,Greater Shepparton
+7339,Latrobe (Tas.)
+7340,Irwin
+7341,Irwin
+7342,Irwin
+7343,Casey
+7344,Shoalhaven
+7345,Moyne
+7346,Clarence Valley
+7347,Brimbank
+7348,Canterbury-Bankstown
+7349,Lithgow
+7350,Alice Springs
+7351,Coorong
+7352,Bunbury
+7353,Colac Otway
+7354,Corangamite
+7355,Sunshine Coast
+7356,Greater Bendigo
+7357,Willoughby
+7358,Maroondah
+7359,Kalamunda
+7360,Greater Geelong
+7361,Parramatta
+7362,Lismore
+7363,Inverell
+7364,Lake Macquarie
+7365,East Arnhem
+7366,East Arnhem
+7367,Swan
+7368,Sunshine Coast
+7369,Brookton
+7370,Mornington Peninsula
+7371,Griffith
+7372,Maitland
+7373,Onkaparinga
+7374,Swan
+7375,Central Coast (NSW)
+7376,Brisbane
+7377,Brisbane
+7378,Dungog
+7379,Greater Shepparton
+7380,Clarence Valley
+7381,Clarence Valley
+7382,Kalgoorlie-Boulder
+7383,West Torrens
+7384,Lake Macquarie
+7385,Blacktown
+7386,Narrandera
+7387,Alice Springs
+7388,Somerset
+7389,Somerset
+7390,Chittering
+7391,Narromine
+7392,Loddon
+7393,Yarra Ranges
+7394,Lockyer Valley
+7395,Isaac
+7396,Gilgandra
+7397,Bellingen
+7398,Northern Grampians
+7399,Barossa
+7400,Penrith
+7401,Cabonne
+7402,Moreton Bay
+7403,West Torrens
+7404,Kingborough
+7405,Penrith
+7406,Walcha
+7407,Brisbane
+7408,Macedon Ranges
+7409,Bogan
+7410,Charters Towers
+7411,Junee
+7412,Blacktown
+7413,Clarence
+7414,North Burnett
+7415,Brisbane
+7416,Stirling
+7417,Yarriambiack
+7418,Wyndham
+7419,Wyndham
+7420,Wyndham
+7421,Whittlesea
+7422,Bayside (NSW)
+7423,Darebin
+7424,Upper Lachlan
+7425,Logan
+7426,Brighton
+7427,Surf Coast
+7428,Murrumbidgee
+7429,Murrumbidgee
+7430,Mid-Western
+7431,Greater Bendigo
+7432,Monash
+7433,Albany
+7434,Toodyay
+7435,Ipswich
+7436,Moreton Bay
+7437,East Gippsland
+7438,Mitchell
+7439,Barossa
+7440,Roper Gulf
+7441,Logan
+7442,Marion
+7443,Port Adelaide Enfield
+7444,Dardanup
+7445,Queanbeyan-Palerang
+7446,Newcastle
+7447,Brisbane
+7448,Isaac
+7449,Port Macquarie-Hastings
+7450,Shoalhaven
+7451,Shoalhaven
+7452,Shoalhaven
+7453,Shoalhaven
+7454,Shoalhaven
+7455,Colac Otway
+7456,Glen Eira
+7457,Brisbane
+7458,Joondalup
+7459,Moreton Bay
+7460,Isaac
+7461,Hornsby
+7462,Kalamunda
+7463,Mid-Coast
+7464,South Perth
+7465,Penrith
+7466,Ravensthorpe
+7467,Cairns
+7468,Palm Island
+7469,Murrindindi
+7470,Murrindindi
+7471,Coorong
+7472,Bridgetown-Greenbushes
+7473,Carnarvon
+7474,Broome
+7475,Manningham
+7476,Moyne
+7477,Stonnington
+7478,Greater Bendigo
+7479,Maitland
+7480,Murray
+7481,Narrabri
+7482,Leeton
+7483,Newcastle
+7484,Kingston (Vic.)
+7485,Corangamite
+7486,Tablelands
+7487,Whitsunday
+7488,Mackay
+7489,Brisbane
+7490,Alexandrina
+7491,Darebin
+7492,Cassowary Coast
+7493,Ballarat
+7494,Donnybrook-Balingup
+7495,Mitchell
+7496,Yorke Peninsula
+7497,Yorke Peninsula
+7498,Yorke Peninsula
+7499,Greater Dandenong
+7500,Lachlan
+7501,Lachlan
+7502,Woollahra
+7503,Bundaberg
+7504,Meander Valley
+7505,Northern Beaches
+7506,Sunshine Coast
+7507,Perenjori
+7508,Monash
+7509,East Gippsland
+7510,East Gippsland
+7511,East Gippsland
+7512,Perth
+7513,Augusta Margaret River
+7514,Pyrenees
+7515,Pyrenees
+7516,Kiama
+7517,Adelaide Hills
+7518,Wollondilly
+7519,Greater Geelong
+7520,Cessnock
+7521,Randwick
+7522,Mid-Coast
+7523,South Gippsland
+7524,Wingecarribee
+7525,Halls Creek
+7526,Toowoomba
+7527,Central Coast (NSW)
+7528,Mansfield
+7529,Whitsunday
+7530,Strathbogie
+7531,Mackay
+7532,Narromine
+7533,Albany
+7534,Albany
+7535,Mount Alexander
+7536,Tweed
+7537,Snowy Valleys
+7538,Wellington
+7539,Wellington
+7540,Litchfield
+7541,Yarra Ranges
+7542,Unincorporated SA
+7543,Lake Macquarie
+7544,Lake Macquarie
+7545,Edward River
+7546,Edward River
+7547,Towong
+7548,Forbes
+7549,Goulburn Mulwaree
+7550,Monash
+7551,Ararat
+7552,Shoalhaven
+7553,Mid-Coast
+7554,Toodyay
+7555,Mid-Coast
+7556,Toowoomba
+7557,Holdfast Bay
+7558,Penrith
+7559,Penrith
+7560,Snowy Monaro
+7561,Central Coast (NSW)
+7562,Streaky Bay
+7563,Gold Coast
+7564,Bellingen
+7565,Brisbane
+7566,Lake Macquarie
+7567,Halls Creek
+7568,Upper Hunter
+7569,Mitchell
+7570,Hawkesbury
+7571,Yass Valley
+7572,Glenelg
+7573,Sutherland
+7574,Bathurst
+7575,Whitehorse
+7576,Launceston
+7577,Adelaide
+7578,Moira
+7579,Gold Coast
+7580,Launceston
+7581,Frankston
+7582,Unincorporated ACT
+7583,West Torrens
+7584,Adelaide Plains
+7585,Wodonga
+7586,Onkaparinga
+7587,York
+7588,West Coast
+7589,Moreton Bay
+7590,Lockyer Valley
+7591,Rockingham
+7592,Rockingham
+7593,Warrumbungle
+7594,Cockburn
+7595,Shoalhaven
+7596,Swan
+7597,Launceston
+7598,Wagga Wagga
+7599,Gladstone
+7600,Moreton Bay
+7601,Victoria Plains
+7602,Glen Innes Severn
+7603,Collie
+7604,Latrobe (Vic.)
+7605,Gold Coast
+7606,Grant
+7607,Gympie
+7608,Monash
+7609,Kent
+7610,Hunters Hill
+7611,Mid-Coast
+7612,Lake Macquarie
+7613,Wingecarribee
+7614,Nambucca Valley
+7615,Port Macquarie-Hastings
+7616,Lake Macquarie
+7617,Whitehorse
+7618,Broome
+7619,Pyrenees
+7620,Pyrenees
+7621,Fraser Coast
+7622,West Arnhem
+7623,Camden
+7624,Narrabri
+7625,Frankston
+7626,Mid-Coast
+7627,Salisbury
+7628,Isaac
+7629,Gold Coast
+7630,Joondalup
+7631,Parkes
+7632,Bundaberg
+7633,Bundaberg
+7634,Isaac
+7635,Latrobe (Tas.)
+7636,Strathbogie
+7637,Singleton
+7638,Sutherland
+7639,Whitsunday
+7640,Logan
+7641,Brisbane
+7642,Salisbury
+7643,Salisbury
+7644,Prospect
+7645,Moreton Bay
+7646,Blacktown
+7647,Murrumbidgee
+7648,Mackay
+7649,Norwood Payneham and St Peters
+7650,Cootamundra-Gundagai
+7651,Greater Geraldton
+7652,Burnside
+7653,Litchfield
+7654,Fairfield
+7655,Inverell
+7656,Litchfield
+7657,East Pilbara
+7658,Dundas
+7659,West Daly
+7660,Coorong
+7661,Tamworth
+7662,Monash
+7663,Armadale
+7664,Nannup
+7665,Moreton Bay
+7666,Moonee Valley
+7667,Brisbane
+7668,Hobart
+7669,Sutherland
+7670,Moreton Bay
+7671,Goulburn Mulwaree
+7672,Cabonne
+7673,Cabonne
+7674,Melbourne
+7675,Brisbane
+7676,Brisbane
+7677,Surf Coast
+7678,Warrumbungle
+7679,Gold Coast
+7680,Greater Shepparton
+7681,Hawkesbury
+7682,Waverley
+7683,Cootamundra-Gundagai
+7684,Capel
+7685,Port Macquarie-Hastings
+7686,Mosman Park
+7687,West Torrens
+7688,Brisbane
+7689,Derby-West Kimberley
+7690,Moorabool
+7691,Palmerston
+7692,Clarence Valley
+7693,Playford
+7694,Albury
+7695,Fairfield
+7696,Clarence Valley
+7697,Banana
+7698,South Burnett
+7699,South Burnett
+7700,Townsville
+7701,Cockburn
+7702,Mitchell
+7703,Colac Otway
+7704,Coffs Harbour
+7705,Swan
+7706,Toowoomba
+7707,Stirling
+7708,Lake Macquarie
+7709,Lake Macquarie
+7710,Rockhampton
+7711,Sydney
+7712,Sydney
+7713,Sydney
+7714,South Burnett
+7715,Campaspe
+7716,Campaspe
+7717,Brisbane
+7718,Somerset
+7719,Hornsby
+7720,Cook
+7721,Stirling
+7722,Upper Hunter
+7723,Playford
+7724,Litchfield
+7725,Dubbo
+7726,Corangamite
+7727,Brisbane
+7728,Townsville
+7729,Melton
+7730,Canterbury-Bankstown
+7731,Townsville
+7732,Dardanup
+7733,Casey
+7734,Manningham
+7735,Bass Coast
+7736,Yarra Ranges
+7737,East Gippsland
+7738,East Gippsland
+7739,Cassowary Coast
+7740,Rockhampton
+7741,Central Coast (Tas.)
+7742,Penrith
+7743,Greater Geraldton
+7744,Shellharbour
+7745,Port Macquarie-Hastings
+7746,Cessnock
+7747,Kingston (Vic.)
+7748,Hornsby
+7749,Wollongong
+7750,Loxton Waikerie
+7751,Bundaberg
+7752,Central Highlands (Qld)
+7753,Central Highlands (Qld)
+7754,Port Macquarie-Hastings
+7755,Gold Coast
+7756,Murweh
+7757,Murray Bridge
+7758,Moorabool
+7759,Central Coast (NSW)
+7760,Brisbane
+7761,Junee
+7762,Wingecarribee
+7763,Campaspe
+7764,Barossa
+7765,Bundaberg
+7766,Bundaberg
+7767,Brisbane
+7768,Somerset
+7769,Golden Plains
+7770,Toowoomba
+7771,Inverell
+7772,Harvey
+7773,Rockingham
+7774,Ballarat
+7775,Ballarat
+7776,Cowra
+7777,Kingston (Vic.)
+7778,Moira
+7779,Sunshine Coast
+7780,Rockingham
+7781,Brisbane
+7782,Dubbo
+7783,Dubbo
+7784,Playford
+7785,Maribyrnong
+7786,Townsville
+7787,Darebin
+7788,Broome
+7789,Blacktown
+7790,Maribyrnong
+7791,Sutherland
+7792,Kempsey
+7793,Clarence Valley
+7794,Unincorporated NSW
+7795,Liverpool
+7796,Salisbury
+7797,Fraser Coast
+7798,Burnside
+7799,Northern Midlands
+7800,Ipswich
+7801,Alexandrina
+7802,Alexandrina
+7803,Bland
+7804,Clarence Valley
+7805,Bellingen
+7806,Sunshine Coast
+7807,Central Coast (NSW)
+7808,Latrobe (Vic.)
+7809,Wentworth
+7810,Central Highlands (Qld)
+7811,Wellington
+7812,Glen Innes Severn
+7813,Gannawarra
+7814,Brisbane
+7815,Greater Dandenong
+7816,Salisbury
+7817,Greater Dandenong
+7818,Logan
+7819,Logan
+7820,Greater Hume
+7821,Onkaparinga
+7822,Cardinia
+7823,Singleton
+7824,Singleton
+7825,Mount Barker
+7826,Playford
+7827,Tweed
+7828,Tweed
+7829,Greater Dandenong
+7830,Carpentaria
+7831,Tweed
+7832,Gingin
+7833,Gingin
+7834,Gingin
+7835,Tamworth
+7836,Townsville
+7837,Burwood
+7838,Central Coast (NSW)
+7839,Tamworth
+7840,Ryde
+7841,Indigo
+7842,Albany
+7843,Melville
+7844,Southern Downs
+7845,Charles Sturt
+7846,Gold Coast
+7847,Moira
+7848,Clarence Valley
+7849,Georges River
+7850,Maribyrnong
+7851,Canning
+7852,Newcastle
+7853,Bathurst
+7854,Wattle Range
+7855,Port Stephens
+7856,Port Macquarie-Hastings
+7857,Melville
+7858,Central Coast (Tas.)
+7859,Mid-Coast
+7860,Moreton Bay
+7861,Southern Grampians
+7862,Whittlesea
+7863,Yankalilla
+7864,Port Adelaide Enfield
+7865,Ryde
+7866,Parramatta
+7867,Southern Downs
+7868,Southern Downs
+7869,Benalla
+7870,Narrogin
+7871,Mount Alexander
+7872,Moira
+7873,Tea Tree Gully
+7874,Carnamah
+7875,Carrathool
+7876,Narrandera
+7877,Salisbury
+7878,Bega Valley
+7879,Campbelltown (NSW)
+7880,Liverpool
+7881,Casey
+7882,Casey
+7883,Central Coast (NSW)
+7884,Barossa
+7885,Boroondara
+7886,Tamworth
+7887,Whitsunday
+7888,Gawler
+7889,Yass Valley
+7890,Rockingham
+7891,Ryde
+7892,Bayside (Vic.)
+7893,Whittlesea
+7894,Mansfield
+7895,Banyule
+7896,Light
+7897,Northern Midlands
+7898,Shoalhaven
+7899,Port Macquarie-Hastings
+7900,Bayside (Vic.)
+7901,Mornington Peninsula
+7902,Scenic Rim
+7903,Newcastle
+7904,Adelaide Plains
+7905,Byron
+7906,Moreton Bay
+7907,Cockburn
+7908,Parramatta
+7909,Macedon Ranges
+7910,Greater Geraldton
+7911,Campaspe
+7912,Salisbury
+7913,Sunshine Coast
+7914,Brighton
+7915,Canterbury-Bankstown
+7916,Goulburn Mulwaree
+7917,Moree Plains
+7918,Moree Plains
+7919,Mareeba
+7920,Mareeba
+7921,Cumberland
+7922,East Gippsland
+7923,Harvey
+7924,Wentworth
+7925,Lake Macquarie
+7926,Cairns
+7927,Litchfield
+7928,Toowoomba
+7929,Adelaide Hills
+7930,Cootamundra-Gundagai
+7931,East Arnhem
+7932,Livingstone
+7933,Narromine
+7934,Tamworth
+7935,Wentworth
+7936,Wentworth
+7937,Moreton Bay
+7938,Greater Dandenong
+7939,Bayswater
+7940,Sunshine Coast
+7941,MacDonnell
+7942,Dungog
+7943,Cardinia
+7944,Barossa
+7945,Maranoa
+7946,Maranoa
+7947,Bass Coast
+7948,Lake Macquarie
+7949,Gold Coast
+7950,Yarra
+7951,Wanneroo
+7952,Mid-Coast
+7953,Mid-Coast
+7954,Gold Coast
+7955,Melbourne
+7956,Greater Geelong
+7957,Willoughby
+7958,Fairfield
+7959,Brisbane
+7960,Adelaide Hills
+7961,Hume
+7962,Sunshine Coast
+7963,Glen Innes Severn
+7964,Goulburn Mulwaree
+7965,Mandurah
+7966,Frankston
+7967,Northern Beaches
+7968,Logan
+7969,Central Coast (NSW)
+7970,West Torrens
+7971,Kalgoorlie-Boulder
+7972,Blacktown
+7973,Somerset
+7974,Somerset
+7975,Ku-ring-gai
+7976,Fairfield
+7977,Ku-ring-gai
+7978,Moira
+7979,Kingston (Vic.)
+7980,Holdfast Bay
+7981,Macedon Ranges
+7982,Burke
+7983,Burke
+7984,Burke
+7985,Muswellbrook
+7986,Tamworth
+7987,Tamworth
+7988,Northam
+7989,Murray Bridge
+7990,Ryde
+7991,Wingecarribee
+7992,Wingecarribee
+7993,Merredin
+7994,Townsville
+7995,Townsville
+7996,Ipswich
+7997,Derwent Valley
+7998,Canterbury-Bankstown
+7999,Gold Coast
+8000,Litchfield
+8001,Parramatta
+8002,Maribyrnong
+8003,Port Hedland
+8004,Port Hedland
+8005,Moira
+8006,Moreton Bay
+8007,Murrindindi
+8008,Stirling
+8009,Port Pirie
+8010,Burnside
+8011,Adelaide Hills
+8012,Beverley
+8013,Greater Hume
+8014,Gingin
+8015,Douglas
+8016,Ballina
+8017,Logan
+8018,Burdekin
+8019,Brisbane
+8020,Upper Lachlan
+8021,Cassowary Coast
+8022,Cassowary Coast
+8023,Cassowary Coast
+8024,Sydney
+8025,Bundaberg
+8026,Kwinana
+8027,Berrigan
+8028,Gladstone
+8029,Fairfield
+8030,Salisbury
+8031,Townsville
+8032,Mitcham
+8033,Kempsey
+8034,Redland
+8035,Coffs Harbour
+8036,Casey
+8037,North Burnett
+8038,Brisbane
+8039,Wollongong
+8040,Wollongong
+8041,Launceston
+8042,Mornington Peninsula
+8043,Warrumbungle
+8044,Griffith
+8045,Warrumbungle
+8046,Unincorporated NT
+8047,Unincorporated NT
+8048,Orange
+8049,Wellington
+8050,Tamworth
+8051,Clarence
+8052,Darebin
+8053,Salisbury
+8054,Moreton Bay
+8055,Wakefield
+8056,Wakefield
+8057,Blue Mountains
+8058,Parramatta
+8059,Albany
+8060,Launceston
+8061,Edward River
+8062,Edward River
+8063,Broome
+8064,Shoalhaven
+8065,Yass Valley
+8066,Strathbogie
+8067,Livingstone
+8068,Baw Baw
+8069,Sunshine Coast
+8070,Hobart
+8071,Unincorporated NT
+8072,Greater Shepparton
+8073,Greater Shepparton
+8074,Greater Shepparton
+8075,Douglas
+8076,Bassendean
+8077,Willoughby
+8078,Singleton
+8079,Mitcham
+8080,Moreton Bay
+8081,Brisbane
+8082,Greater Dandenong
+8083,Kyogle
+8084,Snowy Valleys
+8085,Brisbane
+8086,Penrith
+8087,Greater Shepparton
+8088,Bathurst
+8089,Bayside (Vic.)
+8090,Gympie
+8091,Wollongong
+8092,Wollongong
+8093,Mackay
+8094,Litchfield
+8095,Brimbank
+8096,Kyogle
+8097,Litchfield
+8098,Upper Hunter
+8099,Parramatta
+8100,Westonia
+8101,Banyule
+8102,Yarra Ranges
+8103,Upper Hunter
+8104,Brisbane
+8105,Meander Valley
+8106,Sunshine Coast
+8107,Latrobe (Vic.)
+8108,Berrigan
+8109,Moree Plains
+8110,Moree Plains
+8111,Moree Plains
+8112,Pingelly
+8113,Baw Baw
+8114,Fraser Coast
+8115,Mildura
+8116,Ballarat
+8117,Central Goldfields
+8118,Logan
+8119,Whitehorse
+8120,Moorabool
+8121,Irwin
+8122,Moreton Bay
+8123,Sunshine Coast
+8124,Dubbo
+8125,Dubbo
+8126,Bundaberg
+8127,Central Coast (NSW)
+8128,Snowy Monaro
+8129,Leeton
+8130,Launceston
+8131,Casey
+8132,Bundaberg
+8133,Gunnedah
+8134,Lake Macquarie
+8135,Sunshine Coast
+8136,North Sydney
+8137,Forbes
+8138,Greater Geelong
+8139,Port Pirie
+8140,Kiama
+8141,Douglas
+8142,Douglas
+8143,Onkaparinga
+8144,Benalla
+8145,Benalla
+8146,Mackay
+8147,Clarence
+8148,Clarence
+8149,Mornington Peninsula
+8150,Orange
+8151,Somerset
+8152,Inner West
+8153,Inner West
+8154,Maranoa
+8155,Liverpool
+8156,Port Phillip
+8157,Rockhampton
+8158,Parramatta
+8159,Isaac
+8160,Whyalla
+8161,Eurobodalla
+8162,Banyule
+8163,Camden
+8164,Mareeba
+8165,Glenelg
+8166,Logan
+8167,Tablelands
+8168,Derwent Valley
+8169,Wellington
+8170,Central Coast (NSW)
+8171,Kangaroo Island
+8172,Logan
+8173,Hawkesbury
+8174,Gold Coast
+8175,Shellharbour
+8176,Inner West
+8177,Goulburn Mulwaree
+8178,Wingecarribee
+8179,Livingstone
+8180,Griffith
+8181,Bayside (NSW)
+8182,Tweed
+8183,Unincorporated ACT
+8184,Tatiara
+8185,Townsville
+8186,Logan
+8187,Sydney
+8188,Cardinia
+8189,Collie
+8190,South Burnett
+8191,Armadale
+8192,Cardinia
+8193,Mareeba
+8194,Casey
+8195,Maribyrnong
+8196,Greater Bendigo
+8197,Buloke
+8198,Stirling
+8199,Murray
+8200,Greater Dandenong
+8201,Frankston
+8202,Murrindindi
+8203,Greater Shepparton
+8204,Denmark
+8205,Mackay
+8206,Tweed
+8207,Tweed
+8208,Tweed
+8209,Playford
+8210,Fraser Coast
+8211,Fraser Coast
+8212,Colac Otway
+8213,Armadale
+8214,Wanneroo
+8215,Tweed
+8216,Mitchell
+8217,Katherine
+8218,Singleton
+8219,Bridgetown-Greenbushes
+8220,Cobar
+8221,Goulburn Mulwaree
+8222,Muswellbrook
+8223,Cardinia
+8224,Bayside (NSW)
+8225,Irwin
+8226,Bayside (NSW)
+8227,Nedlands
+8228,Gingin
+8229,Gingin
+8230,Belmont
+8231,Sunshine Coast
+8232,Sunshine Coast
+8233,Albury
+8234,Morawa
+8235,Central Desert
+8236,Cardinia
+8237,Tenterfield
+8238,Somerset
+8239,Toowoomba
+8240,Kyogle
+8241,Yarra Ranges
+8242,Yarra Ranges
+8243,Unincorporated Vic
+8244,Brighton
+8245,Golden Plains
+8246,Wangaratta
+8247,Port Stephens
+8248,Shoalhaven
+8249,Kalamunda
+8250,Eurobodalla
+8251,Palmerston
+8252,Greater Hume
+8253,Brisbane
+8254,Armadale
+8255,Murrindindi
+8256,Greater Geelong
+8257,Goulburn Mulwaree
+8258,Narrandera
+8259,Melbourne
+8260,Shoalhaven
+8261,Shoalhaven
+8262,Bunbury
+8263,Naracoorte Lucindale
+8264,Wakefield
+8265,Towong
+8266,Port Phillip
+8267,Brimbank
+8268,Clarence Valley
+8269,Sutherland
+8270,Douglas
+8271,Adelaide Hills
+8272,Adelaide Plains
+8273,Adelaide Plains
+8274,Inverell
+8275,Northern Beaches
+8276,Lake Macquarie
+8277,Liverpool Plains
+8278,Clarence Valley
+8279,Western Downs
+8280,Strathfield
+8281,East Gippsland
+8282,Tumby Bay
+8283,Central Coast (NSW)
+8284,Golden Plains
+8285,Golden Plains
+8286,Parkes
+8287,Wangaratta
+8288,Goyder
+8289,Dandaragan
+8290,Glenelg
+8291,Casey
+8292,Wollondilly
+8293,Wollondilly
+8294,Unincorporated ACT
+8295,Brimbank
+8296,Hawkesbury
+8297,Pyrenees
+8298,Blayney
+8299,Mundaring
+8300,Cairns
+8301,Dandaragan
+8302,Melbourne
+8303,Gympie
+8304,Tamworth
+8305,Benalla
+8306,Maribyrnong
+8307,Port Adelaide Enfield
+8308,Litchfield
+8309,Scenic Rim
+8310,Blacktown
+8311,Whitsunday
+8312,Somerset
+8313,Wandering
+8314,Upper Lachlan
+8315,Snowy Monaro
+8316,Burdekin
+8317,Brimbank
+8318,Logan
+8319,Adelaide
+8320,Gold Coast
+8321,Moorabool
+8322,Mount Remarkable
+8323,Bass Coast
+8324,Fraser Coast
+8325,Bathurst
+8326,South Gippsland
+8327,Narrabri
+8328,West Coast
+8329,Port Macquarie-Hastings
+8330,Randwick
+8331,Randwick
+8332,Greater Geelong
+8333,Horsham
+8334,Scenic Rim
+8335,Fairfield
+8336,Clarence Valley
+8337,Gingin
+8338,Gold Coast
+8339,Westonia
+8340,Southern Grampians
+8341,Singleton
+8342,Gold Coast
+8343,West Tamar
+8344,Buloke
+8345,Cabonne
+8346,Port Adelaide Enfield
+8347,Kalgoorlie-Boulder
+8348,Wyndham
+8349,Bundaberg
+8350,Randwick
+8351,Port Stephens
+8352,Moora
+8353,Anangu Pitjantjatjara Yankunytjatjara
+8354,Claremont
+8355,Litchfield
+8356,Melton
+8357,Meander Valley
+8358,Wollondilly
+8359,Wollondilly
+8360,Wandering
+8361,Melton
+8362,Southern Grampians
+8363,Cootamundra-Gundagai
+8364,Loxton Waikerie
+8365,Pyrenees
+8366,Busselton
+8367,Mingenew
+8368,Tea Tree Gully
+8369,Mid-Coast
+8370,Gympie
+8371,Busselton
+8372,Liverpool
+8373,Bathurst
+8374,Shoalhaven
+8375,Chittering
+8376,Yass Valley
+8377,Cessnock
+8378,Charles Sturt
+8379,Nambucca Valley
+8380,Brisbane
+8381,Campaspe
+8382,Willoughby
+8383,Plantagenet
+8384,Sydney
+8385,Serpentine-Jarrahdale
+8386,Wattle Range
+8387,Donnybrook-Balingup
+8388,Hepburn
+8389,Lake Macquarie
+8390,Sunshine Coast
+8391,Gold Coast
+8392,Moira
+8393,Gold Coast
+8394,Kingston (Vic.)
+8395,Greater Bendigo
+8396,Casey
+8397,Toowoomba
+8398,Strathbogie
+8399,Unincorporated ACT
+8400,Break O'Day
+8401,Inner West
+8402,Greater Dandenong
+8403,Barossa
+8404,Litchfield
+8405,Litchfield
+8406,Moreton Bay
+8407,Moreton Bay
+8408,Wingecarribee
+8409,Charters Towers
+8410,Northern Grampians
+8411,Merredin
+8412,Capel
+8413,Brisbane
+8414,Warrumbungle
+8415,Darwin
+8416,Burdekin
+8417,Tablelands
+8418,Cessnock
+8419,Moorabool
+8420,Mid-Coast
+8421,Southern Downs
+8422,Marion
+8423,East Gippsland
+8424,Moyne
+8425,Mid-Coast
+8426,Macedon Ranges
+8427,Barcaldine
+8428,Snowy Valleys
+8429,Bellingen
+8430,Fairfield
+8431,Canterbury-Bankstown
+8432,Monash
+8433,Gladstone
+8434,Narromine
+8435,Wellington
+8436,Redland
+8437,Somerset
+8438,Shoalhaven
+8439,Barossa
+8440,Benalla
+8441,Logan
+8442,Noosa
+8443,Wollongong
+8444,Moira
+8445,Melton
+8446,Hornsby
+8447,Unincorporated SA
+8448,Golden Plains
+8449,Singleton
+8450,Cabonne
+8451,Barossa
+8452,Barossa
+8453,Hobart
+8454,Campaspe
+8455,Golden Plains
+8456,Donnybrook-Balingup
+8457,Dubbo
+8458,South Burnett
+8459,Sunshine Coast
+8460,Northern Midlands
+8461,Muswellbrook
+8462,Fraser Coast
+8463,Gold Coast
+8464,Mid-Coast
+8465,Perth
+8466,Canterbury-Bankstown
+8467,Moreton Bay
+8468,Wangaratta
+8469,Port Stephens
+8470,Cockburn
+8471,Bayside (NSW)
+8472,Singleton
+8473,Lake Macquarie
+8474,Muswellbrook
+8475,Muswellbrook
+8476,Bayside (Vic.)
+8477,Logan
+8478,Fraser Coast
+8479,Coffs Harbour
+8480,Harvey
+8481,Yarra Ranges
+8482,Busselton
+8483,Mackay
+8484,Eurobodalla
+8485,Gold Coast
+8486,Eurobodalla
+8487,Logan
+8488,Logan
+8489,Bayside (Vic.)
+8490,Liverpool
+8491,Cairns
+8492,Swan Hill
+8493,Livingstone
+8494,Armadale
+8495,Armadale
+8496,Canning
+8497,South Gippsland
+8498,Greater Bendigo
+8499,Joondalup
+8500,Sutherland
+8501,Junee
+8502,Sunshine Coast
+8503,Blacktown
+8504,Brisbane
+8505,Latrobe (Vic.)
+8506,Parkes
+8507,Mackay
+8508,Light
+8509,Palm Island
+8510,Townsville
+8511,Brisbane
+8512,Derby-West Kimberley
+8513,Leeton
+8514,Leeton
+8515,Central Coast (NSW)
+8516,Joondalup
+8517,Latrobe (Vic.)
+8518,Whitsunday
+8519,Wyndham
+8520,Mid-Coast
+8521,Mid-Coast
+8522,Greater Geraldton
+8523,Logan
+8524,Central Desert
+8525,Greater Geelong
+8526,Wanneroo
+8527,Wollongong
+8528,Fairfield
+8529,Fairfield
+8530,Fairfield
+8531,MacDonnell
+8532,MacDonnell
+8533,Coolgardie
+8534,Greater Shepparton
+8535,Bundaberg
+8536,Onkaparinga
+8537,Tamworth
+8538,Wollongong
+8539,Dundas
+8540,Unincorporated NT
+8541,Ceduna
+8542,Central Coast (NSW)
+8543,Kondinin
+8544,Kondinin
+8545,Narrogin
+8546,Port Stephens
+8547,Jerramungup
+8548,Jerramungup
+8549,Murray
+8550,Bathurst
+8551,Lane Cove
+8552,Lane Cove
+8553,Capel
+8554,Mid Murray
+8555,Stirling
+8556,Port Stephens
+8557,Wakefield
+8558,Shoalhaven
+8559,Upper Hunter
+8560,Swan
+8561,Central Highlands (Tas.)
+8562,Darwin
+8563,The Hills
+8564,Liverpool
+8565,Chapman Valley
+8566,Northern Midlands
+8567,Ku-ring-gai
+8568,Richmond Valley
+8569,Port Stephens
+8570,Cumberland
+8571,Wingecarribee
+8572,Wingecarribee
+8573,Central Desert
+8574,Forbes
+8575,Unincorporated SA
+8576,Narrabri
+8577,Mandurah
+8578,Mandurah
+8579,Mid-Coast
+8580,Lane Cove
+8581,Naracoorte Lucindale
+8582,Gilgandra
+8583,Bathurst
+8584,Onkaparinga
+8585,Derby-West Kimberley
+8586,Carrathool
+8587,Palmerston
+8588,Newcastle
+8589,Bruce Rock
+8590,Nannup
+8591,Canterbury-Bankstown
+8592,Donnybrook-Balingup
+8593,Clarence Valley
+8594,Bayside (NSW)
+8595,Cockburn
+8596,Meander Valley
+8597,Stirling
+8598,Dardanup
+8599,Wongan-Ballidu
+8600,Roper Gulf
+8601,Ballina
+8602,MacDonnell
+8603,Central Coast (NSW)
+8604,Bathurst
+8605,Dubbo
+8606,Newcastle
+8607,Tea Tree Gully
+8608,Cumberland
+8609,Fairfield
+8610,Plantagenet
+8611,Willoughby
+8612,Wattle Range
+8613,Wattle Range
+8614,Wattle Range
+8615,Wattle Range
+8616,Cumberland
+8617,Goulburn Mulwaree
+8618,Barkly
+8619,Barkly
+8620,Litchfield
+8621,Vincent
+8622,Greater Geraldton
+8623,Denmark
+8624,Rockingham
+8625,Hobart
+8626,Hawkesbury
+8627,Unincorporated SA
+8628,Murray Bridge
+8629,Blue Mountains
+8630,Unincorporated ACT
+8631,Plantagenet
+8632,Plantagenet
+8633,Wollongong
+8634,Serpentine-Jarrahdale
+8635,Federation
+8636,Yass Valley
+8637,West Arthur
+8638,Kwinana
+8639,Boddington
+8640,Gosnells
+8641,Yorke Peninsula
+8642,Cowra
+8643,Singleton
+8644,Lismore
+8645,Kalgoorlie-Boulder
+8646,Sutherland
+8647,Narromine
+8648,Port Macquarie-Hastings
+8649,Cumberland
+8650,Clarence Valley
+8651,Ballina
+8652,Adelaide
+8653,Northern Beaches
+8654,West Torrens
+8655,Mid Murray
+8656,Northam
+8657,Meander Valley
+8658,Moree Plains
+8659,Moree Plains
+8660,Tweed
+8661,Roper Gulf
+8662,Darwin
+8663,Unincorporated NT
+8664,Glenorchy
+8665,Oberon
+8666,Oberon
+8667,Tweed
+8668,Blacktown
+8669,Salisbury
+8670,Onkaparinga
+8671,Fremantle
+8672,Yass Valley
+8673,Halls Creek
+8674,Halls Creek
+8675,Halls Creek
+8676,East Pilbara
+8677,East Pilbara
+8678,Kentish
+8679,Narromine
+8680,Unincorporated SA
+8681,Victoria Daly
+8682,Anangu Pitjantjatjara Yankunytjatjara
+8683,Litchfield
+8684,Litchfield
+8685,Mid-Coast
+8686,Dardanup
+8687,Goomalling
+8688,Ashburton
+8689,Ashburton
+8690,Sydney
+8691,Shoalhaven
+8692,Shoalhaven
+8693,Barossa
+8694,Dardanup
+8695,Unincorporated ACT
+8696,Lake Macquarie
+8697,Wollondilly
+8698,Mandurah
+8699,Penrith
+8700,Penrith
+8701,Joondalup
+8702,Warrumbungle
+8703,Clarence Valley
+8704,Wingecarribee
+8705,Unincorporated ACT
+8706,Wanneroo
+8707,Hawkesbury
+8708,Roper Gulf
+8709,Marion
+8710,Shellharbour
+8711,Berri Barmera
+8712,Bogan
+8713,Cootamundra-Gundagai
+8714,Ballina
+8715,Swan
+8716,Narrabri
+8717,Cockburn
+8718,Mid-Coast
+8719,Onkaparinga
+8720,Murray
+8721,Williams
+8722,Waratah-Wynyard
+8723,Tamworth
+8724,Tamworth
+8725,Canada Bay
+8726,Gosnells
+8727,Port Stephens
+8728,Playford
+8729,Glen Innes Severn
+8730,Coffs Harbour
+8731,Canterbury-Bankstown
+8732,Unincorporated ACT
+8733,Playford
+8734,Central Coast (NSW)
+8735,Bathurst
+8736,Onkaparinga
+8737,Tweed
+8738,Murray River
+8739,Armadale
+8740,Northern Beaches
+8741,Maitland
+8742,Mundaring
+8743,Unincorporated ACT
+8744,Narromine
+8745,Shoalhaven
+8746,Clarence Valley
+8747,Clarence Valley
+8748,Hilltops
+8749,Sydney
+8750,Blacktown
+8751,Wanneroo
+8752,Devonport
+8753,Liverpool
+8754,Cessnock
+8755,Central Coast (NSW)
+8756,Coffs Harbour
+8757,Waroona
+8758,Sydney
+8759,Lithgow
+8760,Joondalup
+8761,Joondalup
+8762,Wingecarribee
+8763,Playford
+8764,Port Stephens
+8765,Southern Midlands
+8766,Tamworth
+8767,Central Highlands (Tas.)
+8768,Light
+8769,Tatiara
+8770,Dubbo
+8771,Joondalup
+8772,Sorell
+8773,Sorell
+8774,Light
+8775,Canterbury-Bankstown
+8776,Parramatta
+8777,Swan
+8778,East Pilbara
+8779,Tenterfield
+8780,Tenterfield
+8781,Gingin
+8782,Orange
+8783,Wollongong
+8784,Tea Tree Gully
+8785,Serpentine-Jarrahdale
+8786,Newcastle
+8787,Wollongong
+8788,Canterbury-Bankstown
+8789,Cootamundra-Gundagai
+8790,Halls Creek
+8791,Newcastle
+8792,Snowy Monaro
+8793,Parramatta
+8794,Eurobodalla
+8795,Inverell
+8796,Goulburn Mulwaree
+8797,Playford
+8798,Hilltops
+8799,Armadale
+8800,Playford
+8801,Bega Valley
+8802,Strathfield
+8803,Wanneroo
+8804,Queanbeyan-Palerang
+8805,Queanbeyan-Palerang
+8806,Coomalie 
+8807,Bellingen
+8808,MacDonnell
+8809,MacDonnell
+8810,Central Coast (NSW)
+8811,Cowra
+8812,Newcastle
+8813,Waroona
+8814,Parramatta
+8815,Federation
+8816,Mount Barker
+8817,Shoalhaven
+8818,Canterbury-Bankstown
+8819,Cessnock
+8820,Tweed
+8821,Bathurst
+8822,Kalamunda
+8823,Cambridge
+8824,Bayside (NSW)
+8825,Wanneroo
+8826,Wanneroo
+8827,Wanneroo
+8828,Wingecarribee
+8829,Mid-Western
+8830,Stirling
+8831,Loxton Waikerie
+8832,Litchfield
+8833,Collie
+8834,Canterbury-Bankstown
+8835,Playford
+8836,Upper Hunter
+8837,Dundas
+8838,Dundas
+8839,Blue Mountains
+8840,Camden
+8841,Sydney
+8842,Serpentine-Jarrahdale
+8843,Barkly
+8844,Kiama
+8845,West Arnhem
+8846,Central Coast (NSW)
+8847,Gawler
+8848,East Pilbara
+8849,Harvey
+8850,Maitland
+8851,Sutherland
+8852,Dungog
+8853,Berri Barmera
+8854,Cue
+8855,Goyder
+8856,Mandurah
+8857,Kempsey
+8858,Hobart
+8859,Claremont
+8860,Dardanup
+8861,Gunnedah
+8862,Gunnedah
+8863,Harvey
+8864,Mid-Coast
+8865,Victoria Park
+8866,Clarence
+8867,Barkly
+8868,Griffith
+8869,Forbes
+8870,Unincorporated ACT
+8871,Mundaring
+8872,Tenterfield
+8873,Goyder
+8874,Lake Macquarie
+8875,Clarence Valley
+8876,Port Macquarie-Hastings
+8877,Ballina
+8878,Mount Magnet
+8879,Mundaring
+8880,Dungog
+8881,Grant
+8882,Central Coast (NSW)
+8883,Bayside (NSW)
+8884,Toodyay
+8885,Mid-Coast
+8886,Meekatharra
+8887,Central Coast (NSW)
+8888,Port Stephens
+8889,Port Stephens
+8890,Mundaring
+8891,Unincorporated NSW
+8892,Port Stephens
+8893,Armidale
+8894,Armidale
+8895,Hornsby
+8896,Mid-Western
+8897,Wanneroo
+8898,Collie
+8899,Central Desert
+8900,Victoria Daly
+8901,Tamworth
+8902,Cumberland
+8903,Northampton
+8904,Quairading
+8905,Lismore
+8906,Dalwallinu
+8907,Unincorporated ACT
+8908,Swan
+8909,Cabonne
+8910,Cumberland
+8911,Parramatta
+8912,Lake Macquarie
+8913,Fairfield
+8914,Murray Bridge
+8915,Wanneroo
+8916,Mid-Western
+8917,Mid-Western
+8918,Derby-West Kimberley
+8919,Bland
+8920,Newcastle
+8921,Kyogle
+8922,Wollongong
+8923,Lake Macquarie
+8924,Port Adelaide Enfield
+8925,Port Macquarie-Hastings
+8926,Woollahra
+8927,Blacktown
+8928,Yorke Peninsula
+8929,Singleton
+8930,Richmond Valley
+8931,Mid-Western
+8932,Alexandrina
+8933,Port Macquarie-Hastings
+8934,Mid-Coast
+8935,Cuballing
+8936,Goulburn Mulwaree
+8937,Mid-Coast
+8938,Rockingham
+8939,West Arthur
+8940,Penrith
+8941,Stirling
+8942,Warrumbungle
+8943,Parramatta
+8944,Darwin
+8945,Coffs Harbour
+8946,Parramatta
+8947,Busselton
+8948,Adelaide Hills
+8949,Canterbury-Bankstown
+8950,Uralla
+8951,Uralla
+8952,Murray Bridge
+8953,Waratah-Wynyard
+8954,Waratah-Wynyard
+8955,Tatiara
+8956,Joondalup
+8957,Snowy Monaro
+8958,Snowy Monaro
+8959,Clarence Valley
+8960,Blacktown
+8961,Burwood
+8962,Ryde
+8963,Subiaco
+8964,Northern Beaches
+8965,Northern Beaches
+8966,Alice Springs
+8967,Alice Springs
+8968,Collie
+8969,Shellharbour
+8970,Central Coast (NSW)
+8971,Central Coast (NSW)
+8972,Sutherland
+8973,Orange
+8974,Bogan
+8975,King Island
+8976,Mitcham
+8977,Fairfield
+8978,Port Pirie
+8979,Naracoorte Lucindale
+8980,Mid-Coast
+8981,Mid-Coast
+8982,Unincorporated ACT
+8983,Trayning
+8984,Kwinana
+8985,Port Stephens
+8986,Cumberland
+8987,Singleton
+8988,Kempsey
+8989,Mid-Coast
+8990,Bega Valley
+8991,Litchfield
+8992,Wingecarribee
+8993,Mitcham
+8994,Blacktown
+8995,Roper Gulf
+8996,Serpentine-Jarrahdale
+8997,Port Macquarie-Hastings
+8998,Gnowangerup
+8999,Chittering
+9000,Unincorporated SA
+9001,Coolgardie
+9002,Cobar
+9003,Wingecarribee
+9004,Blacktown
+9005,Orange
+9006,Launceston
+9007,Richmond Valley
+9008,Newcastle
+9009,Augusta Margaret River
+9010,Bayside (NSW)
+9011,Campbelltown (NSW)
+9012,Swan
+9013,Barossa
+9014,Whyalla
+9015,Northern Beaches
+9016,Unincorporated ACT
+9017,Victoria Plains
+9018,Victoria Plains
+9019,Fairfield
+9020,Wanneroo
+9021,Tamworth
+9022,Wagin
+9023,Marion
+9024,Clarence Valley
+9025,Kingborough
+9026,Parkes
+9027,Blacktown
+9028,Kingborough
+9029,Ryde
+9030,Hilltops
+9031,Tamworth
+9032,Tamworth
+9033,Bayswater
+9034,Adelaide Hills
+9035,Mid-Coast
+9036,Lake Macquarie
+9037,Wingecarribee
+9038,Darwin
+9039,Temora
+9040,Sutherland
+9041,Narromine
+9042,Narromine
+9043,Narromine
+9044,Wingecarribee
+9045,Tamworth
+9046,Lismore
+9047,Central Coast (NSW)
+9048,Central Coast (NSW)
+9049,Cowra
+9050,Port Pirie
+9051,Port Pirie
+9052,Port Pirie
+9053,Port Pirie
+9054,Ravensthorpe
+9055,Manjimup
+9056,Manjimup
+9057,Eurobodalla
+9058,Lockhart
+9059,Bathurst
+9060,Newcastle
+9061,Coffs Harbour
+9062,Unincorporated NSW
+9063,Greater Hume
+9064,Kentish
+9065,Cumberland
+9066,Southern Midlands
+9067,Latrobe (Tas.)
+9068,Latrobe (Tas.)
+9069,Parramatta
+9070,Kingborough
+9071,Darwin
+9072,Northern Beaches
+9073,Fairfield
+9074,Clare and Gilbert Valleys
+9075,Hay
+9076,Murray Bridge
+9077,Berri Barmera
+9078,Roper Gulf
+9079,Dubbo
+9080,Inner West
+9081,Dubbo
+9082,Dubbo
+9083,Lake Macquarie
+9084,Cumberland
+9085,Fairfield
+9086,Clarence Valley
+9087,Unincorporated NT
+9088,Boddington
+9089,Glen Innes Severn
+9090,Unincorporated SA
+9091,Lake Macquarie
+9092,Nambucca Valley
+9093,Gingin
+9094,Port Macquarie-Hastings
+9095,Snowy Monaro
+9096,Muswellbrook
+9097,Victoria Daly
+9098,Gnowangerup
+9099,Swan
+9100,Port Macquarie-Hastings
+9101,Glen Innes Severn
+9102,Goulburn Mulwaree
+9103,Barossa
+9104,Quairading
+9105,Campbelltown (NSW)
+9106,The Hills
+9107,Victoria Daly
+9108,Salisbury
+9109,Wakefield
+9110,Wingecarribee
+9111,Coolgardie
+9112,Northern Midlands
+9113,Waroona
+9114,Snowy Valleys
+9115,Inverell
+9116,Port Augusta
+9117,Port Augusta
+9118,Bruce Rock
+9119,Bruce Rock
+9120,Cessnock
+9121,Bruce Rock
+9122,Penrith
+9123,Northam
+9124,Mid-Coast
+9125,Kondinin
+9126,Glenorchy
+9127,Meander Valley
+9128,Goulburn Mulwaree
+9129,Singleton
+9130,Wanneroo
+9131,Wanneroo
+9132,Wanneroo
+9133,Edward River
+9134,Armadale
+9135,Tamworth
+9136,Salisbury
+9137,Salisbury
+9138,Dubbo
+9139,West Tamar
+9140,Coffs Harbour
+9141,Port Pirie
+9142,Central Coast (NSW)
+9143,Central Coast (NSW)
+9144,Plantagenet
+9145,Gosnells
+9146,Lake Macquarie
+9147,Port Stephens
+9148,Hilltops
+9149,Ashburton
+9150,Clarence Valley
+9151,Newcastle
+9152,Balranald
+9153,Unincorporated NT
+9154,Kyogle
+9155,Unincorporated ACT
+9156,Tweed
+9157,Mount Magnet
+9158,Greater Hume
+9159,Bellingen
+9160,Ryde
+9161,Clarence Valley
+9162,Lake Grace
+9163,Lake Grace
+9164,Inner West
+9165,Penrith
+9166,Blacktown
+9167,Blacktown
+9168,Blacktown
+9169,Murray River
+9170,Central Coast (NSW)
+9171,Charles Sturt
+9172,The Hills
+9173,Cowra
+9174,Mid-Western
+9175,Albany
+9176,Tweed
+9177,Penrith
+9178,Coolamon
+9179,Stirling
+9180,Lake Macquarie
+9181,Mid-Western
+9182,Stirling
+9183,Penrith
+9184,Wollondilly
+9185,Fairfield
+9186,Shoalhaven
+9187,Roper Gulf
+9188,Campbelltown (SA)
+9189,Ryde
+9190,Tweed
+9191,Victoria Daly
+9192,Wingecarribee
+9193,Dalwallinu
+9194,Collie
+9195,Port Adelaide Enfield
+9196,Canterbury-Bankstown
+9197,Canterbury-Bankstown
+9198,Williams
+9199,Cumberland
+9200,Snowy Monaro
+9201,Kempsey
+9202,Georges River
+9203,Marion
+9204,Unincorporated NT
+9205,Corrigin
+9206,Kangaroo Island
+9207,Hobart
+9208,Cue
+9209,Snowy Monaro
+9210,Wandering
+9211,Southern Midlands
+9212,Cabonne
+9213,Toodyay
+9214,Georges River
+9215,Strathfield
+9216,Wanneroo
+9217,Loxton Waikerie
+9218,Lismore
+9219,Dubbo
+9220,Glenorchy
+9221,Liverpool
+9222,Quairading
+9223,Plantagenet
+9224,Plantagenet
+9225,Roper Gulf
+9226,Burwood
+9227,Eurobodalla
+9228,Central Coast (NSW)
+9229,Parkes
+9230,Northern Beaches
+9231,Serpentine-Jarrahdale
+9232,Sutherland
+9233,Onkaparinga
+9234,Onkaparinga
+9235,Onkaparinga
+9236,Wollongong
+9237,Campbelltown (NSW)
+9238,Port Hedland
+9239,Broomehill-Tambellup
+9240,Kyogle
+9241,Launceston
+9242,Launceston
+9243,Yorke Peninsula
+9244,Denmark
+9245,Launceston
+9246,Swan
+9247,Canterbury-Bankstown
+9248,Clarence Valley
+9249,Latrobe (Tas.)
+9250,Karratha
+9251,Wyndham-East Kimberley
+9252,Narromine
+9253,Litchfield
+9254,Central Coast (NSW)
+9255,Newcastle
+9256,Wagga Wagga
+9257,Wagga Wagga
+9258,Copper Coast
+9259,Wollondilly
+9260,Capel
+9261,Capel
+9262,Yass Valley
+9263,MacDonnell
+9264,Litchfield
+9265,Gnowangerup
+9266,Roper Gulf
+9267,Unincorporated ACT
+9268,Richmond Valley
+9269,Coorong
+9270,Wentworth
+9271,Kojonup
+9272,Esperance
+9273,Blacktown
+9274,Loxton Waikerie
+9275,Macedon Ranges
+9276,Unincorporated ACT
+9277,Shoalhaven
+9278,Mildura
+9279,Dubbo
+9280,Liverpool Plains
+9281,Unincorporated NT
+9282,Unincorporated NT
+9283,Unincorporated NT
+9284,Maitland
+9285,Yass Valley
+9286,Strathbogie
+9287,Hawkesbury
+9288,Broome
+9289,Mildura
+9290,Mildura
+9291,Kiama
+9292,Derby-West Kimberley
+9293,Swan Hill
+9294,Swan
+9295,Narrabri
+9296,Narrabri
+9297,Ashburton
+9298,Sutherland
+9299,Port Macquarie-Hastings
+9300,Greater Bendigo
+9301,Greater Bendigo
+9302,Frankston
+9303,Yarra Ranges
+9304,Bridgetown-Greenbushes
+9305,Forbes
+9306,South Gippsland
+9307,Unincorporated ACT
+9308,Unincorporated ACT
+9309,Armidale
+9310,Greater Shepparton
+9311,Ceduna
+9312,Hornsby
+9313,Golden Plains
+9314,Lake Macquarie
+9315,Darwin
+9316,Surf Coast
+9317,Latrobe (Vic.)
+9318,Kalgoorlie-Boulder
+9319,Bland
+9320,Singleton
+9321,Randwick
+9322,Hobsons Bay
+9323,Hobsons Bay
+9324,Joondalup
+9325,Newcastle
+9326,Cockburn
+9327,Randwick
+9328,East Arnhem
+9329,Coorong
+9330,Loxton Waikerie
+9331,Shoalhaven
+9332,Clarence
+9333,Port Hedland
+9334,Ku-ring-gai
+9335,Cockburn
+9336,Mid-Western
+9337,Glen Eira
+9338,Port Phillip
+9339,Waratah-Wynyard
+9340,Bega Valley
+9341,Newcastle
+9342,Cockburn
+9343,Cockburn
+9344,Cockburn
+9345,Playford
+9346,Snowy Monaro
+9347,Barossa
+9348,Kempsey
+9349,South Gippsland
+9350,Bathurst
+9351,Nambucca Valley
+9352,Nambucca Valley
+9353,Murrindindi
+9354,Bayswater
+9355,Lake Macquarie
+9356,Playford
+9357,The Hills
+9358,Wakefield
+9359,Serpentine-Jarrahdale
+9360,Serpentine-Jarrahdale
+9361,Hume
+9362,Greater Dandenong
+9363,Kingston (Vic.)
+9364,Greater Shepparton
+9365,Northampton
+9366,Perth
+9367,Melville
+9368,Cumberland
+9369,Charles Sturt
+9370,Uralla
+9371,Uralla
+9372,Canterbury-Bankstown
+9373,Liverpool Plains
+9374,Strathbogie
+9375,Campaspe
+9376,Mid-Coast
+9377,Mid-Coast
+9378,Canterbury-Bankstown
+9379,Greater Geraldton
+9380,Coolgardie
+9381,Robe
+9382,Wangaratta
+9383,Unincorporated ACT
+9384,Mount Alexander
+9385,Cardinia
+9386,Moorabool
+9387,Penrith
+9388,Central Coast (NSW)
+9389,Greater Geelong
+9390,Victor Harbor
+9391,Goyder
+9392,Horsham
+9393,Port Hedland
+9394,Orange
+9395,Ashburton
+9396,Queanbeyan-Palerang
+9397,Dubbo
+9398,East Arnhem
+9399,Armidale
+9400,Shoalhaven
+9401,Meander Valley
+9402,Mount Alexander
+9403,Randwick
+9404,Cessnock
+9405,Penrith
+9406,Snowy Valleys
+9407,Hawkesbury
+9408,Stonnington
+9409,Cabonne
+9410,Northern Beaches
+9411,Stonnington
+9412,Lismore
+9413,Victoria Plains
+9414,Richmond Valley
+9415,Wentworth
+9416,Lake Macquarie
+9417,Unincorporated SA
+9418,Hume
+9419,Sydney
+9420,Hornsby
+9421,Moira
+9422,Charles Sturt
+9423,Norwood Payneham and St Peters
+9424,Swan
+9425,Yarra Ranges
+9426,Bland
+9427,Bland
+9428,Clare and Gilbert Valleys
+9429,Snowy Monaro
+9430,Snowy Monaro
+9431,Sutherland
+9432,Greater Shepparton
+9433,Moira
+9434,Break O'Day
+9435,Greater Shepparton
+9436,Rockingham
+9437,Circular Head
+9438,Swan
+9439,Horsham
+9440,Wattle Range
+9441,Tea Tree Gully
+9442,Brimbank
+9443,Serpentine-Jarrahdale
+9444,Roper Gulf
+9445,Horsham
+9446,Adelaide Hills
+9447,Barossa
+9448,Sydney
+9449,Adelaide Hills
+9450,Whittlesea
+9451,Lake Macquarie
+9452,Nambucca Valley
+9453,Nambucca Valley
+9454,Nambucca Valley
+9455,Richmond Valley
+9456,Katherine
+9457,Katherine
+9458,Singleton
+9459,Snowy Valleys
+9460,Kingston (Vic.)
+9461,Greater Dandenong
+9462,Tamworth
+9463,Armidale
+9464,Adelaide Hills
+9465,Mid Murray
+9466,Goulburn Mulwaree
+9467,Kangaroo Island
+9468,Murrindindi
+9469,Central Highlands (Tas.)
+9470,Franklin Harbour
+9471,Orroroo Carrieton
+9472,Tea Tree Gully
+9473,Central Coast (NSW)
+9474,Federation
+9475,Tweed
+9476,Sydney
+9477,Wangaratta
+9478,Wanneroo
+9479,Greater Dandenong
+9480,Queanbeyan-Palerang
+9481,Hume
+9482,Wyndham
+9483,Cardinia
+9484,Mornington Peninsula
+9485,Boroondara
+9486,Gosnells
+9487,Wollongong
+9488,Port Adelaide Enfield
+9489,Knox
+9490,Mid-Coast
+9491,Clarence Valley
+9492,Alice Springs
+9493,Nambucca Valley
+9494,Latrobe (Vic.)
+9495,Loxton Waikerie
+9496,Unley
+9497,Huon Valley
+9498,Yarra Ranges
+9499,East Gippsland
+9500,Northern Grampians
+9501,Carrathool
+9502,Dubbo
+9503,Melton
+9504,Murray Bridge
+9505,Carnarvon
+9506,Greater Dandenong
+9507,Central Coast (NSW)
+9508,Maitland
+9509,Campaspe
+9510,Mid-Western
+9511,Campaspe
+9512,Brookton
+9513,Mid Murray
+9514,Unincorporated ACT
+9515,Litchfield
+9516,Loddon
+9517,Bathurst
+9518,Victor Harbor
+9519,Eurobodalla
+9520,North Sydney
+9521,Northern Midlands
+9522,Newcastle
+9523,Hawkesbury
+9524,Northam
+9525,Northam
+9526,Canterbury-Bankstown
+9527,The Hills
+9528,Darwin
+9529,Casey
+9530,Surf Coast
+9531,Bega Valley
+9532,Penrith
+9533,Liverpool Plains
+9534,Liverpool Plains
+9535,Chittering
+9536,Clarence
+9537,The Hills
+9538,Unincorporated ACT
+9539,Wakefield
+9540,Bayswater
+9541,Hawkesbury
+9542,Tenterfield
+9543,Whitehorse
+9544,Newcastle
+9545,Mount Barker
+9546,Yarra Ranges
+9547,Hobart
+9548,Surf Coast
+9549,Campbelltown (NSW)
+9550,Eurobodalla
+9551,Collie
+9552,Harvey
+9553,Moira
+9554,Mandurah
+9555,Monash
+9556,Wyndham-East Kimberley
+9557,Wyndham-East Kimberley
+9558,Litchfield
+9559,Salisbury
+9560,Sutherland
+9561,Bathurst
+9562,Ararat
+9563,Unincorporated NSW
+9564,Port Lincoln
+9565,Clarence Valley
+9566,Belmont
+9567,Wollondilly
+9568,Tatiara
+9569,Strathbogie
+9570,Central Coast (NSW)
+9571,Wingecarribee
+9572,Narromine
+9573,Yarra Ranges
+9574,Banyule
+9575,Burnie
+9576,Hobsons Bay
+9577,Buloke
+9578,Sutherland
+9579,Tenterfield
+9580,Shoalhaven
+9581,Sydney
+9582,Port Macquarie-Hastings
+9583,Hume
+9584,Unincorporated SA
+9585,Canterbury-Bankstown
+9586,Boroondara
+9587,Wollongong
+9588,Greater Geraldton
+9589,Greater Geraldton
+9590,Greater Geraldton
+9591,Busselton
+9592,Northam
+9593,Ku-ring-gai
+9594,Murray
+9595,Brighton
+9596,Cumberland
+9597,Rockingham
+9598,Wellington
+9599,Central Coast (NSW)
+9600,Darwin
+9601,Mornington Peninsula
+9602,Kingston (SA)
+9603,Liverpool Plains
+9604,Greater Dandenong
+9605,Alice Springs
+9606,Gosnells
+9607,Gosnells
+9608,Gosnells
+9609,Gosnells
+9610,Port Phillip
+9611,Bellingen
+9612,Strathbogie
+9613,Unincorporated NT
+9614,Camden
+9615,Camden
+9616,Hilltops
+9617,East Gippsland
+9618,Maribyrnong
+9619,Penrith
+9620,Penrith
+9621,Hilltops
+9622,Tea Tree Gully
+9623,Hawkesbury
+9624,Yarra Ranges
+9625,Albany
+9626,Kyogle
+9627,Tweed
+9628,Willoughby
+9629,Charles Sturt
+9630,Lake Macquarie
+9631,Tweed
+9632,Singleton
+9633,Singleton
+9634,Port Hedland
+9635,Coorong
+9636,Coorong
+9637,Wollondilly
+9638,Hawkesbury
+9639,Hawkesbury
+9640,Hawkesbury
+9641,Richmond Valley
+9642,Glenelg
+9643,Clare and Gilbert Valleys
+9644,Clarence Valley
+9645,Waverley
+9646,Greater Geelong
+9647,Corangamite
+9648,Darwin
+9649,West Daly
+9650,Kalamunda
+9651,Lithgow
+9652,Knox
+9653,Salisbury
+9654,Warrnambool
+9655,Canada Bay
+9656,Kalamunda
+9657,Playford
+9658,Macedon Ranges
+9659,North Sydney
+9660,Kwinana
+9661,Gunnedah
+9662,Hilltops
+9663,Northam
+9664,Goyder
+9665,Sutherland
+9666,Kingston (SA)
+9667,Casey
+9668,East Gippsland
+9669,Benalla
+9670,Litchfield
+9671,Cockburn
+9672,Greater Geraldton
+9673,Hobsons Bay
+9674,Canterbury-Bankstown
+9675,Joondalup
+9676,Mornington Peninsula
+9677,Mornington Peninsula
+9678,Cardinia
+9679,Roper Gulf
+9680,Dumbleyung
+9681,Greater Dandenong
+9682,Kingston (SA)
+9683,Fairfield
+9684,Nambucca Valley
+9685,Port Stephens
+9686,Whittlesea
+9687,Moira
+9688,Moira
+9689,Dardanup
+9690,Central Coast (NSW)
+9691,Cootamundra-Gundagai
+9692,Macedon Ranges
+9693,Rockingham
+9694,West Coast
+9695,Wollongong
+9696,Whittlesea
+9697,Mitchell
+9698,Onkaparinga
+9699,Adelaide Hills
+9700,Victoria Daly
+9701,Central Coast (NSW)
+9702,Busselton
+9703,Cowra
+9704,Horsham
+9705,Murrindindi
+9706,Nambucca Valley
+9707,Bega Valley
+9708,Hornsby
+9709,Lake Macquarie
+9710,Merri-bek
+9711,Narrandera
+9712,Alice Springs
+9713,The Hills
+9714,Unincorporated ACT
+9715,Burnie
+9716,Burnie
+9717,Colac Otway
+9718,Hindmarsh
+9719,Hindmarsh
+9720,Hobart
+9721,East Gippsland
+9722,Lake Macquarie
+9723,Banyule
+9724,Muswellbrook
+9725,Liverpool
+9726,Richmond Valley
+9727,Colac Otway
+9728,Mid-Western
+9729,Gilgandra
+9730,Adelaide Plains
+9731,Cumberland
+9732,Orange
+9733,Mandurah
+9734,Monash
+9735,Kyogle
+9736,Lithgow
+9737,Hobart
+9738,Central Coast (NSW)
+9739,The Hills
+9740,Walgett
+9741,Macedon Ranges
+9742,Lake Macquarie
+9743,Clarence
+9744,Tweed
+9745,Mid-Coast
+9746,Unincorporated ACT
+9747,Dubbo
+9748,Gingin
+9749,Bega Valley
+9750,Playford
+9751,Muswellbrook
+9752,Parramatta
+9753,Macedon Ranges
+9754,Central Coast (NSW)
+9755,Macedon Ranges
+9756,Glamorgan-Spring Bay
+9757,Greater Dandenong
+9758,Katherine
+9759,Wyndham
+9760,Knox
+9761,Byron
+9762,Tweed
+9763,Harvey
+9764,Newcastle
+9765,Barkly
+9766,Knox
+9767,Fairfield
+9768,Wakefield
+9769,Wakefield
+9770,Wakefield
+9771,Fairfield
+9772,Derby-West Kimberley
+9773,Derby-West Kimberley
+9774,Parramatta
+9775,Unincorporated NT
+9776,Playford
+9777,Fairfield
+9778,Buloke
+9779,Goulburn Mulwaree
+9780,Barkly
+9781,Barkly
+9782,Wagga Wagga
+9783,Clare and Gilbert Valleys
+9784,Serpentine-Jarrahdale
+9785,Cumberland
+9786,East Gippsland
+9787,East Gippsland
+9788,Ryde
+9789,Darebin
+9790,Snowy Valleys
+9791,Northam
+9792,Wagga Wagga
+9793,MacDonnell
+9794,Glenorchy
+9795,Unincorporated ACT
+9796,Wellington
+9797,South Gippsland
+9798,Georges River
+9799,Melton
+9800,Yarra Ranges
+9801,Victor Harbor
+9802,Tea Tree Gully
+9803,Narromine
+9804,Lower Eyre Peninsula
+9805,Ballarat
+9806,Darwin
+9807,Darwin
+9808,Gilgandra
+9809,Gosnells
+9810,Cardinia
+9811,Cardinia
+9812,Cardinia
+9813,Murray Bridge
+9814,Pingelly
+9815,Brimbank
+9816,Norwood Payneham and St Peters
+9817,Mid-Coast
+9818,Mid-Coast
+9819,Gosnells
+9820,Mornington Peninsula
+9821,Unincorporated ACT
+9822,Shoalhaven
+9823,Swan
+9824,Toodyay
+9825,Waverley
+9826,Wingecarribee
+9827,Wellington
+9828,Casey
+9829,West Coast
+9830,Rockingham
+9831,Sydney
+9832,Murray
+9833,Onkaparinga
+9834,Northam
+9835,Bland
+9836,Shark Bay
+9837,Casey
+9838,Clare and Gilbert Valleys
+9839,Lake Macquarie
+9840,Lake Macquarie
+9841,Canterbury-Bankstown
+9842,Dubbo
+9843,Corangamite
+9844,Lachlan
+9845,Palmerston
+9846,Maribyrnong
+9847,Maribyrnong
+9848,Glenelg
+9849,Wollondilly
+9850,Maroondah
+9851,Mitcham
+9852,Northampton
+9853,Sutherland
+9854,Wollondilly
+9855,Waroona
+9856,Mount Barker
+9857,Irwin
+9858,Gwydir
+9859,South Gippsland
+9860,Loddon
+9861,Singleton
+9862,Singleton
+9863,Wodonga
+9864,Hume
+9865,Ballina
+9866,Glenorchy
+9867,Fairfield
+9868,Moorabool
+9869,West Arnhem
+9870,Tamworth
+9871,Greater Geelong
+9872,Benalla
+9873,Bellingen
+9874,Bellingen
+9875,Unincorporated ACT
+9876,Adelaide Hills
+9877,Wyndham
+9878,Woollahra
+9879,Griffith
+9880,Mansfield
+9881,Cessnock
+9882,Singleton
+9883,Singleton
+9884,Manjimup
+9885,Campaspe
+9886,Cootamundra-Gundagai
+9887,Eurobodalla
+9888,Adelaide
+9889,Darebin
+9890,Parramatta
+9891,Walcha
+9892,Tumby Bay
+9893,Unincorporated ACT
+9894,Hornsby
+9895,Bathurst
+9896,Bathurst
+9897,Mitchell
+9898,Bayside (NSW)
+9899,Bellingen
+9900,North Sydney
+9901,Murrindindi
+9902,Central Desert
+9903,Unincorporated NT
+9904,Penrith
+9905,Fairfield
+9906,Mid Murray
+9907,Palmerston
+9908,Mitchell
+9909,Liverpool
+9910,Cardinia
+9911,Kojonup
+9912,Northampton
+9913,Yorke Peninsula
+9914,Nambucca Valley
+9915,Wagga Wagga
+9916,Yarra Ranges
+9917,Mildura
+9918,Cardinia
+9919,Mornington Peninsula
+9920,Mornington Peninsula
+9921,Mid Murray
+9922,Alexandrina
+9923,Melton
+9924,Ballarat
+9925,Serpentine-Jarrahdale
+9926,Augusta Margaret River
+9927,Maribyrnong
+9928,Fremantle
+9929,Hornsby
+9930,Central Coast (NSW)
+9931,Central Coast (NSW)
+9932,Fairfield
+9933,Hawkesbury
+9934,Inner West
+9935,Wyndham
+9936,Mornington Peninsula
+9937,Port Hedland
+9938,Yarra Ranges
+9939,Golden Plains
+9940,Golden Plains
+9941,Nillumbik
+9942,Greater Geraldton
+9943,Greater Geraldton
+9944,Bayswater
+9945,Bayswater
+9946,Charles Sturt
+9947,Parramatta
+9948,Penrith
+9949,Wakefield
+9950,Wollondilly
+9951,Exmouth
+9952,Exmouth
+9953,Unincorporated NT
+9954,Parkes
+9955,Benalla
+9956,Benalla
+9957,Cockburn
+9958,The Hills
+9959,Copper Coast
+9960,Woollahra
+9961,Charles Sturt
+9962,Hawkesbury
+9963,Knox
+9964,Shoalhaven
+9965,Holdfast Bay
+9966,Wyndham
+9967,Central Coast (NSW)
+9968,Hornsby
+9969,Narromine
+9970,Monash
+9971,Golden Plains
+9972,Singleton
+9973,Singleton
+9974,Parramatta
+9975,Junee
+9976,Unincorporated ACT
+9977,Alice Springs
+9978,Yorke Peninsula
+9979,Shoalhaven
+9980,Wollondilly
+9981,Ararat
+9982,Armadale
+9983,Lismore
+9984,Armadale
+9985,Macedon Ranges
+9986,Swan
+9987,Richmond Valley
+9988,Whitehorse
+9989,Central Highlands (Tas.)
+9990,Barkly
+9991,Canning
+9992,West Arthur
+9993,Hume
+9994,Glenelg
+9995,Murrindindi
+9996,Murrindindi
+9997,Inner West
+9998,Kingborough
+9999,Port Stephens
+10000,Manjimup
+10001,Mitchell
+10002,Casey
+10003,Kwinana
+10004,Kwinana
+10005,Mundaring
+10006,Joondalup
+10007,Loxton Waikerie
+10008,East Gippsland
+10009,East Gippsland
+10010,Sandstone
+10011,Sandstone
+10012,Lake Macquarie
+10013,Wanneroo
+10014,Sutherland
+10015,Cessnock
+10016,Cootamundra-Gundagai
+10017,Melton
+10018,Litchfield
+10019,Busselton
+10020,Camden
+10021,The Hills
+10022,Oberon
+10023,Tweed
+10024,Indigo
+10025,Stonnington
+10026,Surf Coast
+10027,Yarra Ranges
+10028,Port Hedland
+10029,Sydney
+10030,Whittlesea
+10031,Burnside
+10032,West Torrens
+10033,Fairfield
+10034,Port Macquarie-Hastings
+10035,Liverpool
+10036,Unincorporated NSW
+10037,Darwin
+10038,Glen Eira
+10039,Byron
+10040,Barkly
+10041,Greater Shepparton
+10042,Northern Beaches
+10043,Yass Valley
+10044,Singleton
+10045,Melbourne
+10046,Melbourne
+10047,Kingston (Vic.)
+10048,Parramatta
+10049,Kalamunda
+10050,Stirling
+10051,Banyule
+10052,Moonee Valley
+10053,Yarra Ranges
+10054,Meander Valley
+10055,Walgett
+10056,Williams
+10057,Merri-bek
+10058,Derby-West Kimberley
+10059,Derby-West Kimberley
+10060,Ballarat
+10061,Murrindindi
+10062,Swan
+10063,Stirling
+10064,Bega Valley
+10065,Shoalhaven
+10066,Shoalhaven
+10067,Greater Bendigo
+10068,Greater Shepparton
+10069,Shoalhaven
+10070,Hilltops
+10071,West Arthur
+10072,Wollondilly
+10073,Colac Otway
+10074,Melton
+10075,King Island
+10076,Whitehorse
+10077,Glenelg
+10078,Glenelg
+10079,Glenelg
+10080,Armidale
+10081,Serpentine-Jarrahdale
+10082,Central Highlands (Tas.)
+10083,Playford
+10084,Nillumbik
+10085,Roper Gulf
+10086,Launceston
+10087,Launceston
+10088,Parramatta
+10089,Moree Plains
+10090,Litchfield
+10091,Litchfield
+10092,Moira
+10093,Charles Sturt
+10094,Bourke
+10095,Onkaparinga
+10096,Brimbank
+10097,Sutherland
+10098,Cumberland
+10099,Melbourne
+10100,Adelaide
+10101,Liverpool
+10102,Bayswater
+10103,Melbourne
+10104,Corangamite
+10105,Kempsey
+10106,Central Coast (NSW)
+10107,Moonee Valley
+10108,Greater Bendigo
+10109,Unley
+10110,Penrith
+10111,Launceston
+10112,Marion
+10113,Liverpool
+10114,Maitland
+10115,Lake Macquarie
+10116,Kempsey
+10117,Maroondah
+10118,Unincorporated NT
+10119,Canada Bay
+10120,Canada Bay
+10121,Towong
+10122,Charles Sturt
+10123,Hilltops
+10124,Moyne
+10125,Greater Geelong
+10126,Bayswater
+10127,Brookton
+10128,Golden Plains
+10129,Yankalilla
+10130,Onkaparinga
+10131,Wollongong
+10132,Burwood
+10133,Franklin Harbour
+10134,Franklin Harbour
+10135,Walcha
+10136,Port Macquarie-Hastings
+10137,Melton
+10138,Dubbo
+10139,Dubbo
+10140,Hawkesbury
+10141,Snowy Valleys
+10142,Baw Baw
+10143,Hindmarsh
+10144,Moyne
+10145,Cootamundra-Gundagai
+10146,Cootamundra-Gundagai
+10147,Kempsey
+10148,Bathurst
+10149,Queanbeyan-Palerang
+10150,Armadale
+10151,Liverpool
+10152,Walgett
+10153,Wagin
+10154,Unincorporated SA
+10155,Hilltops
+10156,Stirling
+10157,Greater Shepparton
+10158,Break O'Day
+10159,Bayside (Vic.)
+10160,Corangamite
+10161,Strathfield
+10162,Unincorporated ACT
+10163,Tweed
+10164,Tweed
+10165,Sutherland
+10166,Unincorporated SA
+10167,Unincorporated SA
+10168,Unincorporated SA
+10169,Wandering
+10170,Merri-bek
+10171,Harvey
+10172,Mid-Coast
+10173,Wollondilly
+10174,Wollongong
+10175,Greater Bendigo
+10176,Shoalhaven
+10177,Tweed
+10178,East Pilbara
+10179,Melville
+10180,Unincorporated SA
+10181,Brimbank
+10182,Greater Shepparton
+10183,The Hills
+10184,West Tamar
+10185,Mitchell
+10186,Mitchell
+10187,Mitchell
+10188,Mitchell
+10189,Stonnington
+10190,Wingecarribee
+10191,Murrindindi
+10192,Snowy Monaro
+10193,Port Stephens
+10194,Swan
+10195,Mitcham
+10196,Chittering
+10197,Gnowangerup
+10198,Melville
+10199,Port Pirie
+10200,Whyalla
+10201,Whyalla
+10202,Naracoorte Lucindale
+10203,Onkaparinga
+10204,Wattle Range
+10205,Wattle Range
+10206,Wattle Range
+10207,Wattle Range
+10208,Robe
+10209,Charles Sturt
+10210,Collie
+10211,Wanneroo
+10212,Gnowangerup
+10213,Merredin
+10214,Light
+10215,Victor Harbor
+10216,Southern Midlands
+10217,Swan
+10218,Boyup Brook
+10219,Meander Valley
+10220,Stirling
+10221,Mid Murray
+10222,Harvey
+10223,Port Adelaide Enfield
+10224,Charles Sturt
+10225,Wakefield
+10226,Yorke Peninsula
+10227,Wattle Range
+10228,Northam
+10229,Toodyay
+10230,Coolgardie
+10231,West Torrens
+10232,Karratha
+10233,Capel
+10234,Charles Sturt
+10235,Northern Midlands
+10236,Anangu Pitjantjatjara Yankunytjatjara
+10237,Alexandrina
+10238,Bunbury
+10239,Beverley
+10240,Kingborough
+10241,Bayswater
+10242,Armadale
+10243,Cottesloe 
+10244,Derwent Valley
+10245,Narrogin
+10246,Augusta Margaret River
+10247,Dardanup
+10248,Chittering
+10249,West Coast
+10250,Kalgoorlie-Boulder
+10251,Barossa
+10252,West Torrens
+10253,Kwinana
+10254,Salisbury
+10255,Unincorporated SA
+10256,Unincorporated SA
+10257,Perth
+10258,Broome
+10259,Bunbury
+10260,Augusta Margaret River
+10261,Stirling
+10262,Port Hedland
+10263,Armadale
+10264,York
+10265,Onkaparinga
+10266,Mandurah
+10267,Devonport
+10268,Stirling
+10269,West Coast
+10270,Murray Bridge
+10271,Port Adelaide Enfield
+10272,Gosnells
+10273,Gnowangerup
+10274,Dalwallinu
+10275,Canning
+10276,South Perth
+10277,Unincorporated SA
+10278,Unincorporated SA
+10279,Serpentine-Jarrahdale
+10280,Kalgoorlie-Boulder
+10281,Kalgoorlie-Boulder
+10282,Kalgoorlie-Boulder
+10283,Kalgoorlie-Boulder
+10284,Campbelltown (SA)
+10285,Alexandrina
+10286,Plantagenet
+10287,Latrobe (Tas.)
+10288,Bunbury
+10289,Merredin
+10290,Lower Eyre Peninsula
+10291,Clare and Gilbert Valleys
+10292,Gosnells
+10293,Playford
+10294,Unincorporated SA
+10295,Northam
+10296,Gosnells
+10297,Brighton
+10298,Broome
+10299,Light
+10300,Karoonda East Murray
+10301,Kwinana
+10302,Waroona
+10303,Esperance
+10304,Stirling
+10305,Joondalup
+10306,Joondalup
+10307,Dundas
+10308,Anangu Pitjantjatjara Yankunytjatjara
+10309,Charles Sturt
+10310,Karratha
+10311,West Torrens
+10312,Murray Bridge
+10313,Broomehill-Tambellup
+10314,West Torrens
+10315,Adelaide Hills
+10316,Port Pirie
+10317,Narrogin
+10318,Dundas
+10319,Dalwallinu
+10320,Unincorporated SA
+10321,Unincorporated SA
+10322,Bayswater
+10323,Greater Geraldton
+10324,Adelaide Plains
+10325,Rockingham
+10326,Unley
+10327,Unley
+10328,Kojonup
+10329,Waratah-Wynyard
+10330,Joondalup
+10331,Toodyay
+10332,Berri Barmera
+10333,Armadale
+10334,Cockburn
+10335,Serpentine-Jarrahdale
+10336,Light
+10337,York
+10338,Unincorporated SA
+10339,Brighton
+10340,Mount Magnet
+10341,Naracoorte Lucindale
+10342,Unincorporated SA
+10343,Unincorporated SA
+10344,Stirling
+10345,West Tamar
+10346,Anangu Pitjantjatjara Yankunytjatjara
+10347,Canning
+10348,Chittering
+10349,Cockburn
+10350,Jerramungup
+10351,Moora
+10352,Murray
+10353,Swan
+10354,Greater Geraldton
+10355,Port Adelaide Enfield
+10356,Playford
+10357,Playford
+10358,Northern Midlands
+10359,Northern Midlands
+10360,Loxton Waikerie
+10361,Kalamunda
+10362,Fremantle
+10363,Mount Barker
+10364,Broomehill-Tambellup
+10365,Busselton
+10366,Port Adelaide Enfield
+10367,Belmont
+10368,Wickepin
+10369,Joondalup
+10370,Circular Head
+10371,Northern Areas
+10372,Yilgarn
+10373,Greater Geraldton
+10374,Stirling
+10375,Kingston (SA)
+10376,Gosnells
+10377,Wyndham-East Kimberley
+10378,Unincorporated SA
+10379,Mundaring
+10380,Mount Remarkable
+10381,Mount Remarkable
+10382,Narrogin
+10383,Kalgoorlie-Boulder
+10384,Vincent
+10385,West Torrens
+10386,Swan
+10387,Swan
+10388,Yorke Peninsula
+10389,Northern Areas
+10390,Unincorporated SA
+10391,Alexandrina
+10392,Murray
+10393,Port Adelaide Enfield
+10394,Murray
+10395,Perth
+10396,Central Coast (Tas.)
+10397,Central Coast (Tas.)
+10398,Waroona
+10399,Clarence
+10400,Kentish
+10401,Vincent
+10402,Joondalup
+10403,Onkaparinga
+10404,Circular Head
+10405,Southern Midlands
+10406,Glenorchy
+10407,Capel
+10408,Mundaring
+10409,Playford
+10410,Goyder
+10411,Augusta Margaret River
+10412,Augusta Margaret River
+10413,Fremantle
+10414,Fremantle
+10415,Rockingham
+10416,Greater Geraldton
+10417,Circular Head
+10418,Canning
+10419,Naracoorte Lucindale
+10420,Carnarvon
+10421,Bruce Rock
+10422,Wattle Range
+10423,Wattle Range
+10424,Collie
+10425,Marion
+10426,Joondalup
+10427,Port Adelaide Enfield
+10428,Armadale
+10429,Kalamunda
+10430,Albany
+10431,Mid Murray
+10432,Adelaide Plains
+10433,Adelaide Plains
+10434,Charles Sturt
+10435,Wyndham-East Kimberley
+10436,Halls Creek
+10437,Mandurah
+10438,Belmont
+10439,Alexandrina
+10440,Lake Grace
+10441,Huon Valley
+10442,Mount Barker
+10443,West Torrens
+10444,Rockingham
+10445,Meander Valley
+10446,Mandurah
+10447,Westonia
+10448,Renmark Paringa
+10449,Waroona
+10450,Kwinana
+10451,Light
+10452,Leonora
+10453,Vincent
+10454,Manjimup
+10455,Barossa
+10456,Northern Midlands
+10457,Barossa
+10458,Brookton
+10459,Brookton
+10460,Kellerberrin
+10461,Kellerberrin
+10462,Onkaparinga
+10463,Marion
+10464,Beverley
+10465,Renmark Paringa
+10466,Mundaring
+10467,Murray
+10468,Murray
+10469,Serpentine-Jarrahdale
+10470,Carnarvon
+10471,Dardanup
+10472,Port Pirie
+10473,Northam
+10474,Coorong
+10475,Coorong
+10476,Alexandrina
+10477,Kalamunda
+10478,Cockburn
+10479,Tea Tree Gully
+10480,Kingborough
+10481,Unley
+10482,Chittering
+10483,Kangaroo Island
+10484,Joondalup
+10485,Waratah-Wynyard
+10486,Wattle Range
+10487,Cambridge
+10488,Playford
+10489,Esperance
+10490,Belmont

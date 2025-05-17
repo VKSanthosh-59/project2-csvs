@@ -1,0 +1,191 @@
+from,to
+Wagga Wagga,Hawkesbury
+Wagga Wagga,Northern Midlands
+Wagga Wagga,Armidale
+Wagga Wagga,Lockyer Valley
+Wagga Wagga,Wakefield
+Wagga Wagga,Southern Downs
+Wagga Wagga,Brighton
+Wagga Wagga,West Tamar
+Wagga Wagga,Mid Murray
+Wagga Wagga,Blue Mountains
+Wagga Wagga,Upper Lachlan
+Wagga Wagga,Wattle Range
+Wagga Wagga,Cairns
+Wagga Wagga,Wollongong
+Wagga Wagga,Penrith
+Wagga Wagga,Upper Hunter
+Wagga Wagga,South Burnett
+Wagga Wagga,Mid-Western
+Wagga Wagga,Canterbury-Bankstown
+Hawkesbury,Northern Midlands
+Hawkesbury,Armidale
+Hawkesbury,Lockyer Valley
+Hawkesbury,Wakefield
+Hawkesbury,Southern Downs
+Hawkesbury,Brighton
+Hawkesbury,West Tamar
+Hawkesbury,Mid Murray
+Hawkesbury,Blue Mountains
+Hawkesbury,Upper Lachlan
+Hawkesbury,Wattle Range
+Hawkesbury,Cairns
+Hawkesbury,Wollongong
+Hawkesbury,Penrith
+Hawkesbury,Upper Hunter
+Hawkesbury,South Burnett
+Hawkesbury,Mid-Western
+Hawkesbury,Canterbury-Bankstown
+Northern Midlands,Armidale
+Northern Midlands,Lockyer Valley
+Northern Midlands,Wakefield
+Northern Midlands,Southern Downs
+Northern Midlands,Brighton
+Northern Midlands,West Tamar
+Northern Midlands,Mid Murray
+Northern Midlands,Blue Mountains
+Northern Midlands,Upper Lachlan
+Northern Midlands,Wattle Range
+Northern Midlands,Cairns
+Northern Midlands,Wollongong
+Northern Midlands,Penrith
+Northern Midlands,Upper Hunter
+Northern Midlands,South Burnett
+Northern Midlands,Mid-Western
+Northern Midlands,Canterbury-Bankstown
+Armidale,Lockyer Valley
+Armidale,Wakefield
+Armidale,Southern Downs
+Armidale,Brighton
+Armidale,West Tamar
+Armidale,Mid Murray
+Armidale,Blue Mountains
+Armidale,Upper Lachlan
+Armidale,Wattle Range
+Armidale,Cairns
+Armidale,Wollongong
+Armidale,Penrith
+Armidale,Upper Hunter
+Armidale,South Burnett
+Armidale,Mid-Western
+Armidale,Canterbury-Bankstown
+Lockyer Valley,Wakefield
+Lockyer Valley,Southern Downs
+Lockyer Valley,Brighton
+Lockyer Valley,West Tamar
+Lockyer Valley,Mid Murray
+Lockyer Valley,Blue Mountains
+Lockyer Valley,Upper Lachlan
+Lockyer Valley,Wattle Range
+Lockyer Valley,Cairns
+Lockyer Valley,Wollongong
+Lockyer Valley,Penrith
+Lockyer Valley,Upper Hunter
+Lockyer Valley,South Burnett
+Lockyer Valley,Mid-Western
+Lockyer Valley,Canterbury-Bankstown
+Wakefield,Southern Downs
+Wakefield,Brighton
+Wakefield,West Tamar
+Wakefield,Mid Murray
+Wakefield,Blue Mountains
+Wakefield,Upper Lachlan
+Wakefield,Wattle Range
+Wakefield,Cairns
+Wakefield,Wollongong
+Wakefield,Penrith
+Wakefield,Upper Hunter
+Wakefield,South Burnett
+Wakefield,Mid-Western
+Wakefield,Canterbury-Bankstown
+Southern Downs,Brighton
+Southern Downs,West Tamar
+Southern Downs,Mid Murray
+Southern Downs,Blue Mountains
+Southern Downs,Upper Lachlan
+Southern Downs,Wattle Range
+Southern Downs,Cairns
+Southern Downs,Wollongong
+Southern Downs,Penrith
+Southern Downs,Upper Hunter
+Southern Downs,South Burnett
+Southern Downs,Mid-Western
+Southern Downs,Canterbury-Bankstown
+Brighton,West Tamar
+Brighton,Mid Murray
+Brighton,Blue Mountains
+Brighton,Upper Lachlan
+Brighton,Wattle Range
+Brighton,Cairns
+Brighton,Wollongong
+Brighton,Penrith
+Brighton,Upper Hunter
+Brighton,South Burnett
+Brighton,Mid-Western
+Brighton,Canterbury-Bankstown
+West Tamar,Mid Murray
+West Tamar,Blue Mountains
+West Tamar,Upper Lachlan
+West Tamar,Wattle Range
+West Tamar,Cairns
+West Tamar,Wollongong
+West Tamar,Penrith
+West Tamar,Upper Hunter
+West Tamar,South Burnett
+West Tamar,Mid-Western
+West Tamar,Canterbury-Bankstown
+Mid Murray,Blue Mountains
+Mid Murray,Upper Lachlan
+Mid Murray,Wattle Range
+Mid Murray,Cairns
+Mid Murray,Wollongong
+Mid Murray,Penrith
+Mid Murray,Upper Hunter
+Mid Murray,South Burnett
+Mid Murray,Mid-Western
+Mid Murray,Canterbury-Bankstown
+Blue Mountains,Upper Lachlan
+Blue Mountains,Wattle Range
+Blue Mountains,Cairns
+Blue Mountains,Wollongong
+Blue Mountains,Penrith
+Blue Mountains,Upper Hunter
+Blue Mountains,South Burnett
+Blue Mountains,Mid-Western
+Blue Mountains,Canterbury-Bankstown
+Upper Lachlan,Wattle Range
+Upper Lachlan,Cairns
+Upper Lachlan,Wollongong
+Upper Lachlan,Penrith
+Upper Lachlan,Upper Hunter
+Upper Lachlan,South Burnett
+Upper Lachlan,Mid-Western
+Upper Lachlan,Canterbury-Bankstown
+Wattle Range,Cairns
+Wattle Range,Wollongong
+Wattle Range,Penrith
+Wattle Range,Upper Hunter
+Wattle Range,South Burnett
+Wattle Range,Mid-Western
+Wattle Range,Canterbury-Bankstown
+Cairns,Wollongong
+Cairns,Penrith
+Cairns,Upper Hunter
+Cairns,South Burnett
+Cairns,Mid-Western
+Cairns,Canterbury-Bankstown
+Wollongong,Penrith
+Wollongong,Upper Hunter
+Wollongong,South Burnett
+Wollongong,Mid-Western
+Wollongong,Canterbury-Bankstown
+Penrith,Upper Hunter
+Penrith,South Burnett
+Penrith,Mid-Western
+Penrith,Canterbury-Bankstown
+Upper Hunter,South Burnett
+Upper Hunter,Mid-Western
+Upper Hunter,Canterbury-Bankstown
+South Burnett,Mid-Western
+South Burnett,Canterbury-Bankstown
+Mid-Western,Canterbury-Bankstown
