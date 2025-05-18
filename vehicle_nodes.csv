@@ -1,0 +1,8 @@
+bus_involvement,heavy_rigid_involvement,articulated_involvement,vehicle_id
+No,No,No,0
+No,No,Yes,1
+Yes,No,Yes,2
+No,Yes,No,3
+No,Yes,Yes,4
+Yes,No,No,5
+Yes,Yes,No,6
