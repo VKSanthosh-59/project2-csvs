@@ -1,0 +1,583 @@
+state,sa4Name,lgaName,nationalRemoteness,nationalRoadType,locationID
+NSW,Riverina,Wagga Wagga,Inner Regional Australia,Arterial Road,NSW_Wagga_Wagga_Riverina
+NSW,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Inner Regional Australia,Local Road,NSW_Hawkesbury_Sydney___Baulkham_Hills_and_Hawkesbury
+TAS,Launceston and North East,Northern Midlands,Inner Regional Australia,Local Road,TAS_Northern_Midlands_Launceston_and_North_East
+NSW,New England and North West,Armidale,Outer Regional Australia,National or State Highway,NSW_Armidale_New_England_and_North_West
+QLD,Toowoomba,Lockyer Valley,Inner Regional Australia,National or State Highway,QLD_Lockyer_Valley_Toowoomba
+SA,Barossa - Yorke - Mid North,Wakefield,Outer Regional Australia,Sub-arterial Road,SA_Wakefield_Barossa___Yorke___Mid_North
+QLD,Darling Downs - Maranoa,Southern Downs,Inner Regional Australia,Local Road,QLD_Southern_Downs_Darling_Downs___Maranoa
+TAS,Hobart,Brighton,Inner Regional Australia,Local Road,TAS_Brighton_Hobart
+TAS,Launceston and North East,West Tamar,Outer Regional Australia,National or State Highway,TAS_West_Tamar_Launceston_and_North_East
+SA,South Australia - South East,Mid Murray,Outer Regional Australia,Local Road,SA_Mid_Murray_South_Australia___South_East
+NSW,Sydney - Outer West and Blue Mountains,Blue Mountains,Major Cities of Australia,National or State Highway,NSW_Blue_Mountains_Sydney___Outer_West_and_Blue_Mountains
+NSW,Capital Region,Upper Lachlan,Inner Regional Australia,National or State Highway,NSW_Upper_Lachlan_Capital_Region
+SA,South Australia - South East,Wattle Range,Outer Regional Australia,Local Road,SA_Wattle_Range_South_Australia___South_East
+QLD,Cairns,Cairns,Outer Regional Australia,Collector Road,QLD_Cairns_Cairns
+NSW,Illawarra,Wollongong,Major Cities of Australia,National or State Highway,NSW_Wollongong_Illawarra
+NSW,Sydney - Outer West and Blue Mountains,Penrith,Major Cities of Australia,Collector Road,NSW_Penrith_Sydney___Outer_West_and_Blue_Mountains
+NSW,Hunter Valley exc Newcastle,Upper Hunter,Outer Regional Australia,National or State Highway,NSW_Upper_Hunter_Hunter_Valley_exc_Newcastle
+QLD,Wide Bay,South Burnett,Outer Regional Australia,National or State Highway,QLD_South_Burnett_Wide_Bay
+NSW,Central West,Mid-Western,Outer Regional Australia,Arterial Road,NSW_Mid_Western_Central_West
+NSW,Sydney - Inner South West,Canterbury-Bankstown,Major Cities of Australia,Collector Road,NSW_Canterbury_Bankstown_Sydney___Inner_South_West
+NSW,Murray,Greater Hume,Outer Regional Australia,National or State Highway,NSW_Greater_Hume_Murray
+SA,Barossa - Yorke - Mid North,Barossa,Inner Regional Australia,Sub-arterial Road,SA_Barossa_Barossa___Yorke___Mid_North
+NSW,Mid North Coast,Port Macquarie-Hastings,Inner Regional Australia,National or State Highway,NSW_Port_Macquarie_Hastings_Mid_North_Coast
+QLD,Mackay - Isaac - Whitsunday,Mackay,Outer Regional Australia,National or State Highway,QLD_Mackay_Mackay___Isaac___Whitsunday
+QLD,Cairns,Douglas,Outer Regional Australia,Local Road,QLD_Douglas_Cairns
+SA,South Australia - South East,Yankalilla,Inner Regional Australia,Arterial Road,SA_Yankalilla_South_Australia___South_East
+QLD,Logan - Beaudesert,Logan,Major Cities of Australia,Sub-arterial Road,QLD_Logan_Logan___Beaudesert
+TAS,Launceston and North East,Dorset,Outer Regional Australia,National or State Highway,TAS_Dorset_Launceston_and_North_East
+NSW,Mid North Coast,Nambucca Valley,Inner Regional Australia,National or State Highway,NSW_Nambucca_Valley_Mid_North_Coast
+NSW,Far West and Orana,Narromine,Outer Regional Australia,National or State Highway,NSW_Narromine_Far_West_and_Orana
+QLD,Wide Bay,Fraser Coast,Inner Regional Australia,Local Road,QLD_Fraser_Coast_Wide_Bay
+SA,South Australia - Outback,Unincorporated SA,Very Remote Australia,Local Road,SA_Unincorporated_SA_South_Australia___Outback
+NSW,Illawarra,Shellharbour,Major Cities of Australia,Collector Road,NSW_Shellharbour_Illawarra
+NSW,New England and North West,Narrabri,Outer Regional Australia,Sub-arterial Road,NSW_Narrabri_New_England_and_North_West
+QLD,Queensland - Outback,Cook,Remote Australia,Sub-arterial Road,QLD_Cook_Queensland___Outback
+NSW,New England and North West,Tenterfield,Outer Regional Australia,National or State Highway,NSW_Tenterfield_New_England_and_North_West
+NSW,Central Coast,Central Coast (NSW),Major Cities of Australia,Arterial Road,NSW_Central_Coast_(NSW)_Central_Coast
+NSW,New England and North West,Tamworth,Outer Regional Australia,Arterial Road,NSW_Tamworth_New_England_and_North_West
+NSW,Capital Region,Hilltops,Inner Regional Australia,Arterial Road,NSW_Hilltops_Capital_Region
+NSW,Central West,Forbes,Outer Regional Australia,Arterial Road,NSW_Forbes_Central_West
+QLD,Toowoomba,Toowoomba,Inner Regional Australia,Collector Road,QLD_Toowoomba_Toowoomba
+NSW,Newcastle and Lake Macquarie,Lake Macquarie,Major Cities of Australia,Arterial Road,NSW_Lake_Macquarie_Newcastle_and_Lake_Macquarie
+QLD,Central Queensland,Livingstone,Remote Australia,National or State Highway,QLD_Livingstone_Central_Queensland
+NSW,Sydney - Blacktown,Blacktown,Major Cities of Australia,National or State Highway,NSW_Blacktown_Sydney___Blacktown
+NSW,Murray,Balranald,Outer Regional Australia,National or State Highway,NSW_Balranald_Murray
+QLD,Queensland - Outback,Lockhart River,Very Remote Australia,Local Road,QLD_Lockhart_River_Queensland___Outback
+SA,Barossa - Yorke - Mid North,Light,Inner Regional Australia,Sub-arterial Road,SA_Light_Barossa___Yorke___Mid_North
+QLD,Cairns,Cassowary Coast,Outer Regional Australia,National or State Highway,QLD_Cassowary_Coast_Cairns
+SA,South Australia - Outback,Tumby Bay,Remote Australia,Collector Road,SA_Tumby_Bay_South_Australia___Outback
+NSW,Sydney - South West,Liverpool,Major Cities of Australia,Arterial Road,NSW_Liverpool_Sydney___South_West
+NSW,Sydney - Parramatta,Cumberland,Major Cities of Australia,Local Road,NSW_Cumberland_Sydney___Parramatta
+NSW,Hunter Valley exc Newcastle,Muswellbrook,Inner Regional Australia,National or State Highway,NSW_Muswellbrook_Hunter_Valley_exc_Newcastle
+QLD,Moreton Bay - North,Moreton Bay,Inner Regional Australia,National or State Highway,QLD_Moreton_Bay_Moreton_Bay___North
+NSW,Richmond - Tweed,Ballina,Inner Regional Australia,National or State Highway,NSW_Ballina_Richmond___Tweed
+NSW,Richmond - Tweed,Kyogle,Inner Regional Australia,Sub-arterial Road,NSW_Kyogle_Richmond___Tweed
+QLD,Wide Bay,Bundaberg,Inner Regional Australia,National or State Highway,QLD_Bundaberg_Wide_Bay
+VIC,Melbourne - Inner,Melbourne,Major Cities of Australia,Arterial Road,VIC_Melbourne_Melbourne___Inner
+QLD,Brisbane - South,Brisbane,Major Cities of Australia,Sub-arterial Road,QLD_Brisbane_Brisbane___South
+NSW,Riverina,Snowy Valleys,Outer Regional Australia,National or State Highway,NSW_Snowy_Valleys_Riverina
+QLD,Mackay - Isaac - Whitsunday,Whitsunday,Outer Regional Australia,Local Road,QLD_Whitsunday_Mackay___Isaac___Whitsunday
+NSW,Sydney - South West,Fairfield,Major Cities of Australia,National or State Highway,NSW_Fairfield_Sydney___South_West
+NSW,Capital Region,Yass Valley,Inner Regional Australia,National or State Highway,NSW_Yass_Valley_Capital_Region
+QLD,Central Queensland,Central Highlands (Qld),Remote Australia,Collector Road,QLD_Central_Highlands_(Qld)_Central_Queensland
+NSW,Sydney - Baulkham Hills and Hawkesbury,The Hills,Major Cities of Australia,Collector Road,NSW_The_Hills_Sydney___Baulkham_Hills_and_Hawkesbury
+SA,Adelaide - North,Salisbury,Major Cities of Australia,Local Road,SA_Salisbury_Adelaide___North
+NSW,Hunter Valley exc Newcastle,Port Stephens,Inner Regional Australia,Sub-arterial Road,NSW_Port_Stephens_Hunter_Valley_exc_Newcastle
+VIC,Melbourne - North West,Macedon Ranges,Inner Regional Australia,Sub-arterial Road,VIC_Macedon_Ranges_Melbourne___North_West
+VIC,Warrnambool and South West,Moyne,Inner Regional Australia,Arterial Road,VIC_Moyne_Warrnambool_and_South_West
+VIC,Melbourne - South East,Cardinia,Major Cities of Australia,Collector Road,VIC_Cardinia_Melbourne___South_East
+VIC,Latrobe - Gippsland,East Gippsland,Outer Regional Australia,Arterial Road,VIC_East_Gippsland_Latrobe___Gippsland
+NSW,Sydney - Baulkham Hills and Hawkesbury,Hornsby,Major Cities of Australia,Arterial Road,NSW_Hornsby_Sydney___Baulkham_Hills_and_Hawkesbury
+VIC,Melbourne - North East,Whittlesea,Major Cities of Australia,Arterial Road,VIC_Whittlesea_Melbourne___North_East
+QLD,Queensland - Outback,Mareeba,Very Remote Australia,Sub-arterial Road,QLD_Mareeba_Queensland___Outback
+NSW,Mid North Coast,Mid-Coast,Inner Regional Australia,Arterial Road,NSW_Mid_Coast_Mid_North_Coast
+QLD,Central Queensland,Rockhampton,Inner Regional Australia,Pedestrian Thoroughfare,QLD_Rockhampton_Central_Queensland
+QLD,Ipswich,Ipswich,Inner Regional Australia,Sub-arterial Road,QLD_Ipswich_Ipswich
+VIC,Warrnambool and South West,Glenelg,Outer Regional Australia,National or State Highway,VIC_Glenelg_Warrnambool_and_South_West
+QLD,Darling Downs - Maranoa,Western Downs,Outer Regional Australia,Sub-arterial Road,QLD_Western_Downs_Darling_Downs___Maranoa
+SA,Adelaide - West,Port Adelaide Enfield,Major Cities of Australia,Arterial Road,SA_Port_Adelaide_Enfield_Adelaide___West
+NSW,Central West,Cabonne,Outer Regional Australia,Arterial Road,NSW_Cabonne_Central_West
+QLD,Gold Coast,Gold Coast,Major Cities of Australia,Collector Road,QLD_Gold_Coast_Gold_Coast
+ACT,Australian Capital Territory,Unincorporated ACT,Major Cities of Australia,Arterial Road,ACT_Unincorporated_ACT_Australian_Capital_Territory
+VIC,Mornington Peninsula,Frankston,Major Cities of Australia,Sub-arterial Road,VIC_Frankston_Mornington_Peninsula
+NSW,New England and North West,Moree Plains,Outer Regional Australia,National or State Highway,NSW_Moree_Plains_New_England_and_North_West
+NSW,Sydney - Parramatta,Parramatta,Major Cities of Australia,Local Road,NSW_Parramatta_Sydney___Parramatta
+TAS,Launceston and North East,Meander Valley,Outer Regional Australia,National or State Highway,TAS_Meander_Valley_Launceston_and_North_East
+NSW,Capital Region,Queanbeyan-Palerang,Major Cities of Australia,Local Road,NSW_Queanbeyan_Palerang_Capital_Region
+NSW,Capital Region,Snowy Monaro,Outer Regional Australia,National or State Highway,NSW_Snowy_Monaro_Capital_Region
+NSW,Murray,Federation,Outer Regional Australia,National or State Highway,NSW_Federation_Murray
+QLD,Brisbane Inner City,Brisbane,Major Cities of Australia,Sub-arterial Road,QLD_Brisbane_Brisbane_Inner_City
+NSW,Central West,Cowra,Inner Regional Australia,Local Road,NSW_Cowra_Central_West
+NSW,Capital Region,Goulburn Mulwaree,Inner Regional Australia,National or State Highway,NSW_Goulburn_Mulwaree_Capital_Region
+QLD,Moreton Bay - South,Moreton Bay,Major Cities of Australia,Local Road,QLD_Moreton_Bay_Moreton_Bay___South
+QLD,Wide Bay,Gympie,Inner Regional Australia,Local Road,QLD_Gympie_Wide_Bay
+NSW,Sydney - North Sydney and Hornsby,Willoughby,Major Cities of Australia,Arterial Road,NSW_Willoughby_Sydney___North_Sydney_and_Hornsby
+NSW,Capital Region,Shoalhaven,Inner Regional Australia,National or State Highway,NSW_Shoalhaven_Capital_Region
+VIC,Bendigo,Greater Bendigo,Inner Regional Australia,National or State Highway,VIC_Greater_Bendigo_Bendigo
+VIC,Melbourne - North East,Nillumbik,Inner Regional Australia,Arterial Road,VIC_Nillumbik_Melbourne___North_East
+SA,South Australia - South East,Tatiara,Remote Australia,National or State Highway,SA_Tatiara_South_Australia___South_East
+NSW,Richmond - Tweed,Tweed,Inner Regional Australia,Arterial Road,NSW_Tweed_Richmond___Tweed
+VIC,North West,Ararat,Inner Regional Australia,National or State Highway,VIC_Ararat_North_West
+VIC,Warrnambool and South West,Colac Otway,Inner Regional Australia,Arterial Road,VIC_Colac_Otway_Warrnambool_and_South_West
+QLD,Queensland - Outback,McKinlay,Very Remote Australia,Sub-arterial Road,QLD_McKinlay_Queensland___Outback
+NSW,Hunter Valley exc Newcastle,Singleton,Inner Regional Australia,Local Road,NSW_Singleton_Hunter_Valley_exc_Newcastle
+QLD,Central Queensland,Gladstone,Outer Regional Australia,National or State Highway,QLD_Gladstone_Central_Queensland
+NSW,Central West,Lithgow,Inner Regional Australia,National or State Highway,NSW_Lithgow_Central_West
+NSW,Sydney - Outer South West,Campbelltown (NSW),Major Cities of Australia,National or State Highway,NSW_Campbelltown_(NSW)_Sydney___Outer_South_West
+QLD,Sunshine Coast,Sunshine Coast,Major Cities of Australia,Local Road,QLD_Sunshine_Coast_Sunshine_Coast
+NSW,Far West and Orana,Warrumbungle,Outer Regional Australia,Local Road,NSW_Warrumbungle_Far_West_and_Orana
+QLD,Sunshine Coast,Noosa,Major Cities of Australia,Sub-arterial Road,QLD_Noosa_Sunshine_Coast
+NSW,Newcastle and Lake Macquarie,Port Stephens,Major Cities of Australia,Arterial Road,NSW_Port_Stephens_Newcastle_and_Lake_Macquarie
+SA,Adelaide - North,Gawler,Major Cities of Australia,Collector Road,SA_Gawler_Adelaide___North
+VIC,Hume,Alpine,Inner Regional Australia,Local Road,VIC_Alpine_Hume
+QLD,Ipswich,Brisbane,Major Cities of Australia,Collector Road,QLD_Brisbane_Ipswich
+VIC,Latrobe - Gippsland,Baw Baw,Inner Regional Australia,Local Road,VIC_Baw_Baw_Latrobe___Gippsland
+QLD,Mackay - Isaac - Whitsunday,Isaac,Remote Australia,National or State Highway,QLD_Isaac_Mackay___Isaac___Whitsunday
+QLD,Darling Downs - Maranoa,Maranoa,Remote Australia,National or State Highway,QLD_Maranoa_Darling_Downs___Maranoa
+VIC,Warrnambool and South West,Southern Grampians,Outer Regional Australia,National or State Highway,VIC_Southern_Grampians_Warrnambool_and_South_West
+NSW,Hunter Valley exc Newcastle,Cessnock,Inner Regional Australia,Arterial Road,NSW_Cessnock_Hunter_Valley_exc_Newcastle
+QLD,Logan - Beaudesert,Scenic Rim,Inner Regional Australia,National or State Highway,QLD_Scenic_Rim_Logan___Beaudesert
+QLD,Ipswich,Somerset,Inner Regional Australia,Local Road,QLD_Somerset_Ipswich
+QLD,Townsville,Hinchinbrook,Remote Australia,Access road,QLD_Hinchinbrook_Townsville
+SA,Adelaide - North,Playford,Major Cities of Australia,National or State Highway,SA_Playford_Adelaide___North
+NSW,Far West and Orana,Cobar,Very Remote Australia,National or State Highway,NSW_Cobar_Far_West_and_Orana
+SA,Adelaide - Central and Hills,Adelaide Hills,Inner Regional Australia,Sub-arterial Road,SA_Adelaide_Hills_Adelaide___Central_and_Hills
+NSW,Capital Region,Bega Valley,Outer Regional Australia,National or State Highway,NSW_Bega_Valley_Capital_Region
+SA,Adelaide - North,Tea Tree Gully,Major Cities of Australia,Sub-arterial Road,SA_Tea_Tree_Gully_Adelaide___North
+NSW,Illawarra,Kiama,Inner Regional Australia,Arterial Road,NSW_Kiama_Illawarra
+NSW,Sydney - Outer South West,Wollondilly,Inner Regional Australia,Arterial Road,NSW_Wollondilly_Sydney___Outer_South_West
+QLD,Ipswich,Scenic Rim,Inner Regional Australia,Sub-arterial Road,QLD_Scenic_Rim_Ipswich
+VIC,Melbourne - South East,Casey,Major Cities of Australia,Arterial Road,VIC_Casey_Melbourne___South_East
+SA,Barossa - Yorke - Mid North,Northern Areas,Outer Regional Australia,Arterial Road,SA_Northern_Areas_Barossa___Yorke___Mid_North
+QLD,Cairns,Tablelands,Outer Regional Australia,Sub-arterial Road,QLD_Tablelands_Cairns
+NSW,Sydney - City and Inner South,Sydney,Major Cities of Australia,National or State Highway,NSW_Sydney_Sydney___City_and_Inner_South
+VIC,Hume,Murrindindi,Inner Regional Australia,National or State Highway,VIC_Murrindindi_Hume
+NSW,Murray,Albury,Inner Regional Australia,National or State Highway,NSW_Albury_Murray
+VIC,Melbourne - Inner East,Boroondara,Major Cities of Australia,Arterial Road,VIC_Boroondara_Melbourne___Inner_East
+QLD,Brisbane - East,Redland,Major Cities of Australia,Sub-arterial Road,QLD_Redland_Brisbane___East
+VIC,Latrobe - Gippsland,South Gippsland,Inner Regional Australia,National or State Highway,VIC_South_Gippsland_Latrobe___Gippsland
+VIC,Melbourne - Outer East,Yarra Ranges,Inner Regional Australia,Sub-arterial Road,VIC_Yarra_Ranges_Melbourne___Outer_East
+VIC,Geelong,Surf Coast,Inner Regional Australia,Local Road,VIC_Surf_Coast_Geelong
+SA,Adelaide - Central and Hills,Mount Barker,Inner Regional Australia,Arterial Road,SA_Mount_Barker_Adelaide___Central_and_Hills
+QLD,Brisbane - East,Brisbane,Major Cities of Australia,Sub-arterial Road,QLD_Brisbane_Brisbane___East
+NSW,Hunter Valley exc Newcastle,Maitland,Inner Regional Australia,National or State Highway,NSW_Maitland_Hunter_Valley_exc_Newcastle
+TAS,Hobart,Hobart,Inner Regional Australia,Local Road,TAS_Hobart_Hobart
+SA,Adelaide - South,Mitcham,Major Cities of Australia,Collector Road,SA_Mitcham_Adelaide___South
+NSW,Coffs Harbour - Grafton,Clarence Valley,Inner Regional Australia,Sub-arterial Road,NSW_Clarence_Valley_Coffs_Harbour___Grafton
+SA,Adelaide - Central and Hills,Adelaide,Major Cities of Australia,Sub-arterial Road,SA_Adelaide_Adelaide___Central_and_Hills
+NSW,Richmond - Tweed,Lismore,Inner Regional Australia,Local Road,NSW_Lismore_Richmond___Tweed
+VIC,Shepparton,Greater Shepparton,Inner Regional Australia,Sub-arterial Road,VIC_Greater_Shepparton_Shepparton
+VIC,Melbourne - North West,Merri-bek,Major Cities of Australia,Sub-arterial Road,VIC_Merri_bek_Melbourne___North_West
+NSW,Riverina,Narrandera,Outer Regional Australia,Local Road,NSW_Narrandera_Riverina
+TAS,South East,Huon Valley,Outer Regional Australia,Sub-arterial Road,TAS_Huon_Valley_South_East
+NSW,Riverina,Griffith,Outer Regional Australia,Local Road,NSW_Griffith_Riverina
+VIC,Hume,Wodonga,Inner Regional Australia,Local Road,VIC_Wodonga_Hume
+NSW,Hunter Valley exc Newcastle,Mid-Coast,Inner Regional Australia,Arterial Road,NSW_Mid_Coast_Hunter_Valley_exc_Newcastle
+VIC,Melbourne - Inner,Darebin,Major Cities of Australia,Local Road,VIC_Darebin_Melbourne___Inner
+VIC,Ballarat,Ballarat,Inner Regional Australia,Sub-arterial Road,VIC_Ballarat_Ballarat
+NSW,Southern Highlands and Shoalhaven,Wingecarribee,Inner Regional Australia,Local Road,NSW_Wingecarribee_Southern_Highlands_and_Shoalhaven
+VIC,Melbourne - Outer East,Maroondah,Major Cities of Australia,Local Road,VIC_Maroondah_Melbourne___Outer_East
+QLD,Wide Bay,North Burnett,Outer Regional Australia,National or State Highway,QLD_North_Burnett_Wide_Bay
+VIC,Mornington Peninsula,Mornington Peninsula,Major Cities of Australia,Collector Road,VIC_Mornington_Peninsula_Mornington_Peninsula
+SA,Adelaide - Central and Hills,Unley,Major Cities of Australia,Sub-arterial Road,SA_Unley_Adelaide___Central_and_Hills
+SA,South Australia - South East,Alexandrina,Inner Regional Australia,Arterial Road,SA_Alexandrina_South_Australia___South_East
+VIC,Melbourne - West,Melton,Major Cities of Australia,National or State Highway,VIC_Melton_Melbourne___West
+QLD,Townsville,Burdekin,Outer Regional Australia,National or State Highway,QLD_Burdekin_Townsville
+VIC,Melbourne - Outer East,Knox,Major Cities of Australia,Local Road,VIC_Knox_Melbourne___Outer_East
+VIC,Melbourne - South East,Monash,Major Cities of Australia,Arterial Road,VIC_Monash_Melbourne___South_East
+NSW,Far West and Orana,Unincorporated NSW,Very Remote Australia,National or State Highway,NSW_Unincorporated_NSW_Far_West_and_Orana
+QLD,Queensland - Outback,Barcaldine,Very Remote Australia,Local Road,QLD_Barcaldine_Queensland___Outback
+VIC,Melbourne - West,Wyndham,Major Cities of Australia,Arterial Road,VIC_Wyndham_Melbourne___West
+NSW,New England and North West,Glen Innes Severn,Outer Regional Australia,National or State Highway,NSW_Glen_Innes_Severn_New_England_and_North_West
+NSW,Sydney - Northern Beaches,Northern Beaches,Major Cities of Australia,Arterial Road,NSW_Northern_Beaches_Sydney___Northern_Beaches
+QLD,Townsville,Townsville,Outer Regional Australia,Local Road,QLD_Townsville_Townsville
+VIC,Ballarat,Golden Plains,Inner Regional Australia,Arterial Road,VIC_Golden_Plains_Ballarat
+TAS,Hobart,Clarence,Inner Regional Australia,Arterial Road,TAS_Clarence_Hobart
+NSW,Sydney - Inner South West,Georges River,Major Cities of Australia,Arterial Road,NSW_Georges_River_Sydney___Inner_South_West
+VIC,Melbourne - South East,Kingston (Vic.),Major Cities of Australia,Local Road,VIC_Kingston_(Vic.)_Melbourne___South_East
+VIC,Melbourne - Inner East,Manningham,Major Cities of Australia,Arterial Road,VIC_Manningham_Melbourne___Inner_East
+NSW,Central West,Bathurst,Inner Regional Australia,National or State Highway,NSW_Bathurst_Central_West
+SA,South Australia - Outback,Wudinna,Remote Australia,National or State Highway,SA_Wudinna_South_Australia___Outback
+NSW,New England and North West,Inverell,Outer Regional Australia,Arterial Road,NSW_Inverell_New_England_and_North_West
+VIC,Melbourne - West,Brimbank,Major Cities of Australia,Arterial Road,VIC_Brimbank_Melbourne___West
+VIC,Melbourne - North East,Darebin,Major Cities of Australia,Collector Road,VIC_Darebin_Melbourne___North_East
+SA,Adelaide - West,Charles Sturt,Major Cities of Australia,Collector Road,SA_Charles_Sturt_Adelaide___West
+TAS,Launceston and North East,Flinders (Tas.),Very Remote Australia,Arterial Road,TAS_Flinders_(Tas.)_Launceston_and_North_East
+TAS,West and North West,Burnie,Outer Regional Australia,Arterial Road,TAS_Burnie_West_and_North_West
+NSW,Far West and Orana,Dubbo,Inner Regional Australia,Sub-arterial Road,NSW_Dubbo_Far_West_and_Orana
+VIC,Geelong,Greater Geelong,Major Cities of Australia,Sub-arterial Road,VIC_Greater_Geelong_Geelong
+VIC,Hume,Mitchell,Inner Regional Australia,Collector Road,VIC_Mitchell_Hume
+SA,Adelaide - South,Onkaparinga,Inner Regional Australia,Collector Road,SA_Onkaparinga_Adelaide___South
+VIC,Melbourne - Inner South,Stonnington,Major Cities of Australia,Sub-arterial Road,VIC_Stonnington_Melbourne___Inner_South
+TAS,Launceston and North East,Launceston,Outer Regional Australia,Collector Road,TAS_Launceston_Launceston_and_North_East
+VIC,Hume,Indigo,Inner Regional Australia,National or State Highway,VIC_Indigo_Hume
+VIC,Melbourne - Inner,Yarra,Major Cities of Australia,Arterial Road,VIC_Yarra_Melbourne___Inner
+VIC,Melbourne - Inner,Port Phillip,Major Cities of Australia,Collector Road,VIC_Port_Phillip_Melbourne___Inner
+TAS,West and North West,Waratah-Wynyard,Outer Regional Australia,National or State Highway,TAS_Waratah_Wynyard_West_and_North_West
+VIC,Shepparton,Campaspe,Inner Regional Australia,National or State Highway,VIC_Campaspe_Shepparton
+NT,Northern Territory - Outback,Barkly,Very Remote Australia,National or State Highway,NT_Barkly_Northern_Territory___Outback
+NSW,Sydney - Parramatta,Blacktown,Major Cities of Australia,National or State Highway,NSW_Blacktown_Sydney___Parramatta
+NSW,Central West,Blayney,Inner Regional Australia,National or State Highway,NSW_Blayney_Central_West
+SA,Adelaide - Central and Hills,Campbelltown (SA),Major Cities of Australia,Collector Road,SA_Campbelltown_(SA)_Adelaide___Central_and_Hills
+VIC,Latrobe - Gippsland,Latrobe (Vic.),Inner Regional Australia,Local Road,VIC_Latrobe_(Vic.)_Latrobe___Gippsland
+NT,Darwin,Palmerston,Outer Regional Australia,Sub-arterial Road,NT_Palmerston_Darwin
+NSW,New England and North West,Gunnedah,Outer Regional Australia,Local Road,NSW_Gunnedah_New_England_and_North_West
+TAS,Launceston and North East,Break O'Day,Outer Regional Australia,Access road,TAS_Break_O'Day_Launceston_and_North_East
+VIC,North West,Buloke,Outer Regional Australia,Collector Road,VIC_Buloke_North_West
+VIC,North West,West Wimmera,Outer Regional Australia,Arterial Road,VIC_West_Wimmera_North_West
+NSW,Sydney - North Sydney and Hornsby,Ku-ring-gai,Major Cities of Australia,Arterial Road,NSW_Ku_ring_gai_Sydney___North_Sydney_and_Hornsby
+NSW,Southern Highlands and Shoalhaven,Shoalhaven,Inner Regional Australia,Sub-arterial Road,NSW_Shoalhaven_Southern_Highlands_and_Shoalhaven
+VIC,Warrnambool and South West,Warrnambool,Inner Regional Australia,Local Road,VIC_Warrnambool_Warrnambool_and_South_West
+NSW,Murray,Berrigan,Inner Regional Australia,Local Road,NSW_Berrigan_Murray
+NSW,Far West and Orana,Warren,Remote Australia,National or State Highway,NSW_Warren_Far_West_and_Orana
+VIC,Shepparton,Moira,Inner Regional Australia,Arterial Road,VIC_Moira_Shepparton
+QLD,Brisbane - North,Brisbane,Major Cities of Australia,Local Road,QLD_Brisbane_Brisbane___North
+SA,South Australia - South East,Berri Barmera,Outer Regional Australia,Local Road,SA_Berri_Barmera_South_Australia___South_East
+VIC,Melbourne - Inner,Moonee Valley,Major Cities of Australia,Collector Road,VIC_Moonee_Valley_Melbourne___Inner
+NT,Darwin,Litchfield,Outer Regional Australia,Sub-arterial Road,NT_Litchfield_Darwin
+VIC,Melbourne - South East,Greater Dandenong,Major Cities of Australia,Arterial Road,VIC_Greater_Dandenong_Melbourne___South_East
+VIC,Geelong,Golden Plains,Inner Regional Australia,National or State Highway,VIC_Golden_Plains_Geelong
+QLD,Darling Downs - Maranoa,Toowoomba,Outer Regional Australia,National or State Highway,QLD_Toowoomba_Darling_Downs___Maranoa
+VIC,Melbourne - North West,Moonee Valley,Major Cities of Australia,National or State Highway,VIC_Moonee_Valley_Melbourne___North_West
+NSW,Sydney - Inner West,Inner West,Major Cities of Australia,Collector Road,NSW_Inner_West_Sydney___Inner_West
+SA,South Australia - Outback,Whyalla,Outer Regional Australia,Local Road,SA_Whyalla_South_Australia___Outback
+QLD,Queensland - Outback,Mount Isa,Remote Australia,Collector Road,QLD_Mount_Isa_Queensland___Outback
+VIC,Melbourne - Inner South,Kingston (Vic.),Major Cities of Australia,Local Road,VIC_Kingston_(Vic.)_Melbourne___Inner_South
+VIC,Melbourne - West,Maribyrnong,Major Cities of Australia,National or State Highway,VIC_Maribyrnong_Melbourne___West
+SA,Adelaide - South,Marion,Major Cities of Australia,Collector Road,SA_Marion_Adelaide___South
+VIC,North West,Mildura,Outer Regional Australia,National or State Highway,VIC_Mildura_North_West
+NSW,Sydney - North Sydney and Hornsby,Hornsby,Inner Regional Australia,National or State Highway,NSW_Hornsby_Sydney___North_Sydney_and_Hornsby
+VIC,Hume,Mansfield,Outer Regional Australia,Arterial Road,VIC_Mansfield_Hume
+QLD,Townsville,Charters Towers,Very Remote Australia,National or State Highway,QLD_Charters_Towers_Townsville
+NSW,Richmond - Tweed,Richmond Valley,Inner Regional Australia,Sub-arterial Road,NSW_Richmond_Valley_Richmond___Tweed
+NSW,Sydney - Sutherland,Sutherland,Inner Regional Australia,Arterial Road,NSW_Sutherland_Sydney___Sutherland
+VIC,Melbourne - North West,Hume,Major Cities of Australia,Arterial Road,VIC_Hume_Melbourne___North_West
+NSW,Newcastle and Lake Macquarie,Newcastle,Major Cities of Australia,Arterial Road,NSW_Newcastle_Newcastle_and_Lake_Macquarie
+VIC,Melbourne - Inner South,Glen Eira,Major Cities of Australia,National or State Highway,VIC_Glen_Eira_Melbourne___Inner_South
+VIC,North West,Yarriambiack,Remote Australia,National or State Highway,VIC_Yarriambiack_North_West
+VIC,Ballarat,Pyrenees,Inner Regional Australia,National or State Highway,VIC_Pyrenees_Ballarat
+NSW,Sydney - Inner South West,Strathfield,Major Cities of Australia,National or State Highway,NSW_Strathfield_Sydney___Inner_South_West
+NSW,Sydney - Inner South West,Bayside (NSW),Major Cities of Australia,Collector Road,NSW_Bayside_(NSW)_Sydney___Inner_South_West
+NSW,Coffs Harbour - Grafton,Coffs Harbour,Inner Regional Australia,National or State Highway,NSW_Coffs_Harbour_Coffs_Harbour___Grafton
+SA,South Australia - South East,Murray Bridge,Inner Regional Australia,Local Road,SA_Murray_Bridge_South_Australia___South_East
+NSW,Murray,Murray River,Outer Regional Australia,National or State Highway,NSW_Murray_River_Murray
+NSW,Sydney - Outer South West,Camden,Major Cities of Australia,Arterial Road,NSW_Camden_Sydney___Outer_South_West
+TAS,Hobart,Glenorchy,Inner Regional Australia,Arterial Road,TAS_Glenorchy_Hobart
+NSW,Sydney - Eastern Suburbs,Randwick,Major Cities of Australia,Local Road,NSW_Randwick_Sydney___Eastern_Suburbs
+NSW,Sydney - Inner West,Strathfield,Major Cities of Australia,Arterial Road,NSW_Strathfield_Sydney___Inner_West
+NSW,Sydney - Ryde,Hunters Hill,Major Cities of Australia,Local Road,NSW_Hunters_Hill_Sydney___Ryde
+VIC,Hume,Wangaratta,Inner Regional Australia,Arterial Road,VIC_Wangaratta_Hume
+NSW,Central West,Parkes,Outer Regional Australia,Arterial Road,NSW_Parkes_Central_West
+NSW,Richmond - Tweed,Byron,Inner Regional Australia,Arterial Road,NSW_Byron_Richmond___Tweed
+NSW,Far West and Orana,Cabonne,Outer Regional Australia,Sub-arterial Road,NSW_Cabonne_Far_West_and_Orana
+VIC,Ballarat,Moorabool,Inner Regional Australia,National or State Highway,VIC_Moorabool_Ballarat
+VIC,Hume,Benalla,Inner Regional Australia,Local Road,VIC_Benalla_Hume
+NSW,Coffs Harbour - Grafton,Bellingen,Inner Regional Australia,Arterial Road,NSW_Bellingen_Coffs_Harbour___Grafton
+VIC,Latrobe - Gippsland,Wellington,Inner Regional Australia,National or State Highway,VIC_Wellington_Latrobe___Gippsland
+NSW,Murray,Edward River,Outer Regional Australia,Sub-arterial Road,NSW_Edward_River_Murray
+SA,South Australia - South East,Coorong,Outer Regional Australia,Sub-arterial Road,SA_Coorong_South_Australia___South_East
+TAS,Launceston and North East,George Town,Outer Regional Australia,Arterial Road,TAS_George_Town_Launceston_and_North_East
+NSW,Sydney - Ryde,Ryde,Major Cities of Australia,Arterial Road,NSW_Ryde_Sydney___Ryde
+VIC,Latrobe - Gippsland,Bass Coast,Inner Regional Australia,Sub-arterial Road,VIC_Bass_Coast_Latrobe___Gippsland
+QLD,Queensland - Outback,Richmond,Very Remote Australia,National or State Highway,QLD_Richmond_Queensland___Outback
+VIC,Hume,Strathbogie,Inner Regional Australia,Local Road,VIC_Strathbogie_Hume
+NSW,Murray,Hay,Remote Australia,Sub-arterial Road,NSW_Hay_Murray
+NSW,Central West,Weddin,Outer Regional Australia,Arterial Road,NSW_Weddin_Central_West
+VIC,Melbourne - West,Moorabool,Inner Regional Australia,National or State Highway,VIC_Moorabool_Melbourne___West
+NSW,Central West,Lachlan,Outer Regional Australia,Arterial Road,NSW_Lachlan_Central_West
+NSW,Sydney - Eastern Suburbs,Waverley,Major Cities of Australia,Local Road,NSW_Waverley_Sydney___Eastern_Suburbs
+VIC,North West,Northern Grampians,Outer Regional Australia,Sub-arterial Road,VIC_Northern_Grampians_North_West
+QLD,Cairns,Mareeba,Outer Regional Australia,Local Road,QLD_Mareeba_Cairns
+VIC,North West,Horsham,Outer Regional Australia,National or State Highway,VIC_Horsham_North_West
+SA,Adelaide - North,Adelaide Plains,Inner Regional Australia,Sub-arterial Road,SA_Adelaide_Plains_Adelaide___North
+VIC,Melbourne - Inner,Stonnington,Major Cities of Australia,Collector Road,VIC_Stonnington_Melbourne___Inner
+SA,Barossa - Yorke - Mid North,Mount Remarkable,Outer Regional Australia,Arterial Road,SA_Mount_Remarkable_Barossa___Yorke___Mid_North
+NSW,Far West and Orana,Gilgandra,Outer Regional Australia,National or State Highway,NSW_Gilgandra_Far_West_and_Orana
+SA,Barossa - Yorke - Mid North,Adelaide Plains,Inner Regional Australia,Local Road,SA_Adelaide_Plains_Barossa___Yorke___Mid_North
+QLD,Darling Downs - Maranoa,Goondiwindi,Outer Regional Australia,National or State Highway,QLD_Goondiwindi_Darling_Downs___Maranoa
+VIC,Melbourne - North East,Mitchell,Inner Regional Australia,Arterial Road,VIC_Mitchell_Melbourne___North_East
+SA,Barossa - Yorke - Mid North,Clare and Gilbert Valleys,Outer Regional Australia,Local Road,SA_Clare_and_Gilbert_Valleys_Barossa___Yorke___Mid_North
+QLD,Brisbane - West,Brisbane,Major Cities of Australia,Collector Road,QLD_Brisbane_Brisbane___West
+SA,Adelaide - West,West Torrens,Major Cities of Australia,Sub-arterial Road,SA_West_Torrens_Adelaide___West
+VIC,Melbourne - Outer East,Whitehorse,Major Cities of Australia,Collector Road,VIC_Whitehorse_Melbourne___Outer_East
+QLD,Queensland - Outback,Cloncurry,Very Remote Australia,Sub-arterial Road,QLD_Cloncurry_Queensland___Outback
+NSW,Sydney - South West,Penrith,Major Cities of Australia,Arterial Road,NSW_Penrith_Sydney___South_West
+TAS,Hobart,Sorell,Inner Regional Australia,National or State Highway,TAS_Sorell_Hobart
+VIC,Hume,Towong,Outer Regional Australia,Arterial Road,VIC_Towong_Hume
+SA,South Australia - South East,Grant,Outer Regional Australia,Collector Road,SA_Grant_South_Australia___South_East
+VIC,Ballarat,Hepburn,Inner Regional Australia,Arterial Road,VIC_Hepburn_Ballarat
+QLD,Ipswich,Lockyer Valley,Inner Regional Australia,National or State Highway,QLD_Lockyer_Valley_Ipswich
+TAS,West and North West,Circular Head,Remote Australia,National or State Highway,TAS_Circular_Head_West_and_North_West
+VIC,North West,Swan Hill,Outer Regional Australia,Arterial Road,VIC_Swan_Hill_North_West
+NSW,Riverina,Murrumbidgee,Outer Regional Australia,National or State Highway,NSW_Murrumbidgee_Riverina
+NSW,Central West,Orange,Inner Regional Australia,Local Road,NSW_Orange_Central_West
+SA,Adelaide - Central and Hills,Walkerville,Major Cities of Australia,Local Road,SA_Walkerville_Adelaide___Central_and_Hills
+NSW,Sydney - City and Inner South,Bayside (NSW),Major Cities of Australia,Arterial Road,NSW_Bayside_(NSW)_Sydney___City_and_Inner_South
+NSW,Illawarra,Sutherland,Inner Regional Australia,Arterial Road,NSW_Sutherland_Illawarra
+VIC,Melbourne - Inner East,Whitehorse,Major Cities of Australia,Local Road,VIC_Whitehorse_Melbourne___Inner_East
+NSW,Murray,Wentworth,Remote Australia,Arterial Road,NSW_Wentworth_Murray
+TAS,South East,Tasman,Outer Regional Australia,National or State Highway,TAS_Tasman_South_East
+TAS,West and North West,Latrobe (Tas.),Outer Regional Australia,National or State Highway,TAS_Latrobe_(Tas.)_West_and_North_West
+SA,South Australia - Outback,Port Augusta,Outer Regional Australia,National or State Highway,SA_Port_Augusta_South_Australia___Outback
+NSW,New England and North West,Liverpool Plains,Outer Regional Australia,Arterial Road,NSW_Liverpool_Plains_New_England_and_North_West
+QLD,Central Queensland,Banana,Outer Regional Australia,Local Road,QLD_Banana_Central_Queensland
+NSW,Sydney - City and Inner South,Inner West,Major Cities of Australia,National or State Highway,NSW_Inner_West_Sydney___City_and_Inner_South
+NSW,Capital Region,Eurobodalla,Inner Regional Australia,National or State Highway,NSW_Eurobodalla_Capital_Region
+SA,Barossa - Yorke - Mid North,Barunga West,Outer Regional Australia,Sub-arterial Road,SA_Barunga_West_Barossa___Yorke___Mid_North
+TAS,West and North West,West Coast,Remote Australia,Local Road,TAS_West_Coast_West_and_North_West
+QLD,Queensland - Outback,Etheridge,Very Remote Australia,Sub-arterial Road,QLD_Etheridge_Queensland___Outback
+NSW,Central West,Bland,Outer Regional Australia,National or State Highway,NSW_Bland_Central_West
+NSW,Central West,Oberon,Outer Regional Australia,Arterial Road,NSW_Oberon_Central_West
+VIC,Warrnambool and South West,Corangamite,Inner Regional Australia,Sub-arterial Road,VIC_Corangamite_Warrnambool_and_South_West
+SA,Barossa - Yorke - Mid North,Yorke Peninsula,Outer Regional Australia,Local Road,SA_Yorke_Peninsula_Barossa___Yorke___Mid_North
+TAS,Hobart,Derwent Valley,Inner Regional Australia,Local Road,TAS_Derwent_Valley_Hobart
+NSW,Sydney - Ryde,Hornsby,Major Cities of Australia,Collector Road,NSW_Hornsby_Sydney___Ryde
+SA,Barossa - Yorke - Mid North,Port Pirie,Outer Regional Australia,Collector Road,SA_Port_Pirie_Barossa___Yorke___Mid_North
+TAS,West and North West,Devonport,Outer Regional Australia,National or State Highway,TAS_Devonport_West_and_North_West
+QLD,Queensland - Outback,Flinders (Qld),Very Remote Australia,National or State Highway,QLD_Flinders_(Qld)_Queensland___Outback
+NSW,Sydney - Inner West,Burwood,Major Cities of Australia,Arterial Road,NSW_Burwood_Sydney___Inner_West
+NT,Northern Territory - Outback,Alice Springs,Remote Australia,Sub-arterial Road,NT_Alice_Springs_Northern_Territory___Outback
+QLD,Moreton Bay - North,Somerset,Outer Regional Australia,Local Road,QLD_Somerset_Moreton_Bay___North
+NT,Northern Territory - Outback,Victoria Daly,Very Remote Australia,Arterial Road,NT_Victoria_Daly_Northern_Territory___Outback
+NSW,New England and North West,Gwydir,Outer Regional Australia,Sub-arterial Road,NSW_Gwydir_New_England_and_North_West
+SA,Adelaide - North,Port Adelaide Enfield,Major Cities of Australia,Arterial Road,SA_Port_Adelaide_Enfield_Adelaide___North
+VIC,Bendigo,Macedon Ranges,Inner Regional Australia,Access road,VIC_Macedon_Ranges_Bendigo
+VIC,Melbourne - North East,Banyule,Major Cities of Australia,Local Road,VIC_Banyule_Melbourne___North_East
+NSW,Far West and Orana,Coonamble,Remote Australia,Arterial Road,NSW_Coonamble_Far_West_and_Orana
+NSW,Mid North Coast,Kempsey,Inner Regional Australia,Local Road,NSW_Kempsey_Mid_North_Coast
+NSW,Riverina,Carrathool,Outer Regional Australia,National or State Highway,NSW_Carrathool_Riverina
+QLD,Queensland - Outback,Barcoo,Very Remote Australia,Collector Road,QLD_Barcoo_Queensland___Outback
+VIC,Melbourne - West,Hobsons Bay,Major Cities of Australia,Local Road,VIC_Hobsons_Bay_Melbourne___West
+NSW,Riverina,Temora,Outer Regional Australia,Sub-arterial Road,NSW_Temora_Riverina
+SA,South Australia - South East,Karoonda East Murray,Outer Regional Australia,Arterial Road,SA_Karoonda_East_Murray_South_Australia___South_East
+VIC,Latrobe - Gippsland,Unincorporated Vic,Outer Regional Australia,Access road,VIC_Unincorporated_Vic_Latrobe___Gippsland
+VIC,North West,Gannawarra,Outer Regional Australia,National or State Highway,VIC_Gannawarra_North_West
+SA,South Australia - Outback,Ceduna,Very Remote Australia,Collector Road,SA_Ceduna_South_Australia___Outback
+NSW,Sydney - Ryde,Parramatta,Major Cities of Australia,Arterial Road,NSW_Parramatta_Sydney___Ryde
+NT,Darwin,Darwin,Outer Regional Australia,Arterial Road,NT_Darwin_Darwin
+NT,Northern Territory - Outback,Central Desert,Very Remote Australia,Sub-arterial Road,NT_Central_Desert_Northern_Territory___Outback
+NSW,Sydney - Outer South West,Sutherland,Inner Regional Australia,Arterial Road,NSW_Sutherland_Sydney___Outer_South_West
+QLD,Queensland - Outback,Murweh,Very Remote Australia,Sub-arterial Road,QLD_Murweh_Queensland___Outback
+SA,South Australia - South East,Renmark Paringa,Outer Regional Australia,Sub-arterial Road,SA_Renmark_Paringa_South_Australia___South_East
+SA,South Australia - South East,Loxton Waikerie,Outer Regional Australia,National or State Highway,SA_Loxton_Waikerie_South_Australia___South_East
+TAS,West and North West,Central Coast (Tas.),Outer Regional Australia,National or State Highway,TAS_Central_Coast_(Tas.)_West_and_North_West
+SA,Adelaide - Central and Hills,Norwood Payneham and St Peters,Major Cities of Australia,Local Road,SA_Norwood_Payneham_and_St_Peters_Adelaide___Central_and_Hills
+NT,Northern Territory - Outback,MacDonnell,Very Remote Australia,Sub-arterial Road,NT_MacDonnell_Northern_Territory___Outback
+NSW,Riverina,Leeton,Outer Regional Australia,Local Road,NSW_Leeton_Riverina
+QLD,Gold Coast,Scenic Rim,Inner Regional Australia,Sub-arterial Road,QLD_Scenic_Rim_Gold_Coast
+TAS,South East,Kingborough,Outer Regional Australia,Sub-arterial Road,TAS_Kingborough_South_East
+VIC,Melbourne - Inner,Merri-bek,Major Cities of Australia,Sub-arterial Road,VIC_Merri_bek_Melbourne___Inner
+SA,Barossa - Yorke - Mid North,Copper Coast,Outer Regional Australia,Arterial Road,SA_Copper_Coast_Barossa___Yorke___Mid_North
+NSW,Riverina,Lockhart,Inner Regional Australia,Arterial Road,NSW_Lockhart_Riverina
+SA,South Australia - South East,Naracoorte Lucindale,Outer Regional Australia,Arterial Road,SA_Naracoorte_Lucindale_South_Australia___South_East
+SA,South Australia - South East,Southern Mallee,Remote Australia,Local Road,SA_Southern_Mallee_South_Australia___South_East
+TAS,West and North West,Kentish,Outer Regional Australia,Sub-arterial Road,TAS_Kentish_West_and_North_West
+SA,Barossa - Yorke - Mid North,Goyder,Inner Regional Australia,Local Road,SA_Goyder_Barossa___Yorke___Mid_North
+VIC,Melbourne - North West,Brimbank,Major Cities of Australia,National or State Highway,VIC_Brimbank_Melbourne___North_West
+SA,South Australia - Outback,Flinders Ranges,Outer Regional Australia,Arterial Road,SA_Flinders_Ranges_South_Australia___Outback
+VIC,Bendigo,Loddon,Inner Regional Australia,Arterial Road,VIC_Loddon_Bendigo
+NSW,Riverina,Junee,Inner Regional Australia,Access road,NSW_Junee_Riverina
+SA,South Australia - South East,Victor Harbor,Inner Regional Australia,National or State Highway,SA_Victor_Harbor_South_Australia___South_East
+SA,Adelaide - Central and Hills,Burnside,Major Cities of Australia,Local Road,SA_Burnside_Adelaide___Central_and_Hills
+NT,Northern Territory - Outback,Coomalie ,Remote Australia,National or State Highway,NT_Coomalie__Northern_Territory___Outback
+VIC,Melbourne - Outer East,Manningham,Major Cities of Australia,Sub-arterial Road,VIC_Manningham_Melbourne___Outer_East
+NSW,Sydney - North Sydney and Hornsby,Mosman,Major Cities of Australia,Arterial Road,NSW_Mosman_Sydney___North_Sydney_and_Hornsby
+TAS,South East,Glamorgan-Spring Bay,Outer Regional Australia,National or State Highway,TAS_Glamorgan_Spring_Bay_South_East
+NSW,Sydney - Outer West and Blue Mountains,Hawkesbury,Major Cities of Australia,Arterial Road,NSW_Hawkesbury_Sydney___Outer_West_and_Blue_Mountains
+TAS,South East,Southern Midlands,Outer Regional Australia,National or State Highway,TAS_Southern_Midlands_South_East
+VIC,Bendigo,Mount Alexander,Inner Regional Australia,Arterial Road,VIC_Mount_Alexander_Bendigo
+NSW,Sydney - North Sydney and Hornsby,North Sydney,Major Cities of Australia,Local Road,NSW_North_Sydney_Sydney___North_Sydney_and_Hornsby
+NT,Northern Territory - Outback,Roper Gulf,Very Remote Australia,Sub-arterial Road,NT_Roper_Gulf_Northern_Territory___Outback
+NSW,Sydney - Eastern Suburbs,Woollahra,Major Cities of Australia,Local Road,NSW_Woollahra_Sydney___Eastern_Suburbs
+SA,Adelaide - Central and Hills,Prospect,Major Cities of Australia,Arterial Road,SA_Prospect_Adelaide___Central_and_Hills
+QLD,Queensland - Outback,Northern Peninsula Area,Very Remote Australia,Access road,QLD_Northern_Peninsula_Area_Queensland___Outback
+NSW,Sydney - Outer South West,Wingecarribee,Inner Regional Australia,Local Road,NSW_Wingecarribee_Sydney___Outer_South_West
+NT,Darwin,Unincorporated NT,Outer Regional Australia,Arterial Road,NT_Unincorporated_NT_Darwin
+SA,Barossa - Yorke - Mid North,Orroroo Carrieton,Outer Regional Australia,Arterial Road,SA_Orroroo_Carrieton_Barossa___Yorke___Mid_North
+VIC,Ballarat,Central Goldfields,Inner Regional Australia,Arterial Road,VIC_Central_Goldfields_Ballarat
+NT,Northern Territory - Outback,Unincorporated NT,Remote Australia,Sub-arterial Road,NT_Unincorporated_NT_Northern_Territory___Outback
+NSW,Far West and Orana,Central Darling,Very Remote Australia,Arterial Road,NSW_Central_Darling_Far_West_and_Orana
+QLD,Darling Downs - Maranoa,Balonne,Remote Australia,National or State Highway,QLD_Balonne_Darling_Downs___Maranoa
+TAS,Hobart,Kingborough,Inner Regional Australia,Collector Road,TAS_Kingborough_Hobart
+NSW,Far West and Orana,Walgett,Remote Australia,Arterial Road,NSW_Walgett_Far_West_and_Orana
+NSW,Riverina,Coolamon,Outer Regional Australia,Arterial Road,NSW_Coolamon_Riverina
+QLD,Queensland - Outback,Bulloo,Very Remote Australia,Sub-arterial Road,QLD_Bulloo_Queensland___Outback
+NSW,Sydney - North Sydney and Hornsby,Lane Cove,Major Cities of Australia,National or State Highway,NSW_Lane_Cove_Sydney___North_Sydney_and_Hornsby
+NSW,New England and North West,Walcha,Outer Regional Australia,Local Road,NSW_Walcha_New_England_and_North_West
+NSW,Far West and Orana,Bogan,Very Remote Australia,National or State Highway,NSW_Bogan_Far_West_and_Orana
+NSW,Illawarra,Wollondilly,Inner Regional Australia,Arterial Road,NSW_Wollondilly_Illawarra
+SA,South Australia - Outback,Cleve,Remote Australia,Local Road,SA_Cleve_South_Australia___Outback
+NT,Northern Territory - Outback,West Arnhem,Remote Australia,Arterial Road,NT_West_Arnhem_Northern_Territory___Outback
+NSW,Sydney - Parramatta,Canterbury-Bankstown,Major Cities of Australia,Local Road,NSW_Canterbury_Bankstown_Sydney___Parramatta
+TAS,West and North West,King Island,Very Remote Australia,Arterial Road,TAS_King_Island_West_and_North_West
+SA,South Australia - South East,Kangaroo Island,Remote Australia,Local Road,SA_Kangaroo_Island_South_Australia___South_East
+NSW,New England and North West,Uralla,Inner Regional Australia,Local Road,NSW_Uralla_New_England_and_North_West
+SA,Adelaide - South,Holdfast Bay,Major Cities of Australia,Arterial Road,SA_Holdfast_Bay_Adelaide___South
+VIC,Melbourne - North East,Murrindindi,Inner Regional Australia,Access road,VIC_Murrindindi_Melbourne___North_East
+NSW,Far West and Orana,Brewarrina,Very Remote Australia,National or State Highway,NSW_Brewarrina_Far_West_and_Orana
+NSW,Sydney - Outer West and Blue Mountains,Wollondilly,Inner Regional Australia,Sub-arterial Road,NSW_Wollondilly_Sydney___Outer_West_and_Blue_Mountains
+NT,Northern Territory - Outback,East Arnhem,Very Remote Australia,Sub-arterial Road,NT_East_Arnhem_Northern_Territory___Outback
+SA,South Australia - Outback,Port Lincoln,Remote Australia,Sub-arterial Road,SA_Port_Lincoln_South_Australia___Outback
+QLD,Queensland - Outback,Carpentaria,Very Remote Australia,Collector Road,QLD_Carpentaria_Queensland___Outback
+SA,Adelaide - North,Light,Inner Regional Australia,Sub-arterial Road,SA_Light_Adelaide___North
+NSW,Sydney - South West,Camden,Major Cities of Australia,Local Road,NSW_Camden_Sydney___South_West
+QLD,Queensland - Outback,Longreach,Very Remote Australia,National or State Highway,QLD_Longreach_Queensland___Outback
+NSW,Newcastle and Lake Macquarie,Maitland,Major Cities of Australia,National or State Highway,NSW_Maitland_Newcastle_and_Lake_Macquarie
+SA,South Australia - Outback,Lower Eyre Peninsula,Remote Australia,Local Road,SA_Lower_Eyre_Peninsula_South_Australia___Outback
+WA,Western Australia - Wheat Belt,York,Inner Regional Australia,Arterial Road,WA_York_Western_Australia___Wheat_Belt
+WA,Perth - South West,Rockingham,Major Cities of Australia,Arterial Road,WA_Rockingham_Perth___South_West
+WA,Western Australia - Wheat Belt,Plantagenet,Outer Regional Australia,National or State Highway,WA_Plantagenet_Western_Australia___Wheat_Belt
+WA,Perth - South West,Kwinana,Major Cities of Australia,National or State Highway,WA_Kwinana_Perth___South_West
+WA,Mandurah,Murray,Inner Regional Australia,Local Road,WA_Murray_Mandurah
+WA,Western Australia - Wheat Belt,Dumbleyung,Remote Australia,Arterial Road,WA_Dumbleyung_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (North),Port Hedland,Remote Australia,Local Road,WA_Port_Hedland_Western_Australia___Outback_(North)
+WA,Perth - North West,Stirling,Major Cities of Australia,Local Road,WA_Stirling_Perth___North_West
+SA,South Australia - South East,Robe,Outer Regional Australia,Arterial Road,SA_Robe_South_Australia___South_East
+WA,Perth - Inner,Cambridge,Major Cities of Australia,National or State Highway,WA_Cambridge_Perth___Inner
+WA,Perth - North West,Wanneroo,Major Cities of Australia,National or State Highway,WA_Wanneroo_Perth___North_West
+WA,Perth - South East,Gosnells,Major Cities of Australia,National or State Highway,WA_Gosnells_Perth___South_East
+WA,Western Australia - Wheat Belt,Dandaragan,Outer Regional Australia,National or State Highway,WA_Dandaragan_Western_Australia___Wheat_Belt
+NSW,Sydney - Ryde,The Hills,Major Cities of Australia,National or State Highway,NSW_The_Hills_Sydney___Ryde
+WA,Perth - South East,Serpentine-Jarrahdale,Major Cities of Australia,Arterial Road,WA_Serpentine_Jarrahdale_Perth___South_East
+WA,Mandurah,Mandurah,Major Cities of Australia,Local Road,WA_Mandurah_Mandurah
+WA,Western Australia - Wheat Belt,Woodanilling,Outer Regional Australia,Local Road,WA_Woodanilling_Western_Australia___Wheat_Belt
+NSW,Central West,Warrumbungle,Outer Regional Australia,National or State Highway,NSW_Warrumbungle_Central_West
+WA,Western Australia - Wheat Belt,Dowerin,Outer Regional Australia,Local Road,WA_Dowerin_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Kalgoorlie-Boulder,Outer Regional Australia,National or State Highway,WA_Kalgoorlie_Boulder_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (South),Greater Geraldton,Outer Regional Australia,Local Road,WA_Greater_Geraldton_Western_Australia___Outback_(South)
+WA,Bunbury,Harvey,Inner Regional Australia,Local Road,WA_Harvey_Bunbury
+WA,Perth - North East,Bayswater,Major Cities of Australia,Local Road,WA_Bayswater_Perth___North_East
+WA,Perth - North East,Swan,Major Cities of Australia,Local Road,WA_Swan_Perth___North_East
+QLD,Queensland - Outback,Doomadgee,Very Remote Australia,Collector Road,QLD_Doomadgee_Queensland___Outback
+QLD,Queensland - Outback,Croydon,Very Remote Australia,Sub-arterial Road,QLD_Croydon_Queensland___Outback
+WA,Western Australia - Wheat Belt,Albany,Outer Regional Australia,National or State Highway,WA_Albany_Western_Australia___Wheat_Belt
+TAS,South East,Central Highlands (Tas.),Outer Regional Australia,Access road,TAS_Central_Highlands_(Tas.)_South_East
+WA,Western Australia - Wheat Belt,Chittering,Inner Regional Australia,Arterial Road,WA_Chittering_Western_Australia___Wheat_Belt
+WA,Perth - South East,Canning,Major Cities of Australia,Arterial Road,WA_Canning_Perth___South_East
+WA,Western Australia - Outback (South),Perenjori,Remote Australia,Local Road,WA_Perenjori_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (South),Mount Magnet,Very Remote Australia,National or State Highway,WA_Mount_Magnet_Western_Australia___Outback_(South)
+WA,Bunbury,Donnybrook-Balingup,Inner Regional Australia,Local Road,WA_Donnybrook_Balingup_Bunbury
+QLD,Queensland - Outback,Hope Vale,Remote Australia,Local Road,QLD_Hope_Vale_Queensland___Outback
+WA,Bunbury,Augusta Margaret River,Outer Regional Australia,Arterial Road,WA_Augusta_Margaret_River_Bunbury
+WA,Perth - Inner,Vincent,Major Cities of Australia,National or State Highway,WA_Vincent_Perth___Inner
+WA,Western Australia - Wheat Belt,Wickepin,Outer Regional Australia,Arterial Road,WA_Wickepin_Western_Australia___Wheat_Belt
+VIC,Melbourne - North West,Melton,Major Cities of Australia,Sub-arterial Road,VIC_Melton_Melbourne___North_West
+WA,Perth - South West,Cockburn,Major Cities of Australia,Arterial Road,WA_Cockburn_Perth___South_West
+WA,Perth - South East,Victoria Park,Major Cities of Australia,National or State Highway,WA_Victoria_Park_Perth___South_East
+WA,Perth - South East,Armadale,Major Cities of Australia,Arterial Road,WA_Armadale_Perth___South_East
+WA,Bunbury,Bunbury,Inner Regional Australia,Arterial Road,WA_Bunbury_Bunbury
+WA,Western Australia - Wheat Belt,Gingin,Inner Regional Australia,Arterial Road,WA_Gingin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Moora,Remote Australia,Arterial Road,WA_Moora_Western_Australia___Wheat_Belt
+WA,Perth - Inner,Perth,Major Cities of Australia,Arterial Road,WA_Perth_Perth___Inner
+WA,Bunbury,Busselton,Inner Regional Australia,Local Road,WA_Busselton_Bunbury
+WA,Western Australia - Wheat Belt,Williams,Outer Regional Australia,Local Road,WA_Williams_Western_Australia___Wheat_Belt
+TAS,South East,Derwent Valley,Outer Regional Australia,Arterial Road,TAS_Derwent_Valley_South_East
+QLD,Queensland - Outback,Quilpie,Very Remote Australia,Sub-arterial Road,QLD_Quilpie_Queensland___Outback
+WA,Western Australia - Wheat Belt,Kojonup,Outer Regional Australia,Arterial Road,WA_Kojonup_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Mount Marshall,Remote Australia,Arterial Road,WA_Mount_Marshall_Western_Australia___Wheat_Belt
+SA,South Australia - South East,Kingston (SA),Outer Regional Australia,Arterial Road,SA_Kingston_(SA)_South_Australia___South_East
+WA,Western Australia - Outback (North),Karratha,Remote Australia,Local Road,WA_Karratha_Western_Australia___Outback_(North)
+SA,South Australia - Outback,Elliston,Very Remote Australia,Sub-arterial Road,SA_Elliston_South_Australia___Outback
+WA,Western Australia - Outback (South),Coolgardie,Very Remote Australia,Local Road,WA_Coolgardie_Western_Australia___Outback_(South)
+VIC,Melbourne - Inner South,Monash,Major Cities of Australia,Arterial Road,VIC_Monash_Melbourne___Inner_South
+WA,Western Australia - Outback (North),Derby-West Kimberley,Very Remote Australia,National or State Highway,WA_Derby_West_Kimberley_Western_Australia___Outback_(North)
+WA,Perth - North East,Mundaring,Inner Regional Australia,Local Road,WA_Mundaring_Perth___North_East
+WA,Perth - South East,Belmont,Major Cities of Australia,Local Road,WA_Belmont_Perth___South_East
+WA,Western Australia - Wheat Belt,Nungarin,Remote Australia,Local Road,WA_Nungarin_Western_Australia___Wheat_Belt
+VIC,Melbourne - Inner South,Bayside (Vic.),Major Cities of Australia,Arterial Road,VIC_Bayside_(Vic.)_Melbourne___Inner_South
+WA,Western Australia - Wheat Belt,Northam,Inner Regional Australia,Local Road,WA_Northam_Western_Australia___Wheat_Belt
+WA,Perth - South West,Melville,Major Cities of Australia,Local Road,WA_Melville_Perth___South_West
+WA,Perth - North East,Bassendean,Major Cities of Australia,Local Road,WA_Bassendean_Perth___North_East
+WA,Western Australia - Wheat Belt,Yilgarn,Remote Australia,National or State Highway,WA_Yilgarn_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (North),Broome,Very Remote Australia,Local Road,WA_Broome_Western_Australia___Outback_(North)
+WA,Western Australia - Outback (South),Chapman Valley,Remote Australia,Local Road,WA_Chapman_Valley_Western_Australia___Outback_(South)
+WA,Western Australia - Wheat Belt,Broomehill-Tambellup,Outer Regional Australia,Arterial Road,WA_Broomehill_Tambellup_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Meekatharra,Very Remote Australia,National or State Highway,WA_Meekatharra_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (South),Esperance,Remote Australia,National or State Highway,WA_Esperance_Western_Australia___Outback_(South)
+QLD,Moreton Bay - North,Sunshine Coast,Inner Regional Australia,Access road,QLD_Sunshine_Coast_Moreton_Bay___North
+WA,Bunbury,Capel,Inner Regional Australia,National or State Highway,WA_Capel_Bunbury
+WA,Western Australia - Outback (South),Dundas,Very Remote Australia,National or State Highway,WA_Dundas_Western_Australia___Outback_(South)
+NSW,Riverina,Federation,Outer Regional Australia,National or State Highway,NSW_Federation_Riverina
+WA,Western Australia - Wheat Belt,Lake Grace,Very Remote Australia,National or State Highway,WA_Lake_Grace_Western_Australia___Wheat_Belt
+WA,Bunbury,Dardanup,Inner Regional Australia,National or State Highway,WA_Dardanup_Bunbury
+WA,Western Australia - Wheat Belt,Kondinin,Very Remote Australia,Local Road,WA_Kondinin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Kent,Remote Australia,Arterial Road,WA_Kent_Western_Australia___Wheat_Belt
+NSW,Sydney - Inner West,Canada Bay,Major Cities of Australia,Collector Road,NSW_Canada_Bay_Sydney___Inner_West
+WA,Western Australia - Wheat Belt,Wagin,Outer Regional Australia,Local Road,WA_Wagin_Western_Australia___Wheat_Belt
+WA,Bunbury,Manjimup,Outer Regional Australia,Local Road,WA_Manjimup_Bunbury
+NSW,Sydney - Parramatta,Fairfield,Major Cities of Australia,Arterial Road,NSW_Fairfield_Sydney___Parramatta
+WA,Western Australia - Wheat Belt,Denmark,Outer Regional Australia,Local Road,WA_Denmark_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Boddington,Inner Regional Australia,Arterial Road,WA_Boddington_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Bruce Rock,Remote Australia,Arterial Road,WA_Bruce_Rock_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Kulin,Remote Australia,Local Road,WA_Kulin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Cuballing,Outer Regional Australia,Arterial Road,WA_Cuballing_Western_Australia___Wheat_Belt
+NSW,Hunter Valley exc Newcastle,Dungog,Outer Regional Australia,Local Road,NSW_Dungog_Hunter_Valley_exc_Newcastle
+WA,Western Australia - Outback (South),Carnarvon,Very Remote Australia,Local Road,WA_Carnarvon_Western_Australia___Outback_(South)
+VIC,North West,Hindmarsh,Outer Regional Australia,Local Road,VIC_Hindmarsh_North_West
+WA,Western Australia - Outback (North),Wyndham-East Kimberley,Very Remote Australia,National or State Highway,WA_Wyndham_East_Kimberley_Western_Australia___Outback_(North)
+WA,Western Australia - Wheat Belt,Beverley,Outer Regional Australia,National or State Highway,WA_Beverley_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Ravensthorpe,Very Remote Australia,National or State Highway,WA_Ravensthorpe_Western_Australia___Outback_(South)
+WA,Perth - North West,Joondalup,Major Cities of Australia,Local Road,WA_Joondalup_Perth___North_West
+SA,South Australia - Outback,Coober Pedy,Very Remote Australia,Local Road,SA_Coober_Pedy_South_Australia___Outback
+NT,Northern Territory - Outback,Katherine,Remote Australia,National or State Highway,NT_Katherine_Northern_Territory___Outback
+WA,Western Australia - Wheat Belt,Dalwallinu,Remote Australia,Local Road,WA_Dalwallinu_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Gnowangerup,Remote Australia,Arterial Road,WA_Gnowangerup_Western_Australia___Wheat_Belt
+VIC,Ballarat,Loddon,Inner Regional Australia,Arterial Road,VIC_Loddon_Ballarat
+WA,Western Australia - Wheat Belt,Wongan-Ballidu,Remote Australia,Arterial Road,WA_Wongan_Ballidu_Western_Australia___Wheat_Belt
+WA,Bunbury,Collie,Inner Regional Australia,Local Road,WA_Collie_Bunbury
+NSW,Riverina,Cootamundra-Gundagai,Outer Regional Australia,National or State Highway,NSW_Cootamundra_Gundagai_Riverina
+WA,Western Australia - Outback (North),East Pilbara,Very Remote Australia,National or State Highway,WA_East_Pilbara_Western_Australia___Outback_(North)
+WA,Western Australia - Outback (South),Menzies,Very Remote Australia,Local Road,WA_Menzies_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (North),Halls Creek,Very Remote Australia,Local Road,WA_Halls_Creek_Western_Australia___Outback_(North)
+WA,Western Australia - Outback (South),Irwin,Outer Regional Australia,National or State Highway,WA_Irwin_Western_Australia___Outback_(South)
+QLD,Cairns,Yarrabah,Outer Regional Australia,Local Road,QLD_Yarrabah_Cairns
+WA,Western Australia - Wheat Belt,Pingelly,Outer Regional Australia,Arterial Road,WA_Pingelly_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Cue,Very Remote Australia,National or State Highway,WA_Cue_Western_Australia___Outback_(South)
+WA,Perth - South East,Kalamunda,Major Cities of Australia,Arterial Road,WA_Kalamunda_Perth___South_East
+WA,Western Australia - Wheat Belt,Quairading,Outer Regional Australia,Arterial Road,WA_Quairading_Western_Australia___Wheat_Belt
+NSW,Sydney - City and Inner South,Randwick,Major Cities of Australia,Arterial Road,NSW_Randwick_Sydney___City_and_Inner_South
+QLD,Queensland - Outback,Mornington,Very Remote Australia,Local Road,QLD_Mornington_Queensland___Outback
+WA,Western Australia - Wheat Belt,Wandering,Outer Regional Australia,Arterial Road,WA_Wandering_Western_Australia___Wheat_Belt
+WA,Bunbury,Nannup,Outer Regional Australia,Arterial Road,WA_Nannup_Bunbury
+NSW,Far West and Orana,Broken Hill,Outer Regional Australia,Local Road,NSW_Broken_Hill_Far_West_and_Orana
+WA,Western Australia - Outback (South),Ngaanyatjarraku,Very Remote Australia,Arterial Road,WA_Ngaanyatjarraku_Western_Australia___Outback_(South)
+WA,Western Australia - Wheat Belt,Corrigin,Remote Australia,National or State Highway,WA_Corrigin_Western_Australia___Wheat_Belt
+SA,South Australia - Outback,Anangu Pitjantjatjara Yankunytjatjara,Very Remote Australia,Local Road,SA_Anangu_Pitjantjatjara_Yankunytjatjara_South_Australia___Outback
+WA,Perth - South West,Fremantle,Major Cities of Australia,Local Road,WA_Fremantle_Perth___South_West
+WA,Western Australia - Wheat Belt,Toodyay,Inner Regional Australia,Arterial Road,WA_Toodyay_Western_Australia___Wheat_Belt
+SA,South Australia - Outback,Streaky Bay,Very Remote Australia,Sub-arterial Road,SA_Streaky_Bay_South_Australia___Outback
+WA,Western Australia - Wheat Belt,Victoria Plains,Outer Regional Australia,Arterial Road,WA_Victoria_Plains_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Northampton,Remote Australia,Arterial Road,WA_Northampton_Western_Australia___Outback_(South)
+WA,Bunbury,Bridgetown-Greenbushes,Outer Regional Australia,National or State Highway,WA_Bridgetown_Greenbushes_Bunbury
+SA,South Australia - Outback,Kimba,Remote Australia,National or State Highway,SA_Kimba_South_Australia___Outback
+WA,Western Australia - Wheat Belt,Katanning,Outer Regional Australia,Arterial Road,WA_Katanning_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Jerramungup,Remote Australia,Arterial Road,WA_Jerramungup_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Carnamah,Remote Australia,Arterial Road,WA_Carnamah_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (North),Ashburton,Very Remote Australia,Arterial Road,WA_Ashburton_Western_Australia___Outback_(North)
+WA,Western Australia - Wheat Belt,West Arthur,Outer Regional Australia,Arterial Road,WA_West_Arthur_Western_Australia___Wheat_Belt
+SA,South Australia - South East,Mount Gambier,Outer Regional Australia,Collector Road,SA_Mount_Gambier_South_Australia___South_East
+WA,Perth - South East,South Perth,Major Cities of Australia,National or State Highway,WA_South_Perth_Perth___South_East
+WA,Western Australia - Wheat Belt,Brookton,Outer Regional Australia,National or State Highway,WA_Brookton_Western_Australia___Wheat_Belt
+QLD,Queensland - Outback,Burke,Very Remote Australia,Sub-arterial Road,QLD_Burke_Queensland___Outback
+WA,Perth - Inner,Nedlands,Major Cities of Australia,Local Road,WA_Nedlands_Perth___Inner
+WA,Perth - Inner,Stirling,Major Cities of Australia,Arterial Road,WA_Stirling_Perth___Inner
+SA,South Australia - Outback,Franklin Harbour,Remote Australia,Arterial Road,SA_Franklin_Harbour_South_Australia___Outback
+WA,Bunbury,Waroona,Inner Regional Australia,National or State Highway,WA_Waroona_Bunbury
+WA,Western Australia - Wheat Belt,Cunderdin,Outer Regional Australia,National or State Highway,WA_Cunderdin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Cranbrook,Outer Regional Australia,National or State Highway,WA_Cranbrook_Western_Australia___Wheat_Belt
+NSW,Murray,Murrumbidgee,Outer Regional Australia,Arterial Road,NSW_Murrumbidgee_Murray
+NSW,Sydney - Eastern Suburbs,Sydney,Major Cities of Australia,Arterial Road,NSW_Sydney_Sydney___Eastern_Suburbs
+WA,Western Australia - Wheat Belt,Kellerberrin,Outer Regional Australia,National or State Highway,WA_Kellerberrin_Western_Australia___Wheat_Belt
+WA,Perth - North East,Kalamunda,Inner Regional Australia,Arterial Road,WA_Kalamunda_Perth___North_East
+VIC,Ballarat,Ararat,Inner Regional Australia,National or State Highway,VIC_Ararat_Ballarat
+NT,Northern Territory - Outback,Wagait,Remote Australia,Sub-arterial Road,NT_Wagait_Northern_Territory___Outback
+QLD,Queensland - Outback,Weipa,Very Remote Australia,Local Road,QLD_Weipa_Queensland___Outback
+SA,Adelaide - North,Barossa,Major Cities of Australia,Collector Road,SA_Barossa_Adelaide___North
+QLD,Queensland - Outback,Pormpuraaw,Very Remote Australia,Local Road,QLD_Pormpuraaw_Queensland___Outback
+NSW,Far West and Orana,Bourke,Very Remote Australia,Arterial Road,NSW_Bourke_Far_West_and_Orana
+NSW,Coffs Harbour - Grafton,Richmond Valley,Outer Regional Australia,Arterial Road,NSW_Richmond_Valley_Coffs_Harbour___Grafton
+VIC,Hume,Unincorporated Vic,Outer Regional Australia,Arterial Road,VIC_Unincorporated_Vic_Hume
+VIC,Hume,Greater Shepparton,Inner Regional Australia,National or State Highway,VIC_Greater_Shepparton_Hume
+QLD,Townsville,Palm Island,Remote Australia,Local Road,QLD_Palm_Island_Townsville
+NT,Northern Territory - Outback,West Daly,Very Remote Australia,Access road,NT_West_Daly_Northern_Territory___Outback
+WA,Perth - Inner,Mosman Park,Major Cities of Australia,National or State Highway,WA_Mosman_Park_Perth___Inner
+WA,Western Australia - Wheat Belt,Narrogin,Outer Regional Australia,Local Road,WA_Narrogin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Merredin,Remote Australia,Local Road,WA_Merredin_Western_Australia___Wheat_Belt
+WA,Western Australia - Wheat Belt,Westonia,Remote Australia,National or State Highway,WA_Westonia_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Morawa,Remote Australia,Local Road,WA_Morawa_Western_Australia___Outback_(South)
+WA,Perth - Inner,Claremont,Major Cities of Australia,Arterial Road,WA_Claremont_Perth___Inner
+WA,Western Australia - Outback (South),Mingenew,Outer Regional Australia,Local Road,WA_Mingenew_Western_Australia___Outback_(South)
+WA,Western Australia - Wheat Belt,Murray,Inner Regional Australia,Local Road,WA_Murray_Western_Australia___Wheat_Belt
+NSW,Sydney - Parramatta,The Hills,Major Cities of Australia,National or State Highway,NSW_The_Hills_Sydney___Parramatta
+WA,Western Australia - Wheat Belt,Goomalling,Outer Regional Australia,Local Road,WA_Goomalling_Western_Australia___Wheat_Belt
+WA,Perth - Inner,Subiaco,Major Cities of Australia,Arterial Road,WA_Subiaco_Perth___Inner
+WA,Western Australia - Wheat Belt,Trayning,Remote Australia,Arterial Road,WA_Trayning_Western_Australia___Wheat_Belt
+WA,Western Australia - Outback (South),Shark Bay,Very Remote Australia,National or State Highway,WA_Shark_Bay_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (South),Exmouth,Very Remote Australia,Arterial Road,WA_Exmouth_Western_Australia___Outback_(South)
+WA,Western Australia - Outback (South),Sandstone,Very Remote Australia,Arterial Road,WA_Sandstone_Western_Australia___Outback_(South)
+VIC,Warrnambool and South West,Surf Coast,Inner Regional Australia,Local Road,VIC_Surf_Coast_Warrnambool_and_South_West
+WA,Bunbury,Boyup Brook,Outer Regional Australia,Arterial Road,WA_Boyup_Brook_Bunbury
+WA,Perth - Inner,Cottesloe ,Major Cities of Australia,Local Road,WA_Cottesloe__Perth___Inner
+WA,Western Australia - Outback (South),Leonora,Very Remote Australia,National or State Highway,WA_Leonora_Western_Australia___Outback_(South)
